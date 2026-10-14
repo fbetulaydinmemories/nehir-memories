@@ -1,0 +1,287 @@
+{
+  "verified_on": "2026-10-15",
+  "status": "2019 onaylı görsel ve ses seti",
+  "notes": "Kayıtlar gerçek okulun/kişilerin/gezi anının kayıtları değildir. CC0 ve PD-author kayıtlarından ortam miksleri. Freesound halka açık HQ MP3 önizlemeleri ve Commons orijinal kayıtları kullanıldı. Ses taklidi veya uydurma anlaşılır diyalog yok. Teknik düzey/dosya kontrolleri yapılmıştır; dinleyerek kontrol yapılmamıştır.",
+  "scenes": [
+    {
+      "file": "2019_01_new_school.mp3",
+      "image": "2019_01_new_school.webp",
+      "layers": [
+        "corridor",
+        "locker",
+        "bell"
+      ],
+      "duration_seconds": 58.5,
+      "rms": 0.027,
+      "peak": 0.08603456909979984,
+      "changes": "Kaynak kayıt kesitleri; konuşmalara düşük geçiren filtre; seyrek efektler; hafif tepe sıkıştırma/RMS ayarı; 1.5 sn döngü birleşimi; stereo MP3 80 kbps."
+    },
+    {
+      "file": "2019_02_archery.mp3",
+      "image": "2019_02_archery.webp",
+      "layers": [
+        "air",
+        "classroom",
+        "bow",
+        "arrow"
+      ],
+      "duration_seconds": 58.5,
+      "rms": 0.021999999999999995,
+      "peak": 0.07691704392724817,
+      "changes": "Kaynak kayıt kesitleri; konuşmalara düşük geçiren filtre; seyrek efektler; hafif tepe sıkıştırma/RMS ayarı; 1.5 sn döngü birleşimi; stereo MP3 80 kbps."
+    },
+    {
+      "file": "2019_03_volleyball.mp3",
+      "image": "2019_03_volleyball.webp",
+      "layers": [
+        "garden",
+        "visitors",
+        "ball"
+      ],
+      "duration_seconds": 58.5,
+      "rms": 0.026999999999999996,
+      "peak": 0.08896151102482061,
+      "changes": "Kaynak kayıt kesitleri; konuşmalara düşük geçiren filtre; seyrek efektler; hafif tepe sıkıştırma/RMS ayarı; 1.5 sn döngü birleşimi; stereo MP3 80 kbps."
+    },
+    {
+      "file": "2019_04_classroom.mp3",
+      "image": "2019_04_classroom.webp",
+      "layers": [
+        "classroom",
+        "air",
+        "pencil",
+        "page"
+      ],
+      "duration_seconds": 58.5,
+      "rms": 0.027,
+      "peak": 0.0839409496768097,
+      "changes": "Kaynak kayıt kesitleri; konuşmalara düşük geçiren filtre; seyrek efektler; hafif tepe sıkıştırma/RMS ayarı; 1.5 sn döngü birleşimi; stereo MP3 80 kbps."
+    },
+    {
+      "file": "2019_05_reading_club.mp3",
+      "image": "2019_05_reading_club.webp",
+      "layers": [
+        "library",
+        "classroom",
+        "page"
+      ],
+      "duration_seconds": 58.5,
+      "rms": 0.022,
+      "peak": 0.08332769515216275,
+      "changes": "Kaynak kayıt kesitleri; konuşmalara düşük geçiren filtre; seyrek efektler; hafif tepe sıkıştırma/RMS ayarı; 1.5 sn döngü birleşimi; stereo MP3 80 kbps."
+    },
+    {
+      "file": "2019_06_robotics.mp3",
+      "image": "2019_06_robotics.webp",
+      "layers": [
+        "air",
+        "classroom",
+        "keyboard",
+        "motor",
+        "bricks"
+      ],
+      "duration_seconds": 58.5,
+      "rms": 0.027,
+      "peak": 0.0884091351729526,
+      "changes": "Kaynak kayıt kesitleri; konuşmalara düşük geçiren filtre; seyrek efektler; hafif tepe sıkıştırma/RMS ayarı; 1.5 sn döngü birleşimi; stereo MP3 80 kbps."
+    },
+    {
+      "file": "2019_07_corridor.mp3",
+      "image": "2019_07_corridor.webp",
+      "layers": [
+        "corridor",
+        "cup",
+        "locker",
+        "laugh",
+        "bell"
+      ],
+      "duration_seconds": 58.5,
+      "rms": 0.022,
+      "peak": 0.08257594119275387,
+      "changes": "Kaynak kayıt kesitleri; konuşmalara düşük geçiren filtre; seyrek efektler; hafif tepe sıkıştırma/RMS ayarı; 1.5 sn döngü birleşimi; stereo MP3 80 kbps."
+    }
+  ],
+  "recordings": [
+    {
+      "key": "bell",
+      "author": "payattention",
+      "source": "https://freesound.org/people/payattention/sounds/81003/",
+      "title": "Freesound - School Bell.mp3 by payattention",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "key": "bow",
+      "author": "Ali_6868",
+      "source": "https://freesound.org/people/Ali_6868/sounds/384915/",
+      "title": "Freesound - Bow Release (Bow and Arrow) by Ali_6868",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "key": "motor",
+      "author": "Burningmonkey",
+      "source": "https://freesound.org/people/Burningmonkey/sounds/322021/",
+      "title": "Freesound - Servo motor by Burningmonkey",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "key": "arrow",
+      "author": "Ali_6868",
+      "source": "https://freesound.org/people/Ali_6868/sounds/384913/",
+      "title": "Freesound - Arrow Impact 2 by Ali_6868",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "key": "locker",
+      "author": "bsumusictech",
+      "source": "https://freesound.org/people/bsumusictech/sounds/62645/",
+      "title": "Freesound - locker open close.wav by bsumusictech",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "key": "cup",
+      "author": "bbrocer",
+      "source": "https://freesound.org/people/bbrocer/sounds/382668/",
+      "title": "Freesound - Glass Cup Set Down.wav by bbrocer",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "key": "bricks",
+      "author": "rioforce",
+      "source": "https://freesound.org/people/rioforce/sounds/233666/",
+      "title": "Freesound - LEGO Shake (2 times) by rioforce",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "key": "keyboard",
+      "author": "Breviceps",
+      "source": "https://freesound.org/people/Breviceps/sounds/447909/",
+      "title": "Freesound - Keyboard typing by Breviceps",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "key": "ball",
+      "author": "conradts",
+      "source": "https://freesound.org/people/conradts/sounds/190559/",
+      "title": "Freesound - bounce 1.wav by conradts",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "scene": "Kütüphane",
+      "file": "library.mp3",
+      "title": "Quiet library ambience",
+      "author": "xkeril",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "changes": "15–63 saniye kesiti; filtreleme, düzey ayarı, bir saniyelik döngü birleşimi; MP3 80 kbps.",
+      "key": "library",
+      "source": "https://freesound.org/people/xkeril/sounds/620683/",
+      "attribution_required": false
+    },
+    {
+      "scene": "Koridor",
+      "file": "corridor.mp3",
+      "title": "AMB_School_Hallway_001.wav",
+      "author": "conleec",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "changes": "15–67 saniye kesiti; filtreleme, düzey ayarı ve döngü birleşimi; MP3 80 kbps.",
+      "key": "corridor",
+      "source": "https://freesound.org/people/conleec/sounds/159740/",
+      "attribution_required": false
+    },
+    {
+      "scene": "Sınıf",
+      "file": "classroom.mp3",
+      "title": "Ambient classroom mono",
+      "author": "rcrossley",
+      "license": "Public domain (PD-author)",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Ambient_classroom_mono.ogg#Licensing",
+      "changes": "4–56 saniye kesiti; konuşmaları geri planda tutan filtreleme, düzey ayarı ve döngü birleşimi; MP3 80 kbps.",
+      "key": "classroom",
+      "source": "https://commons.wikimedia.org/wiki/File:Ambient_classroom_mono.ogg",
+      "attribution_required": false
+    },
+    {
+      "scene": "Yemekhane / deneme sınavı",
+      "file": "exam.mp3",
+      "title": "Pencil scratchings",
+      "author": "gypsygirl",
+      "license": "Public domain (PD-author)",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Pencil_scratchings.ogg#Licensing",
+      "changes": "12–60 saniye kesiti; aşağıdaki sayfa çevirme kaydıyla miks, filtreleme, düzey ayarı ve döngü birleşimi; MP3 80 kbps.",
+      "key": "pencil",
+      "source": "https://commons.wikimedia.org/wiki/File:Pencil_scratchings.ogg",
+      "attribution_required": false
+    },
+    {
+      "scene": "Yemekhane / deneme sınavı",
+      "file": "exam.mp3",
+      "title": "Turning a page",
+      "author": "planish",
+      "license": "Public domain (PD-author)",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Turning_a_page.ogg#Licensing",
+      "changes": "Kalem miksine 5, 17, 29 ve 41. saniyelerde düşük düzeyde yerleştirildi.",
+      "key": "page",
+      "source": "https://commons.wikimedia.org/wiki/File:Turning_a_page.ogg",
+      "attribution_required": false
+    },
+    {
+      "key": "air",
+      "title": "Freesound - Air Conditioner by sonically_sound",
+      "author": "sonically_sound",
+      "preview": "https://cdn.freesound.org/previews/625/625224_12946258-hq.mp3",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false,
+      "source": "https://freesound.org/people/sonically_sound/sounds/625224/"
+    },
+    {
+      "key": "garden",
+      "title": "Freesound - Spring Evening Park Ambience by Colonnades",
+      "author": "Colonnades",
+      "preview": "https://cdn.freesound.org/previews/805/805344_11666191-hq.mp3",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false,
+      "source": "https://freesound.org/people/Colonnades/sounds/805344/"
+    },
+    {
+      "key": "visitors",
+      "title": "Freesound - URBAN PARK AMBIENCE by Elenalostale",
+      "author": "Elenalostale",
+      "preview": "https://cdn.freesound.org/previews/648/648658_10933546-hq.mp3",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false,
+      "source": "https://freesound.org/people/Elenalostale/sounds/648658/"
+    },
+    {
+      "key": "laugh",
+      "title": "Freesound - Female crowd laughing by kikorurelas",
+      "author": "kikorurelas",
+      "preview": "https://cdn.freesound.org/previews/767/767470_6252416-hq.mp3",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false,
+      "source": "https://freesound.org/people/kikorurelas/sounds/767470/"
+    }
+  ]
+}
