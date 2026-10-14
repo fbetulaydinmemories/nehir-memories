@@ -5,11 +5,12 @@ const toggle=document.getElementById('timeline-music');
 const chapter2017=document.getElementById('memory2017');
 const chapter2018=document.getElementById('chapter2018');
 const panel=document.getElementById('panel');
+const summer=document.getElementById('summer2018');
 const schoolAudio=document.getElementById('memory-audio');
 let enabled=false,context=null,bufferPromise=null,source=null,gain=null,started=0,offset=0,epoch=0;
 let last2017Reading=false,was2017Open=false,raf=0;
 function reading(chapter,story){if(!chapter.classList.contains(chapter===chapter2017?'open':'is-open'))return false;const boundary=story.getBoundingClientRect().top-chapter.getBoundingClientRect().top+chapter.scrollTop;return chapter.scrollTop>=boundary-1;}
-function allowed(){if(document.hidden||panel.classList.contains('show'))return false;if(chapter2017.classList.contains('open'))return reading(chapter2017,document.getElementById('memory-story'));if(chapter2018.classList.contains('is-open'))return reading(chapter2018,document.getElementById('chapter2018-story'));return true;}
+function allowed(){if(document.hidden||summer.classList.contains('is-open')||panel.classList.contains('show'))return false;if(chapter2017.classList.contains('open'))return reading(chapter2017,document.getElementById('memory-story'));if(chapter2018.classList.contains('is-open'))return reading(chapter2018,document.getElementById('chapter2018-story'));return true;}
 function stop(){epoch++;if(source){offset=(offset+context.currentTime-started)%source.buffer.duration;try{source.stop();}catch(error){}source.disconnect();gain.disconnect();source=null;gain=null;}}
 function label(){toggle.textContent=enabled?'Müzik açık':'Müzik kapalı';toggle.setAttribute('aria-pressed',String(enabled));toggle.setAttribute('aria-label',enabled?'Timeline ve hikâye piyanosunu kapat':'Timeline ve hikâye piyanosunu aç');}
 function buffer(){if(!bufferPromise){bufferPromise=fetch('assets/2018/audio/reading-piano.mp3').then(r=>{if(!r.ok)throw Error('Piano HTTP '+r.status);return r.arrayBuffer();}).then(bytes=>context.decodeAudioData(bytes));bufferPromise.catch(()=>bufferPromise=null);}return bufferPromise;}
@@ -27,7 +28,7 @@ document.getElementById('memory-sound').addEventListener('click',()=>{const play
 schoolAudio.addEventListener('play',()=>{if(reading(chapter2017,document.getElementById('memory-story')))schoolAudio.pause();});
 function schedule(){if(raf)return;raf=requestAnimationFrame(()=>{raf=0;sync();});}
 chapter2017.addEventListener('scroll',schedule,{passive:true});chapter2018.addEventListener('scroll',schedule,{passive:true});
-const observer=new MutationObserver(()=>sync());for(const element of [chapter2017,chapter2018,panel])observer.observe(element,{attributes:true,attributeFilter:['class']});
+const observer=new MutationObserver(()=>sync());for(const element of [chapter2017,chapter2018,panel,summer])observer.observe(element,{attributes:true,attributeFilter:['class']});
 // Capture the original timeline activation so music stops before opening a destination.
 document.getElementById('track').addEventListener('click',event=>{if(event.target.closest('.node'))stop();},true);
 document.addEventListener('visibilitychange',()=>{if(document.hidden)stop();else if(enabled&&context)context.resume().then(()=>sync()).catch(()=>{});});
