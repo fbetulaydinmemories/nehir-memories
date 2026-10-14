@@ -1,0 +1,76 @@
+{
+  "verified_on": "2026-10-14",
+  "notes": "Freesound kayıtları sayfalarda halka açık sunulan HQ MP3 önizlemelerinden; Commons kayıtları orijinal dosyalarından alındı. Bunlar gerçek okulun kayıtları değil, atmosfer için seçilmiş kayıtlar. Yapay ses veya kişilerin ses taklidi yok.",
+  "recordings": [
+    {
+      "scene": "Kütüphane",
+      "file": "library.mp3",
+      "title": "Quiet library ambience",
+      "author": "xkeril",
+      "url": "https://freesound.org/people/xkeril/sounds/620683/",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "changes": "15–63 saniye kesiti; filtreleme, düzey ayarı, bir saniyelik döngü birleşimi; MP3 80 kbps."
+    },
+    {
+      "scene": "Yemekhane / deneme sınavı",
+      "file": "exam.mp3",
+      "title": "Pencil scratchings",
+      "author": "gypsygirl",
+      "url": "https://commons.wikimedia.org/wiki/File:Pencil_scratchings.ogg",
+      "license": "Public domain (PD-author)",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Pencil_scratchings.ogg#Licensing",
+      "changes": "12–60 saniye kesiti; aşağıdaki sayfa çevirme kaydıyla miks, filtreleme, düzey ayarı ve döngü birleşimi; MP3 80 kbps."
+    },
+    {
+      "scene": "Yemekhane / deneme sınavı",
+      "file": "exam.mp3",
+      "title": "Turning a page",
+      "author": "planish",
+      "url": "https://commons.wikimedia.org/wiki/File:Turning_a_page.ogg",
+      "license": "Public domain (PD-author)",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Turning_a_page.ogg#Licensing",
+      "changes": "Kalem miksine 5, 17, 29 ve 41. saniyelerde düşük düzeyde yerleştirildi."
+    },
+    {
+      "scene": "Sınıf",
+      "file": "classroom.mp3",
+      "title": "Ambient classroom mono",
+      "author": "rcrossley",
+      "url": "https://commons.wikimedia.org/wiki/File:Ambient_classroom_mono.ogg",
+      "license": "Public domain (PD-author)",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Ambient_classroom_mono.ogg#Licensing",
+      "changes": "4–56 saniye kesiti; konuşmaları geri planda tutan filtreleme, düzey ayarı ve döngü birleşimi; MP3 80 kbps."
+    },
+    {
+      "scene": "Voleybol",
+      "file": "gymnasium.mp3",
+      "title": "Volleyball ambience.mp3",
+      "author": "Rinus_Marais",
+      "url": "https://freesound.org/people/Rinus_Marais/sounds/655469/",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "changes": "2–57 saniye kesiti; filtreleme, düzey ayarı ve döngü birleşimi; MP3 80 kbps."
+    },
+    {
+      "scene": "Koridor",
+      "file": "corridor.mp3",
+      "title": "AMB_School_Hallway_001.wav",
+      "author": "conleec",
+      "url": "https://freesound.org/people/conleec/sounds/159740/",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "changes": "15–67 saniye kesiti; filtreleme, düzey ayarı ve döngü birleşimi; MP3 80 kbps."
+    },
+    {
+      "scene": "Ponçiğim / okuma",
+      "file": "reading-piano.mp3",
+      "title": "Sleepy Upright Piano Seamless Loop",
+      "author": "blankie.rest",
+      "url": "https://freesound.org/people/blankie.rest/sounds/859607/",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "changes": "Tam piyano döngüsü; yalnızca düzey ayarı ve MP3 80 kbps dönüşümü."
+    }
+  ]
+}
