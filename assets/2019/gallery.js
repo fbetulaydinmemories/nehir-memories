@@ -1,6 +1,7 @@
 
 (() => {
 'use strict';
+const favicon=document.querySelector('link[rel="icon"]')||document.createElement('link');favicon.rel='icon';favicon.type='image/svg+xml';favicon.href='assets/moon-star-favicon.svg';document.head.appendChild(favicon);
 const gallery=document.getElementById('school2019'),slides=document.getElementById('school2019-slides'),back=document.getElementById('school2019-return'),prev=document.getElementById('school2019-prev'),next=document.getElementById('school2019-next');
 const locations=['Yeni okul','Okçuluk','Bahçede voleybol','Sınıf','Nehir’in kitap kulübü','Betül’ün robotik çalışması','Çay ve koridor sohbetleri'];let origin=null,current=0,lastWheel=0;const read=document.getElementById('school2019-read');
 
