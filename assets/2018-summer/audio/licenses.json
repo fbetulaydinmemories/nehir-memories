@@ -1,0 +1,241 @@
+{
+  "verified_on": "2026-10-15",
+  "notes": "Bunlar gerçek gezinin veya bu mekânların kayıtları değildir; lisanslı ortam kayıtlarından mikslerdir. Freesound HQ önizlemeleri kullanıldı. Ses taklidi, uydurma diyalog ve ticari müzik yok. Okuma piyanosu mevcut 2018 dosyasından kullanılacak.",
+  "soundscapes": {
+    "bus": {
+      "file": "bus.mp3",
+      "layers": [
+        "engine",
+        "voices",
+        "laugh",
+        "fabric"
+      ],
+      "seconds": 58.5,
+      "rms": 0.028,
+      "peak": 0.07363660585067737,
+      "changes": "Filtreleme, seyrek düşük seviyeli efektler, hafif tepe sıkıştırma ve RMS düzeyi ayarı, 1.5 sn döngü birleşimi; stereo 32 kHz MP3 80 kbps."
+    },
+    "canakkale": {
+      "file": "canakkale.mp3",
+      "layers": [
+        "quietpark",
+        "feet"
+      ],
+      "seconds": 58.5,
+      "rms": 0.028,
+      "peak": 0.08698526325954108,
+      "changes": "Filtreleme, seyrek düşük seviyeli efektler, hafif tepe sıkıştırma ve RMS düzeyi ayarı, 1.5 sn döngü birleşimi; stereo 32 kHz MP3 80 kbps."
+    },
+    "miniaturk": {
+      "file": "miniaturk.mp3",
+      "layers": [
+        "visitors",
+        "garden",
+        "feet",
+        "camera"
+      ],
+      "seconds": 58.5,
+      "rms": 0.027999999999999997,
+      "peak": 0.0893166154735557,
+      "changes": "Filtreleme, seyrek düşük seviyeli efektler, hafif tepe sıkıştırma ve RMS düzeyi ayarı, 1.5 sn döngü birleşimi; stereo 32 kHz MP3 80 kbps."
+    },
+    "room": {
+      "file": "room.mp3",
+      "layers": [
+        "air",
+        "voices",
+        "laugh",
+        "fabric",
+        "corridor"
+      ],
+      "seconds": 58.5,
+      "rms": 0.022000000000000002,
+      "peak": 0.06904853117997636,
+      "changes": "Filtreleme, seyrek düşük seviyeli efektler, hafif tepe sıkıştırma ve RMS düzeyi ayarı, 1.5 sn döngü birleşimi; stereo 32 kHz MP3 80 kbps."
+    },
+    "ferry": {
+      "file": "ferry.mp3",
+      "layers": [
+        "ferry",
+        "sea",
+        "voices"
+      ],
+      "seconds": 58.5,
+      "rms": 0.028,
+      "peak": 0.08228590162364968,
+      "changes": "Filtreleme, seyrek düşük seviyeli efektler, hafif tepe sıkıştırma ve RMS düzeyi ayarı, 1.5 sn döngü birleşimi; stereo 32 kHz MP3 80 kbps."
+    },
+    "kartal": {
+      "file": "kartal.mp3",
+      "layers": [
+        "sea",
+        "visitors",
+        "feet"
+      ],
+      "seconds": 58.5,
+      "rms": 0.028000000000000004,
+      "peak": 0.09472961071040678,
+      "changes": "Filtreleme, seyrek düşük seviyeli efektler, hafif tepe sıkıştırma ve RMS düzeyi ayarı, 1.5 sn döngü birleşimi; stereo 32 kHz MP3 80 kbps."
+    },
+    "garden": {
+      "file": "garden.mp3",
+      "layers": [
+        "garden",
+        "voices",
+        "laugh"
+      ],
+      "seconds": 58.5,
+      "rms": 0.021999999999999995,
+      "peak": 0.08530271821449138,
+      "changes": "Filtreleme, seyrek düşük seviyeli efektler, hafif tepe sıkıştırma ve RMS düzeyi ayarı, 1.5 sn döngü birleşimi; stereo 32 kHz MP3 80 kbps."
+    }
+  },
+  "recordings": [
+    {
+      "key": "garden",
+      "title": "Freesound - Spring Evening Park Ambience by Colonnades",
+      "author": "Colonnades",
+      "url": "https://freesound.org/people/Colonnades/sounds/805344/",
+      "preview": "https://cdn.freesound.org/previews/805/805344_11666191-hq.mp3",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "key": "visitors",
+      "title": "Freesound - URBAN PARK AMBIENCE by Elenalostale",
+      "author": "Elenalostale",
+      "url": "https://freesound.org/people/Elenalostale/sounds/648658/",
+      "preview": "https://cdn.freesound.org/previews/648/648658_10933546-hq.mp3",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "key": "feet",
+      "title": "Freesound - Soft Footsteps on Gravel by Colonnades",
+      "author": "Colonnades",
+      "url": "https://freesound.org/people/Colonnades/sounds/856191/",
+      "preview": "https://cdn.freesound.org/previews/856/856191_11666191-hq.mp3",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "key": "laugh",
+      "title": "Freesound - Female crowd laughing by kikorurelas",
+      "author": "kikorurelas",
+      "url": "https://freesound.org/people/kikorurelas/sounds/767470/",
+      "preview": "https://cdn.freesound.org/previews/767/767470_6252416-hq.mp3",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "key": "quietpark",
+      "title": "Freesound - Soft City Park Ambience by simgo",
+      "author": "simgo",
+      "url": "https://freesound.org/people/simgo/sounds/380687/",
+      "preview": "https://cdn.freesound.org/previews/380/380687_5734792-hq.mp3",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "key": "camera",
+      "title": "Freesound - Camera Shutter by roachpowder",
+      "author": "roachpowder",
+      "url": "https://freesound.org/people/roachpowder/sounds/170229/",
+      "preview": "https://cdn.freesound.org/previews/170/170229_3133582-hq.mp3",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "key": "engine",
+      "title": "Freesound - bus_engine_near_heating.WAV by ivolipa",
+      "author": "ivolipa",
+      "url": "https://freesound.org/people/ivolipa/sounds/264551/",
+      "preview": "https://cdn.freesound.org/previews/264/264551_3474310-hq.mp3",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "key": "air",
+      "title": "Freesound - Air Conditioner by sonically_sound",
+      "author": "sonically_sound",
+      "url": "https://freesound.org/people/sonically_sound/sounds/625224/",
+      "preview": "https://cdn.freesound.org/previews/625/625224_12946258-hq.mp3",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "key": "sea",
+      "title": "Freesound - A quiet seaside seagulls distant by selcukartut",
+      "author": "selcukartut",
+      "url": "https://freesound.org/people/selcukartut/sounds/546565/",
+      "preview": "https://cdn.freesound.org/previews/546/546565_778707-hq.mp3",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "key": "ferry",
+      "title": "Freesound - Ferry Boat Ambience by Sotiris_Laskaris",
+      "author": "Sotiris_Laskaris",
+      "url": "https://freesound.org/people/Sotiris_Laskaris/sounds/578477/",
+      "preview": "https://cdn.freesound.org/previews/578/578477_1808988-hq.mp3",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "key": "fabric",
+      "title": "Freesound - Soft Fabric Rustle by IENBA",
+      "author": "IENBA",
+      "url": "https://freesound.org/people/IENBA/sounds/850705/",
+      "preview": "https://cdn.freesound.org/previews/850/850705_9616576-hq.mp3",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false
+    },
+    {
+      "scene": "Sınıf",
+      "file": "classroom.mp3",
+      "title": "Ambient classroom mono",
+      "author": "rcrossley",
+      "url": "https://commons.wikimedia.org/wiki/File:Ambient_classroom_mono.ogg",
+      "license": "Public domain (PD-author)",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Ambient_classroom_mono.ogg#Licensing",
+      "changes": "4–56 saniye kesiti; konuşmaları geri planda tutan filtreleme, düzey ayarı ve döngü birleşimi; MP3 80 kbps.",
+      "key": "voices",
+      "attribution_required": false
+    },
+    {
+      "scene": "Koridor",
+      "file": "corridor.mp3",
+      "title": "AMB_School_Hallway_001.wav",
+      "author": "conleec",
+      "url": "https://freesound.org/people/conleec/sounds/159740/",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "changes": "15–67 saniye kesiti; filtreleme, düzey ayarı ve döngü birleşimi; MP3 80 kbps.",
+      "key": "corridor",
+      "attribution_required": false
+    },
+    {
+      "scene": "Ponçiğim / okuma",
+      "file": "reading-piano.mp3",
+      "title": "Sleepy Upright Piano Seamless Loop",
+      "author": "blankie.rest",
+      "url": "https://freesound.org/people/blankie.rest/sounds/859607/",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "changes": "Tam piyano döngüsü; düzey ayarı ve mono MP3 48 kbps dönüşümü.",
+      "key": "piano",
+      "attribution_required": false
+    }
+  ]
+}
