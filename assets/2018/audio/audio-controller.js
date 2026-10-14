@@ -5,7 +5,7 @@ const chapter=document.getElementById('chapter2018');
 const slides=document.getElementById('chapter2018-slides');
 const button=document.getElementById('chapter2018-sound');
 const status=document.getElementById('chapter2018-audio-status');
-const sources=['library.mp3','exam.mp3','classroom.mp3','gymnasium.mp3','corridor.mp3','reading-piano.mp3'];
+const sources=['library.mp3','exam.mp3','classroom.mp3','gymnasium.mp3','corridor.mp3'];
 const levels=[.55,.5,.45,.5,.45,.32];
 class ChapterAudio {
  constructor(){this.enabled=false;this.context=null;this.buffers=new Map();this.voices=new Map();this.offsets=new Map();this.epoch=0;this.target=-1;this.fade=1.6;this.frame=0;}
@@ -20,7 +20,7 @@ class ChapterAudio {
  stop(){this.epoch++;this.target=-1;for(const voice of [...this.voices.values()])this.dispose(voice);}
  schedule(){if(this.frame)return;this.frame=requestAnimationFrame(()=>{this.frame=0;this.sync();});}
  async sync(){if(!this.enabled||!this.context||!this.active()){if(this.voices.size||this.target!==-1)this.stop();return;}
- const scene=this.location();const level=this.volume(scene);
+ const scene=this.location();if(scene===5){this.stop();return;}const level=this.volume(scene);
  if(scene===this.target){const voice=this.voices.get(scene);if(voice&&Math.abs(voice.to-level)>.015)this.ramp(voice,level,.3);return;}
  this.target=scene;const epoch=++this.epoch;
  try{const buffer=await this.buffer(scene);if(epoch!==this.epoch||!this.enabled||!this.active()||scene!==this.location())return;status.textContent='';
@@ -46,3 +46,4 @@ addEventListener('pagehide',()=>controller.stop());addEventListener('resize',()=
 chapter.addEventListener('keydown',event=>{if(event.key!=='Tab')return;event.stopImmediatePropagation();const controls=[...chapter.querySelectorAll('button,[tabindex="0"],a[href]')].filter(element=>!element.disabled&&!element.hidden&&element.getClientRects().length);if(!controls.length)return;const first=controls[0],last=controls[controls.length-1];if(event.shiftKey&&document.activeElement===first){event.preventDefault();last.focus();}else if(!event.shiftKey&&document.activeElement===last){event.preventDefault();first.focus();}},true);
 controller.label();
 })();
+
