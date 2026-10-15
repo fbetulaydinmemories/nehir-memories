@@ -162,5 +162,42 @@
       "title": "Atılım Üniversitesi gezisi",
       "audio": "assets/2022/audio/2022_21_atilim_visit.mp3"
     }
+  ],
+  "beginnings2023": [
+    {
+      "image": "assets/2023/2023_01_betul_room.webp",
+      "title": "Betül’ün odasında",
+      "audio": "assets/2023/audio/2023_01_crying_in_room.mp3"
+    },
+    {
+      "image": "assets/2023/2023_02_cankaya_friends.webp",
+      "title": "Çankaya Üniversitesi’nde yeni arkadaşlar",
+      "audio": "assets/2023/audio/2023_02_cankaya_friends.mp3"
+    },
+    {
+      "image": "assets/2023/2023_03_atilim_friends.webp",
+      "title": "Nehir’in Atılım Üniversitesi’ndeki arkadaşları",
+      "audio": "assets/2023/audio/2023_03_atilim_friends.mp3"
+    },
+    {
+      "image": "assets/2023/2023_04_cankaya_lecture.webp",
+      "title": "Betül’ün Çankaya Üniversitesi’ndeki amfi dersi",
+      "audio": "assets/2023/audio/2023_04_cankaya_lecture.mp3"
+    },
+    {
+      "image": "assets/2023/2023_05_atilim_lecture.webp",
+      "title": "Nehir’in Atılım Üniversitesi’ndeki amfi dersi",
+      "audio": "assets/2023/audio/2023_05_atilim_lecture.mp3"
+    },
+    {
+      "image": "assets/2023/2023_06_pr_workshop.webp",
+      "title": "Halkla İlişkiler Atölyesinde çekim",
+      "audio": "assets/2023/audio/2023_06_pr_workshop.mp3"
+    },
+    {
+      "image": "assets/2023/2023_07_clinic_cafe.webp",
+      "title": "Clinic Cafe’de kahve",
+      "audio": "assets/2023/audio/2023_07_clinic_cafe.mp3"
+    }
   ]
 }

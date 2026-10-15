@@ -330,6 +330,16 @@
     "downloaded_sha256": "7835178e24f984b49a8e0bc31e2a60e4b865be27553d8948892c361bfb86377a"
   },
   {
+    "key": "sniff",
+    "source": "https://bigsoundbank.com/sniff-s0784.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/0784.mp3",
+    "title": "Sniff — Free Sound Effect Download | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "cee1b0db78142baf3b8a14cd6a1dba7b13ecc2519e4dcf06e841a5e250698d59"
+  },
+  {
     "key": "fan",
     "source": "https://bigsoundbank.com/computer-2-ventilation-s0126.html",
     "preview": "https://bigsoundbank.com/UPLOAD/mp3/0126.mp3",
@@ -398,6 +408,16 @@
     "license_url": "https://bigsoundbank.com/licenses.html",
     "author": "Joseph SARDIN / BigSoundBank (see source page)",
     "downloaded_sha256": "376f709ddea10dd7738a3438407376aabf3e190513a149b31ca10264cc26ebcc"
+  },
+  {
+    "key": "cry",
+    "source": "https://soundbible.com/2133-Sad-Woman-Crying.html",
+    "title": "Sad Woman Crying",
+    "author": "Daniel Simon",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "preview": "https://soundbible.com/mp3/woman-crying-daniel_simon.mp3",
+    "downloaded_sha256": "85259d5279c12a3f2f87a182c2c33fb81a07ef615d3f892c7770d2e7a529ca68"
   },
   {
     "key": "whistle",

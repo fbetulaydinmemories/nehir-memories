@@ -9,9 +9,9 @@
         "channels": 2
       }
     ],
-    "lufs": -23.05,
-    "true_peak_db": -2.35,
-    "sha256": "617cd200e9f9ef663057a0298e84647734ff1790fb909a411d1db08ccfdb076f"
+    "lufs": -23.66,
+    "true_peak_db": -2.4,
+    "sha256": "f51286da533f2d1816bc7ee7c41c54c44e3f040ac755b6696e337a99fdfb9a7e"
   },
   {
     "file": "2021_02_computer_lab.mp3",
@@ -51,9 +51,9 @@
         "channels": 2
       }
     ],
-    "lufs": -23.03,
-    "true_peak_db": -2.13,
-    "sha256": "1a681c9c263052c0118c548fed3debe3bae027bcf55400342ce4c1417d7e0748"
+    "lufs": -23.29,
+    "true_peak_db": -1.91,
+    "sha256": "32ee2c1f84620787f5c52f0381818cb5081695a5f41c5643351ab219223128ca"
   },
   {
     "file": "2021_05_mun_badges.mp3",
@@ -79,9 +79,9 @@
         "channels": 2
       }
     ],
-    "lufs": -23.48,
-    "true_peak_db": -2.25,
-    "sha256": "07226efe1487ca5e4c1800d8ce468aa3f6f2e797c420cc0049eae2d73b20cda3"
+    "lufs": -23.51,
+    "true_peak_db": -2.44,
+    "sha256": "6d976e4c6916042decd67eecdf463bf8e8b903a3d0789300e66d7e79d8cc81b7"
   },
   {
     "file": "2021_07_mun_committee.mp3",
@@ -93,9 +93,9 @@
         "channels": 2
       }
     ],
-    "lufs": -24.73,
-    "true_peak_db": -2.3,
-    "sha256": "90f813746540ddb5cc0088398665f3d5bb1c5a3600ed154a9d3c20867dfd3e7b"
+    "lufs": -24.92,
+    "true_peak_db": -2.33,
+    "sha256": "f75dcca84d0cf39ea930fdb0669c637a8e4d0052a7951801cb05fe7a7dc23c73"
   },
   {
     "file": "2021_08_coffee_photo_booth.mp3",
@@ -107,9 +107,9 @@
         "channels": 2
       }
     ],
-    "lufs": -22.88,
-    "true_peak_db": -2.15,
-    "sha256": "de9706e6bd3d3a814227bf1b84ce0da0196369c4208511244d5607ff579037e9"
+    "lufs": -22.92,
+    "true_peak_db": -1.81,
+    "sha256": "40f934f0252a6e68454f2b07ac1aa98d729d3536023a34cf74e6601eeae73d5f"
   },
   {
     "file": "2021_09_after_party.mp3",
@@ -121,9 +121,9 @@
         "channels": 2
       }
     ],
-    "lufs": -21.27,
-    "true_peak_db": -2.43,
-    "sha256": "d42406035f5a5461d1f3bdbd9b2d698a5f851259334355f3e95e8d168eb16ee2"
+    "lufs": -21.36,
+    "true_peak_db": -2.48,
+    "sha256": "7fd6fc753cf709c2829e8a6d06d33ccdb2810efec40bd856491c5e66ecba4d88"
   },
   {
     "file": "2021_10_closing_ceremony.mp3",
@@ -135,9 +135,9 @@
         "channels": 2
       }
     ],
-    "lufs": -21.92,
-    "true_peak_db": -2.47,
-    "sha256": "e04d48d3ec7e838ee0649492b4f9d8587d31935cdf19fad9531458694f247b73"
+    "lufs": -21.85,
+    "true_peak_db": -2.43,
+    "sha256": "57b7ef3a66df0bf420f38a51c007b5ba3e995a78ad07f1bbdc6a528354e2dcc2"
   },
   {
     "file": "2021_11_celebration_dinner.mp3",
@@ -149,8 +149,8 @@
         "channels": 2
       }
     ],
-    "lufs": -23.79,
-    "true_peak_db": -1.97,
-    "sha256": "50b11c404de2070a2357b145d4bdfca769178672388c1f143c12fd22c503e567"
+    "lufs": -23.75,
+    "true_peak_db": -2.14,
+    "sha256": "f4798d2bbf567cec1eecf415c9b7b5f604966ad756e6c8cfaec74120cdb7f000"
   }
 ]

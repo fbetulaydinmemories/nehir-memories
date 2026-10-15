@@ -9,9 +9,9 @@
         "channels": 2
       }
     ],
-    "lufs": -23.14,
-    "true_peak_db": -2.34,
-    "sha256": "3bffa4a0185a91a93079cc74bf043d678317655a9b09f9a6f92d0ecc50d177fe"
+    "lufs": -23.11,
+    "true_peak_db": -1.79,
+    "sha256": "4f4311f8434a66e7f60ce537c24dfa9103626d2b70441f3b2e3a778908a58866"
   },
   {
     "file": "2022_02_future_anxiety.mp3",
@@ -37,9 +37,9 @@
         "channels": 2
       }
     ],
-    "lufs": -23.85,
-    "true_peak_db": -2.47,
-    "sha256": "17a79c7b50a6ab2134aa55ddf7ee241d9d0a6e8f2eb149ca44b41ebd6b5bd134"
+    "lufs": -23.94,
+    "true_peak_db": -2.34,
+    "sha256": "6ca7a02850fd8d30552803540ab22d3577bec1c4dde636207d230544388b412c"
   },
   {
     "file": "2022_04_birthday.mp3",
@@ -65,9 +65,9 @@
         "channels": 2
       }
     ],
-    "lufs": -22.2,
-    "true_peak_db": -1.23,
-    "sha256": "6408981e76a52b40beafa0eff5492346d7f6a4bfdc2166c6a1f09b6b8b6d0c88"
+    "lufs": -22.09,
+    "true_peak_db": -1.47,
+    "sha256": "0bf5c2f12bf1eed661a1bd7af356106561c324f83a4ccff44838737ed9f2fd3f"
   },
   {
     "file": "2022_06_sunset_classroom.mp3",
@@ -79,9 +79,9 @@
         "channels": 2
       }
     ],
-    "lufs": -24.18,
+    "lufs": -24.03,
     "true_peak_db": -2.4,
-    "sha256": "941aa25e2a48a09ebd5822b47179bb2be4dd8c5f488c64a67f966f20bee86999"
+    "sha256": "b03bc587b55e1407324d4deeeccdb247bee0baba301f313fa0a82764c836efe5"
   },
   {
     "file": "2022_07_exam_camp.mp3",
@@ -107,9 +107,9 @@
         "channels": 2
       }
     ],
-    "lufs": -22.68,
+    "lufs": -22.84,
     "true_peak_db": -2.09,
-    "sha256": "6d04a3bcd471c8389e618b76175c4969f7a4e559c46d1e1e398c2db9fcf851d3"
+    "sha256": "9d83fa8d1bad0fb425939d5b3826cf46c0d36fae6e09cc4e9f66d52458c8283a"
   },
   {
     "file": "2022_09_football_match.mp3",
@@ -135,9 +135,9 @@
         "channels": 2
       }
     ],
-    "lufs": -24.17,
-    "true_peak_db": -2.28,
-    "sha256": "76559fe09ad528c095633d3a7a1d03cc756269d9907016d3b5de8c825c2aa59a"
+    "lufs": -24.21,
+    "true_peak_db": -2.24,
+    "sha256": "5ad716c445bccecd474762acaa7b85b7da3a5649801038a4f251f80b17fb83ce"
   },
   {
     "file": "2022_11_exam_rankings.mp3",
@@ -149,9 +149,9 @@
         "channels": 2
       }
     ],
-    "lufs": -24.73,
-    "true_peak_db": -2.39,
-    "sha256": "eb047547f7c2d6c5a9b61355742feb69a06834ee26ca05252b5866e65b5352f5"
+    "lufs": -24.7,
+    "true_peak_db": -2.38,
+    "sha256": "57c6123d8f1091746324ce579ac945aeeaecd0ef7e26c525da46123681db9642"
   },
   {
     "file": "2022_12_library.mp3",
@@ -163,9 +163,9 @@
         "channels": 2
       }
     ],
-    "lufs": -23.48,
+    "lufs": -23.45,
     "true_peak_db": -2.43,
-    "sha256": "3d62284631dde9ad58b44e78a4bc45ff515fca63ac3753c24b0e9d4655f65a82"
+    "sha256": "8908e26487c10f7766d538df93bf95c40890b90075ba24da11c79bdc9f7d3005"
   },
   {
     "file": "2022_13_graduation_garden.mp3",
@@ -177,9 +177,9 @@
         "channels": 2
       }
     ],
-    "lufs": -22.29,
-    "true_peak_db": -2.03,
-    "sha256": "aff6e0ee1aff0dc31a73e4b99f6ea3b6f2047eb9373140a9c490052172d14868"
+    "lufs": -22.37,
+    "true_peak_db": -1.9,
+    "sha256": "d57175e02dab4b49a2ad8ea997b506af75b80640b30cbaecdce600c38f61db19"
   },
   {
     "file": "2022_14_diplomas_yearbooks.mp3",
@@ -205,9 +205,9 @@
         "channels": 2
       }
     ],
-    "lufs": -21.47,
-    "true_peak_db": -2.43,
-    "sha256": "3ab3e94e3af78d2dd671e952be52550a02830e1e4a26228cdf972a4c29203a41"
+    "lufs": -21.94,
+    "true_peak_db": -2.45,
+    "sha256": "8837a724cbc988febef88c0dc8c8fed917777ff32ce84f8a9e64d6e122bfef37"
   },
   {
     "file": "2022_16_graduation_cake.mp3",
@@ -219,9 +219,9 @@
         "channels": 2
       }
     ],
-    "lufs": -23.56,
-    "true_peak_db": -2.1,
-    "sha256": "8d7762d206ede12085c88651096ecfe2abf46fff4346f122a9bca577bbda8c30"
+    "lufs": -23.29,
+    "true_peak_db": -1.7,
+    "sha256": "ae48067214fb0cc9aaa70a985185622efb747e357dd14117349bbbd6264aaf7b"
   },
   {
     "file": "2022_17_pasta_at_home.mp3",
@@ -247,9 +247,9 @@
         "channels": 2
       }
     ],
-    "lufs": -23.38,
-    "true_peak_db": -2.26,
-    "sha256": "8b158c754a015b3f61921d81285507b8d82331fd82bcbc3bbd583325650f19ac"
+    "lufs": -22.94,
+    "true_peak_db": -2.09,
+    "sha256": "aba5cba1af974ac47a4f4410d20fbf086e05fe6608020d6b65572ca906dab5f3"
   },
   {
     "file": "2022_19_university_choices.mp3",
@@ -275,9 +275,9 @@
         "channels": 2
       }
     ],
-    "lufs": -23.79,
-    "true_peak_db": -2.37,
-    "sha256": "8379d7f6438e1f74a9637f2fd276dea48067b9aadb713f8492e7b305dee6bd90"
+    "lufs": -24.06,
+    "true_peak_db": -2.24,
+    "sha256": "75685236a91f515900f140796f2495833575fb9b652906ffb8e9d01dfe56bae5"
   },
   {
     "file": "2022_21_atilim_visit.mp3",
@@ -289,8 +289,8 @@
         "channels": 2
       }
     ],
-    "lufs": -23.6,
-    "true_peak_db": -2.2,
-    "sha256": "101b5f3b4f2b203f3ba13327c9149f1e77a380aa2eae1a600dca2922b19040d0"
+    "lufs": -23.45,
+    "true_peak_db": -2.15,
+    "sha256": "72a6b5f90fd7b58a0ea4b844c98fdb4053153058f46ab4bd83cd5a051033c111"
   }
 ]

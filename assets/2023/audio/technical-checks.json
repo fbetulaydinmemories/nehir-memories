@@ -1,0 +1,100 @@
+[
+  {
+    "file": "2023_01_crying_in_room.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "lufs": -28.31,
+    "true_peak_db": -2.44,
+    "sha256": "65fbe7a87bbb8b988773409ee4b1ae92043bbf1695ab098b801eba96cfe87f54"
+  },
+  {
+    "file": "2023_02_cankaya_friends.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "lufs": -24.09,
+    "true_peak_db": -2.43,
+    "sha256": "e732ff4a7375a1dd20f29567053b5b3cd5eadfd8c25deb9d9ecd25ae7d8b0eb9"
+  },
+  {
+    "file": "2023_03_atilim_friends.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "lufs": -23.8,
+    "true_peak_db": -2.41,
+    "sha256": "df2e0e257f25339c9fa33e0e284b545be124ddb60ebbbfbfb29bfc5f38217b7f"
+  },
+  {
+    "file": "2023_04_cankaya_lecture.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "lufs": -23.03,
+    "true_peak_db": -2.39,
+    "sha256": "659b565caeae87379689a5b49abb0a1839aff3bdeea69299ceeba9e8fc7e7ed2"
+  },
+  {
+    "file": "2023_05_atilim_lecture.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "lufs": -22.9,
+    "true_peak_db": -2.72,
+    "sha256": "06630a99d1cd15c5fe39d4f162d6816dd9a6b255593ee772ee9615f8e2108a32"
+  },
+  {
+    "file": "2023_06_pr_workshop.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "lufs": -24.19,
+    "true_peak_db": -2.06,
+    "sha256": "d9efb27a272377ee27587192e37fc1323f8beeb36a9e887e8c1b834c059a9861"
+  },
+  {
+    "file": "2023_07_clinic_cafe.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "lufs": -23.7,
+    "true_peak_db": -2.4,
+    "sha256": "4651eae1ab640569789c4ae055f9f6915cfa1562efc2e2629ccaba83ef28a2f6"
+  }
+]

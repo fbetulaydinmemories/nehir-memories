@@ -1,0 +1,502 @@
+[
+  {
+    "year": "2023",
+    "index": 1,
+    "path": "assets/2023/audio/2023_01_crying_in_room.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -43,
+        "source_start": 17,
+        "band_hz": null
+      },
+      {
+        "source": "street",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -46,
+        "source_start": 44,
+        "band_hz": [
+          100,
+          1300
+        ]
+      },
+      {
+        "source": "fabric",
+        "at": 1,
+        "duration": 2,
+        "rms_db": -33,
+        "source_start": 36,
+        "band_hz": null
+      },
+      {
+        "source": "cry",
+        "at": 2,
+        "duration": 2.2,
+        "rms_db": -28,
+        "source_start": 2,
+        "band_hz": [
+          120,
+          5000
+        ]
+      },
+      {
+        "source": "sniff",
+        "at": 5,
+        "duration": 1.3,
+        "rms_db": -29,
+        "source_start": 1,
+        "band_hz": null
+      },
+      {
+        "source": "cry",
+        "at": 7,
+        "duration": 2.3,
+        "rms_db": -29,
+        "source_start": 9,
+        "band_hz": [
+          120,
+          4500
+        ]
+      },
+      {
+        "source": "sniff",
+        "at": 10.5,
+        "duration": 1.1,
+        "rms_db": -31,
+        "source_start": 4,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 12,
+        "duration": 1.4,
+        "rms_db": -34,
+        "source_start": 47,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "65fbe7a87bbb8b988773409ee4b1ae92043bbf1695ab098b801eba96cfe87f54"
+  },
+  {
+    "year": "2023",
+    "index": 2,
+    "path": "assets/2023/audio/2023_02_cankaya_friends.mp3",
+    "events": [
+      {
+        "source": "birds",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -39,
+        "source_start": 21,
+        "band_hz": null
+      },
+      {
+        "source": "friends",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -32,
+        "source_start": 20,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -35,
+        "source_start": 37,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -37,
+        "source_start": 47,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "steps",
+        "at": 0.4,
+        "duration": 4,
+        "rms_db": -28,
+        "source_start": 1,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 5,
+        "duration": 2,
+        "rms_db": -28,
+        "source_start": 13,
+        "band_hz": null
+      },
+      {
+        "source": "steps",
+        "at": 8,
+        "duration": 4,
+        "rms_db": -30,
+        "source_start": 12,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "e732ff4a7375a1dd20f29567053b5b3cd5eadfd8c25deb9d9ecd25ae7d8b0eb9"
+  },
+  {
+    "year": "2023",
+    "index": 3,
+    "path": "assets/2023/audio/2023_03_atilim_friends.mp3",
+    "events": [
+      {
+        "source": "outdoor",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -38,
+        "source_start": 12,
+        "band_hz": null
+      },
+      {
+        "source": "garden",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -33,
+        "source_start": 173,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "garden",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -36,
+        "source_start": 190,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -38,
+        "source_start": 200,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "steps",
+        "at": 1,
+        "duration": 3,
+        "rms_db": -28,
+        "source_start": 26,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 4,
+        "duration": 2,
+        "rms_db": -27,
+        "source_start": 4,
+        "band_hz": null
+      },
+      {
+        "source": "steps",
+        "at": 6.5,
+        "duration": 4,
+        "rms_db": -30,
+        "source_start": 36,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 11,
+        "duration": 2,
+        "rms_db": -29,
+        "source_start": 17,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "df2e0e257f25339c9fa33e0e284b545be124ddb60ebbbfbfb29bfc5f38217b7f"
+  },
+  {
+    "year": "2023",
+    "index": 4,
+    "path": "assets/2023/audio/2023_04_cankaya_lecture.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -43,
+        "source_start": 11,
+        "band_hz": null
+      },
+      {
+        "source": "lecture",
+        "at": 0,
+        "duration": 13,
+        "rms_db": -31,
+        "source_start": 2,
+        "band_hz": [
+          200,
+          1000
+        ]
+      },
+      {
+        "source": "pencil",
+        "at": 1.5,
+        "duration": 4,
+        "rms_db": -28,
+        "source_start": 4,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 6.3,
+        "duration": 2,
+        "rms_db": -26,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "pencil",
+        "at": 9,
+        "duration": 3,
+        "rms_db": -30,
+        "source_start": 10,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "659b565caeae87379689a5b49abb0a1839aff3bdeea69299ceeba9e8fc7e7ed2"
+  },
+  {
+    "year": "2023",
+    "index": 5,
+    "path": "assets/2023/audio/2023_05_atilim_lecture.mp3",
+    "events": [
+      {
+        "source": "fan",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -40,
+        "source_start": 2,
+        "band_hz": null
+      },
+      {
+        "source": "voice",
+        "at": 0.5,
+        "duration": 12,
+        "rms_db": -33,
+        "source_start": 52,
+        "band_hz": [
+          200,
+          750
+        ]
+      },
+      {
+        "source": "pencil",
+        "at": 2,
+        "duration": 4,
+        "rms_db": -29,
+        "source_start": 8,
+        "band_hz": null
+      },
+      {
+        "source": "chair",
+        "at": 6,
+        "duration": 1.5,
+        "rms_db": -32,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 8,
+        "duration": 2,
+        "rms_db": -28,
+        "source_start": 1,
+        "band_hz": null
+      },
+      {
+        "source": "pencil",
+        "at": 11,
+        "duration": 2,
+        "rms_db": -31,
+        "source_start": 1,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "06630a99d1cd15c5fe39d4f162d6816dd9a6b255593ee772ee9615f8e2108a32"
+  },
+  {
+    "year": "2023",
+    "index": 6,
+    "path": "assets/2023/audio/2023_06_pr_workshop.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -42,
+        "source_start": 9,
+        "band_hz": null
+      },
+      {
+        "source": "mic",
+        "at": 0.6,
+        "duration": 0.6,
+        "rms_db": -26,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "camera",
+        "at": 2,
+        "duration": 0.5,
+        "rms_db": -28,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 3,
+        "duration": 2,
+        "rms_db": -29,
+        "source_start": 59,
+        "band_hz": null
+      },
+      {
+        "source": "countdown",
+        "at": 5,
+        "duration": 2.2,
+        "rms_db": -31,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "mouse",
+        "at": 8,
+        "duration": 0.5,
+        "rms_db": -28,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "steps",
+        "at": 9,
+        "duration": 3,
+        "rms_db": -30,
+        "source_start": 22,
+        "band_hz": null
+      },
+      {
+        "source": "voice",
+        "at": 11,
+        "duration": 2,
+        "rms_db": -35,
+        "source_start": 69,
+        "band_hz": [
+          250,
+          750
+        ]
+      }
+    ],
+    "duration": 14,
+    "sha256": "d9efb27a272377ee27587192e37fc1323f8beeb36a9e887e8c1b834c059a9861"
+  },
+  {
+    "year": "2023",
+    "index": 7,
+    "path": "assets/2023/audio/2023_07_clinic_cafe.mp3",
+    "events": [
+      {
+        "source": "cafe",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -36,
+        "source_start": 89,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "cafe",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -39,
+        "source_start": 106,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -41,
+        "source_start": 116,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "coffee",
+        "at": 0.5,
+        "duration": 5,
+        "rms_db": -27,
+        "source_start": 3,
+        "band_hz": null
+      },
+      {
+        "source": "mug",
+        "at": 5.5,
+        "duration": 1.8,
+        "rms_db": -26,
+        "source_start": 8,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 8,
+        "duration": 2.5,
+        "rms_db": -27,
+        "source_start": 2,
+        "band_hz": null
+      },
+      {
+        "source": "glass",
+        "at": 11,
+        "duration": 1.5,
+        "rms_db": -29,
+        "source_start": 29,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "4651eae1ab640569789c4ae055f9f6915cfa1562efc2e2629ccaba83ef28a2f6"
+  }
+]
