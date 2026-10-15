@@ -1,0 +1,68 @@
+[
+  {
+    "file": "01_online.mp3",
+    "duration_seconds": 56.03265,
+    "channels": 2,
+    "sample_rate": 44100,
+    "lufs": -26.38,
+    "true_peak_dbfs": -9.11,
+    "loudness_range": 9.5,
+    "full_decode_ok": true,
+    "sha256": "3025eab86c5eed4d02af176a9785ca5795f1ed15b611ffc38545d23f78f3a36c"
+  },
+  {
+    "file": "02_coffee.mp3",
+    "duration_seconds": 56.03265,
+    "channels": 2,
+    "sample_rate": 44100,
+    "lufs": -26.4,
+    "true_peak_dbfs": -10.46,
+    "loudness_range": 17.3,
+    "full_decode_ok": true,
+    "sha256": "a09fc1348f871d04a8436a5536ba4f2ee1b977c67aacb643bc092088a93472ca"
+  },
+  {
+    "file": "03_anime.mp3",
+    "duration_seconds": 56.03265,
+    "channels": 2,
+    "sample_rate": 44100,
+    "lufs": -28.53,
+    "true_peak_dbfs": -11.52,
+    "loudness_range": 16.2,
+    "full_decode_ok": true,
+    "sha256": "d9202d9b21494c08b8a163a8350759760e992813cf26a72c19fa1531074cda74"
+  },
+  {
+    "file": "04_study.mp3",
+    "duration_seconds": 56.03265,
+    "channels": 2,
+    "sample_rate": 44100,
+    "lufs": -26.44,
+    "true_peak_dbfs": -9.94,
+    "loudness_range": 15.2,
+    "full_decode_ok": true,
+    "sha256": "a95eb0954e18cfccac4eb32275dc9628fc2d49b495ff436416c2e24626e7eff3"
+  },
+  {
+    "file": "05_school.mp3",
+    "duration_seconds": 56.03265,
+    "channels": 2,
+    "sample_rate": 44100,
+    "lufs": -26.45,
+    "true_peak_dbfs": -6.51,
+    "loudness_range": 5.6,
+    "full_decode_ok": true,
+    "sha256": "8ea92a8c86707e1e89c11e4e7dcaaa84c9e381acb880e534f3c1ba8efad496c7"
+  },
+  {
+    "file": "06_friends.mp3",
+    "duration_seconds": 56.03265,
+    "channels": 2,
+    "sample_rate": 44100,
+    "lufs": -26.52,
+    "true_peak_dbfs": -12.36,
+    "loudness_range": 14.7,
+    "full_decode_ok": true,
+    "sha256": "70c4506db2788753404cde67be0d4f754c16727a15333392d51b135fb7f3a85f"
+  }
+]

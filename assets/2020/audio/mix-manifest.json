@@ -1,0 +1,901 @@
+[
+  {
+    "name": "01_online",
+    "description": "Dar bantlı ders konuşması, yakın kalemle yazma, tek sayfa çevirme ve iki kısa klavye aralığı.",
+    "target_lufs": -26,
+    "events": [
+      {
+        "source": "room",
+        "role": "bed",
+        "source_start": 0,
+        "rms_before_master": 0.0008,
+        "band_hz": [
+          160,
+          5000
+        ]
+      },
+      {
+        "source": "lecture",
+        "at": 1.2,
+        "source_start": 1,
+        "duration": 5.1,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          360,
+          1050
+        ]
+      },
+      {
+        "source": "lecture",
+        "at": 11.9,
+        "source_start": 8,
+        "duration": 4.3,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          360,
+          1050
+        ]
+      },
+      {
+        "source": "lecture",
+        "at": 23.2,
+        "source_start": 15,
+        "duration": 5.7,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          360,
+          1050
+        ]
+      },
+      {
+        "source": "lecture",
+        "at": 35.4,
+        "source_start": 3,
+        "duration": 4.5,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          360,
+          1050
+        ]
+      },
+      {
+        "source": "lecture",
+        "at": 45.6,
+        "source_start": 12,
+        "duration": 5.1,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          360,
+          1050
+        ]
+      },
+      {
+        "source": "pencil",
+        "at": 6.9,
+        "source_start": 1,
+        "duration": 3.0999773242630386,
+        "level_before_master": 0.035,
+        "band_hz": [
+          180,
+          8000
+        ]
+      },
+      {
+        "source": "pencil",
+        "at": 18.1,
+        "source_start": 7,
+        "duration": 3.4,
+        "level_before_master": 0.035,
+        "band_hz": [
+          180,
+          8000
+        ]
+      },
+      {
+        "source": "pencil",
+        "at": 30.8,
+        "source_start": 11,
+        "duration": 3.0,
+        "level_before_master": 0.035,
+        "band_hz": [
+          180,
+          8000
+        ]
+      },
+      {
+        "source": "pencil",
+        "at": 41.1,
+        "source_start": 4,
+        "duration": 2.1,
+        "level_before_master": 0.035,
+        "band_hz": [
+          180,
+          8000
+        ]
+      },
+      {
+        "source": "pencil",
+        "at": 51.4,
+        "source_start": 8,
+        "duration": 2.6,
+        "level_before_master": 0.035,
+        "band_hz": [
+          180,
+          8000
+        ]
+      },
+      {
+        "source": "page",
+        "at": 28.9,
+        "source_start": 0.05,
+        "duration": 1.35,
+        "level_before_master": 0.08,
+        "band_hz": [
+          200,
+          8500
+        ]
+      },
+      {
+        "source": "keyboard",
+        "at": 10.7,
+        "source_start": 0,
+        "duration": 0.8,
+        "level_before_master": 0.055,
+        "band_hz": [
+          160,
+          7500
+        ]
+      },
+      {
+        "source": "keyboard",
+        "at": 39.8,
+        "source_start": 1.5,
+        "duration": 0.9,
+        "level_before_master": 0.055,
+        "band_hz": [
+          160,
+          7500
+        ]
+      }
+    ],
+    "duration_seconds": 56,
+    "file": "01_online.mp3",
+    "sha256": "3025eab86c5eed4d02af176a9785ca5795f1ed15b611ffc38545d23f78f3a36c",
+    "rms_dbfs": -31.483615642016176,
+    "sample_peak_dbfs": -9.38464481619525,
+    "measured_input_lufs": "-28.39",
+    "master_gain_db": 2.3900000000000006,
+    "subjective_listening_verified": false,
+    "image": "01_online.webp",
+    "user_approved": true
+  },
+  {
+    "name": "02_coffee",
+    "description": "Seyrek seramik kupa temasları, telefondan kısa konuşma parçaları, iki kısa gülüş ve kumaş hışırtısı.",
+    "target_lufs": -26,
+    "events": [
+      {
+        "source": "room",
+        "role": "bed",
+        "source_start": 9,
+        "rms_before_master": 0.00045,
+        "band_hz": [
+          200,
+          4200
+        ]
+      },
+      {
+        "source": "mug",
+        "at": 1.1,
+        "source_start": 0,
+        "duration": 3.0,
+        "level_before_master": 0.12,
+        "band_hz": [
+          180,
+          6500
+        ]
+      },
+      {
+        "source": "mug",
+        "at": 19.8,
+        "source_start": 7.4,
+        "duration": 3.1,
+        "level_before_master": 0.12,
+        "band_hz": [
+          180,
+          6500
+        ]
+      },
+      {
+        "source": "mug",
+        "at": 40.5,
+        "source_start": 17.2,
+        "duration": 2.1,
+        "level_before_master": 0.12,
+        "band_hz": [
+          180,
+          6500
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 5.2,
+        "source_start": 7,
+        "duration": 3.3,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          420,
+          1250
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 13.7,
+        "source_start": 22,
+        "duration": 2.2,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          420,
+          1250
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 26.4,
+        "source_start": 39,
+        "duration": 3.7999773242630384,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          420,
+          1250
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 35.2,
+        "source_start": 57,
+        "duration": 2.8,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          420,
+          1250
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 46.7,
+        "source_start": 82,
+        "duration": 4.5,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          420,
+          1250
+        ]
+      },
+      {
+        "source": "laugh",
+        "at": 17,
+        "source_start": 4.0,
+        "duration": 1.2,
+        "level_before_master": 0.018,
+        "band_hz": [
+          300,
+          2300
+        ]
+      },
+      {
+        "source": "laugh",
+        "at": 51.6,
+        "source_start": 11.4,
+        "duration": 1.2,
+        "level_before_master": 0.018,
+        "band_hz": [
+          300,
+          2300
+        ]
+      },
+      {
+        "source": "fabric",
+        "at": 10.4,
+        "source_start": 7.2,
+        "duration": 1.4,
+        "level_before_master": 0.045,
+        "band_hz": [
+          200,
+          6500
+        ]
+      },
+      {
+        "source": "fabric",
+        "at": 32.5,
+        "source_start": 33,
+        "duration": 1.7999773242630386,
+        "level_before_master": 0.045,
+        "band_hz": [
+          200,
+          6500
+        ]
+      }
+    ],
+    "duration_seconds": 56,
+    "file": "02_coffee.mp3",
+    "sha256": "a09fc1348f871d04a8436a5536ba4f2ee1b977c67aacb643bc092088a93472ca",
+    "rms_dbfs": -32.819869961020096,
+    "sample_peak_dbfs": -10.015433036374404,
+    "measured_input_lufs": "-29.75",
+    "master_gain_db": 3.7500000000000004,
+    "subjective_listening_verified": false,
+    "image": "02_coffee.webp",
+    "user_approved": true
+  },
+  {
+    "name": "03_anime",
+    "description": "Bilgisayar hoparlörü gibi işlenmiş ayrı ekran konuşmaları ve gündelik adımlar; yakın yorgan hışırtıları.",
+    "target_lufs": -28,
+    "events": [
+      {
+        "source": "room",
+        "role": "bed",
+        "source_start": 15,
+        "rms_before_master": 0.00025,
+        "band_hz": [
+          250,
+          3800
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 1.6,
+        "source_start": 5,
+        "duration": 2.5,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          380,
+          1650
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 10.3,
+        "source_start": 34,
+        "duration": 2.7,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          380,
+          1650
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 23.6,
+        "source_start": 68,
+        "duration": 3.9,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          380,
+          1650
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 37.8,
+        "source_start": 96,
+        "duration": 2.6,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          380,
+          1650
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 47.1,
+        "source_start": 112,
+        "duration": 3.8,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          380,
+          1650
+        ]
+      },
+      {
+        "source": "blanket",
+        "at": 6.4,
+        "source_start": 0,
+        "duration": 1.9,
+        "level_before_master": 0.055,
+        "band_hz": [
+          250,
+          7200
+        ]
+      },
+      {
+        "source": "blanket",
+        "at": 29.8,
+        "source_start": 0,
+        "duration": 1.9,
+        "level_before_master": 0.055,
+        "band_hz": [
+          250,
+          7200
+        ]
+      },
+      {
+        "source": "blanket",
+        "at": 43.2,
+        "source_start": 0,
+        "duration": 1.9,
+        "level_before_master": 0.055,
+        "band_hz": [
+          250,
+          7200
+        ]
+      },
+      {
+        "source": "footsteps",
+        "at": 16.8,
+        "source_start": 0.5,
+        "duration": 2.2999773242630384,
+        "level_before_master": 0.018,
+        "band_hz": [
+          350,
+          2300
+        ]
+      },
+      {
+        "source": "footsteps",
+        "at": 33.1,
+        "source_start": 4,
+        "duration": 2.3,
+        "level_before_master": 0.018,
+        "band_hz": [
+          350,
+          2300
+        ]
+      }
+    ],
+    "duration_seconds": 56,
+    "file": "03_anime.mp3",
+    "sha256": "d9202d9b21494c08b8a163a8350759760e992813cf26a72c19fa1531074cda74",
+    "rms_dbfs": -37.10009692799452,
+    "sample_peak_dbfs": -11.093908501184345,
+    "measured_input_lufs": "-30.62",
+    "master_gain_db": 2.620000000000001,
+    "subjective_listening_verified": false,
+    "image": "03_anime.webp",
+    "user_approved": true
+  },
+  {
+    "name": "04_study",
+    "description": "Uzak okul kantini konuşmaları üzerinde yakın kalemle yazma, kâğıt ve sayfa çevirme; bir uzak sandalye.",
+    "target_lufs": -26,
+    "events": [
+      {
+        "source": "canteen",
+        "role": "bed",
+        "source_start": 12,
+        "rms_before_master": 0.008,
+        "band_hz": [
+          220,
+          1750
+        ]
+      },
+      {
+        "source": "pencil",
+        "at": 1.1,
+        "source_start": 0,
+        "duration": 4.3,
+        "level_before_master": 0.038,
+        "band_hz": [
+          180,
+          8500
+        ]
+      },
+      {
+        "source": "pencil",
+        "at": 9.9,
+        "source_start": 5,
+        "duration": 3.9,
+        "level_before_master": 0.038,
+        "band_hz": [
+          180,
+          8500
+        ]
+      },
+      {
+        "source": "pencil",
+        "at": 20.3,
+        "source_start": 10,
+        "duration": 3.3,
+        "level_before_master": 0.038,
+        "band_hz": [
+          180,
+          8500
+        ]
+      },
+      {
+        "source": "pencil",
+        "at": 30.8,
+        "source_start": 2,
+        "duration": 4.7,
+        "level_before_master": 0.038,
+        "band_hz": [
+          180,
+          8500
+        ]
+      },
+      {
+        "source": "pencil",
+        "at": 43.3,
+        "source_start": 8,
+        "duration": 4.2,
+        "level_before_master": 0.038,
+        "band_hz": [
+          180,
+          8500
+        ]
+      },
+      {
+        "source": "pencil",
+        "at": 51,
+        "source_start": 12,
+        "duration": 2.8,
+        "level_before_master": 0.038,
+        "band_hz": [
+          180,
+          8500
+        ]
+      },
+      {
+        "source": "page",
+        "at": 6.9,
+        "source_start": 0,
+        "duration": 2.6,
+        "level_before_master": 0.095,
+        "band_hz": [
+          180,
+          9000
+        ]
+      },
+      {
+        "source": "page",
+        "at": 26.6,
+        "source_start": 0,
+        "duration": 2.6,
+        "level_before_master": 0.095,
+        "band_hz": [
+          180,
+          9000
+        ]
+      },
+      {
+        "source": "page",
+        "at": 39.2,
+        "source_start": 0,
+        "duration": 2.6,
+        "level_before_master": 0.095,
+        "band_hz": [
+          180,
+          9000
+        ]
+      },
+      {
+        "source": "chair",
+        "at": 17.2,
+        "source_start": 0.1,
+        "duration": 2.8,
+        "level_before_master": 0.025,
+        "band_hz": [
+          150,
+          3400
+        ]
+      }
+    ],
+    "duration_seconds": 56,
+    "file": "04_study.mp3",
+    "sha256": "a95eb0954e18cfccac4eb32275dc9628fc2d49b495ff436416c2e24626e7eff3",
+    "rms_dbfs": -32.384723374095316,
+    "sample_peak_dbfs": -10.841870774300006,
+    "measured_input_lufs": "-26.50",
+    "master_gain_db": 0.5,
+    "subjective_listening_verified": false,
+    "image": "04_study.webp",
+    "user_approved": true
+  },
+  {
+    "name": "05_school",
+    "description": "Açık hava kaydı, seyrek kuş kesitleri, yaklaşan uzaklaşan ayak sesleri ve kısa uzak konuşmalar.",
+    "target_lufs": -26,
+    "events": [
+      {
+        "source": "outdoor",
+        "role": "bed",
+        "source_start": 0,
+        "rms_before_master": 0.007,
+        "band_hz": [
+          300,
+          1700
+        ]
+      },
+      {
+        "source": "outdoor",
+        "at": 2.2,
+        "source_start": 4,
+        "duration": 2.7,
+        "level_before_master": 0.023,
+        "band_hz": [
+          2400,
+          8000
+        ]
+      },
+      {
+        "source": "outdoor",
+        "at": 19.7,
+        "source_start": 11,
+        "duration": 2.4,
+        "level_before_master": 0.023,
+        "band_hz": [
+          2400,
+          8000
+        ]
+      },
+      {
+        "source": "outdoor",
+        "at": 38.4,
+        "source_start": 18,
+        "duration": 2.8,
+        "level_before_master": 0.023,
+        "band_hz": [
+          2400,
+          8000
+        ]
+      },
+      {
+        "source": "footsteps",
+        "at": 5,
+        "source_start": 0.3,
+        "duration": 5.2,
+        "level_before_master": 0.05,
+        "band_hz": [
+          180,
+          5500
+        ]
+      },
+      {
+        "source": "footsteps",
+        "at": 24.3,
+        "source_start": 2.1,
+        "duration": 5.7,
+        "level_before_master": 0.05,
+        "band_hz": [
+          180,
+          5500
+        ]
+      },
+      {
+        "source": "footsteps",
+        "at": 43.7,
+        "source_start": 1.1,
+        "duration": 5.099977324263039,
+        "level_before_master": 0.05,
+        "band_hz": [
+          180,
+          5500
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 13.2,
+        "source_start": 4,
+        "duration": 2.4,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          450,
+          1150
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 34.5,
+        "source_start": 17,
+        "duration": 2.8999773242630384,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          450,
+          1150
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 50.7,
+        "source_start": 27,
+        "duration": 2.2,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          450,
+          1150
+        ]
+      }
+    ],
+    "duration_seconds": 56,
+    "file": "05_school.mp3",
+    "sha256": "8ea92a8c86707e1e89c11e4e7dcaaa84c9e381acb880e534f3c1ba8efad496c7",
+    "rms_dbfs": -28.854256431536616,
+    "sample_peak_dbfs": -6.06144619431428,
+    "measured_input_lufs": "-38.99",
+    "master_gain_db": 12.990000000000002,
+    "subjective_listening_verified": false,
+    "image": "05_school.webp",
+    "user_approved": true
+  },
+  {
+    "name": "06_friends",
+    "description": "Hafif okul kantini üzerinde yakındaki küçük grubun konuşma aralıkları, iki kısa gülüş, sandalye ve kumaş.",
+    "target_lufs": -26,
+    "events": [
+      {
+        "source": "canteen",
+        "role": "bed",
+        "source_start": 62,
+        "rms_before_master": 0.006,
+        "band_hz": [
+          250,
+          1800
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.2,
+        "source_start": 1,
+        "duration": 4.099977324263039,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          280,
+          1700
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 8.7,
+        "source_start": 8,
+        "duration": 3.1999773242630387,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          280,
+          1700
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 17.4,
+        "source_start": 15,
+        "duration": 4.7,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          280,
+          1700
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 28.6,
+        "source_start": 21,
+        "duration": 3.8,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          280,
+          1700
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 37.1,
+        "source_start": 26,
+        "duration": 4.3,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          280,
+          1700
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 46.2,
+        "source_start": 7,
+        "duration": 4.6,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          280,
+          1700
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 5.9,
+        "source_start": 26,
+        "duration": 1.8,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          380,
+          1350
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 23.5,
+        "source_start": 51,
+        "duration": 2.0,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          380,
+          1350
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 42.3,
+        "source_start": 73,
+        "duration": 2.0999773242630386,
+        "processing": "narrow speaker bandpass on recorded speech; no voice cloning; intelligibility not listening-verified",
+        "band_hz": [
+          380,
+          1350
+        ]
+      },
+      {
+        "source": "laugh",
+        "at": 13.2,
+        "source_start": 8.1,
+        "duration": 1.4,
+        "level_before_master": 0.022,
+        "band_hz": [
+          250,
+          3300
+        ]
+      },
+      {
+        "source": "laugh",
+        "at": 32.9,
+        "source_start": 16.1,
+        "duration": 1.4,
+        "level_before_master": 0.022,
+        "band_hz": [
+          250,
+          3300
+        ]
+      },
+      {
+        "source": "chair",
+        "at": 52.1,
+        "source_start": 0.2,
+        "duration": 2.5,
+        "level_before_master": 0.04,
+        "band_hz": [
+          180,
+          4500
+        ]
+      },
+      {
+        "source": "fabric",
+        "at": 25.8,
+        "source_start": 41,
+        "duration": 1.9,
+        "level_before_master": 0.045,
+        "band_hz": [
+          220,
+          6500
+        ]
+      }
+    ],
+    "duration_seconds": 56,
+    "file": "06_friends.mp3",
+    "sha256": "70c4506db2788753404cde67be0d4f754c16727a15333392d51b135fb7f3a85f",
+    "rms_dbfs": -30.625959631612297,
+    "sample_peak_dbfs": -11.914213477083324,
+    "measured_input_lufs": "-27.58",
+    "master_gain_db": 1.579999999999998,
+    "subjective_listening_verified": false,
+    "image": "06_friends.webp",
+    "user_approved": true
+  }
+]

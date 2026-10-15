@@ -1,24 +1,162 @@
-/* 2020 ambient sound is temporarily disabled pending replacement with approved recordings. */
-(()=>{'use strict';
-const root=document.getElementById('pandemic2020'),slides=document.getElementById('pandemic2020-slides'),button=document.getElementById('pandemic2020-sound'),status=document.getElementById('pandemic2020-audio-status'),read=document.getElementById('pandemic2020-read');
-if(!root||!slides||!button)return;
-button.disabled=true;button.textContent='Ortam sesleri hazırlanıyor';button.setAttribute('aria-label','2020 ortam sesleri geçici olarak devre dışı');button.setAttribute('aria-pressed','false');if(status)status.textContent='2020 ortam sesleri yenileniyor.';return;
-const names=['01_online','02_coffee','03_anime','04_study','05_school','06_friends'];
-let enabled=false,ctx=null,serial=0,active=null,selected=null,readingState=false;
-const cache=new Map();
-const isOpen=()=>root.classList.contains('is-open');
-const index=()=>Math.max(0,Math.min(5,Math.round(slides.scrollLeft/(slides.clientWidth||1))));
-function isReading(){const story=root.querySelector('#pandemic2020-story');if(!story||!isOpen())return false;return root.scrollTop>root.clientHeight*.45;}
-function label(){button.textContent=enabled?'Sesi kapat':'Sesi aç';button.setAttribute('aria-pressed',String(enabled));}
-function halt(){serial++;selected=null;if(active){try{active.source.stop();}catch(e){}active.source.disconnect();active.gain.disconnect();active=null;}}
-function fadeOut(){if(!active||!ctx)return;const old=active;active=null;const g=old.gain.gain,now=ctx.currentTime;g.cancelScheduledValues(now);g.setValueAtTime(g.value,now);g.linearRampToValueAtTime(0,now+.55);setTimeout(()=>{try{old.source.stop();}catch(e){}old.source.disconnect();old.gain.disconnect();},650);}
-async function load(i){if(cache.has(i))return cache.get(i);const promise=fetch('assets/2020/audio/'+names[i]+'.wav').then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.arrayBuffer();}).then(b=>ctx.decodeAudioData(b));cache.set(i,promise);try{return await promise;}catch(e){cache.delete(i);throw e;}}
-async function sync(){const reading=isReading();if(reading!==readingState){readingState=reading;window.NehirPiano?.sync();}
-if(!enabled||!ctx||!isOpen()||document.hidden||reading){if(active)fadeOut();selected=null;serial++;return;}
-const i=index();if(i===selected)return;selected=i;const token=++serial;fadeOut();try{const buf=await load(i);if(token!==serial||!enabled||!isOpen()||document.hidden||isReading()||index()!==i)return;const source=ctx.createBufferSource(),gain=ctx.createGain();source.buffer=buf;source.loop=true;source.connect(gain);gain.connect(ctx.destination);gain.gain.setValueAtTime(0,ctx.currentTime);gain.gain.linearRampToValueAtTime(.48,ctx.currentTime+.65);active={source,gain};source.start();status.textContent='';for(const k of [...cache.keys()])if(k!==i)cache.delete(k);}catch(e){if(token!==serial)return;selected=null;status.textContent='Ses yüklenemedi. Tekrar denemek için sesi kapatıp aç.';}}
-button.addEventListener('click',async()=>{enabled=!enabled;label();status.textContent='';if(!enabled){halt();return;}const token=++serial;try{if(!ctx)ctx=new (window.AudioContext||window.webkitAudioContext)();await ctx.resume();if(token!==serial||!enabled)return;selected=null;sync();}catch(e){if(token!==serial)return;enabled=false;label();status.textContent='Ses başlatılamadı. Yeniden deneyebilirsin.';}});
-slides.addEventListener('scroll',sync,{passive:true});root.addEventListener('scroll',sync,{passive:true});if(read)read.addEventListener('click',()=>{readingState=true;halt();window.NehirPiano?.sync();});
-new MutationObserver(()=>{if(!isOpen()){halt();readingState=false;window.NehirPiano?.sync();}else{selected=null;sync();}}).observe(root,{attributes:true,attributeFilter:['class']});
-document.addEventListener('visibilitychange',()=>{if(document.hidden)halt();else if(enabled&&isOpen()){selected=null;ctx?.resume().then(sync).catch(()=>{});}});addEventListener('pagehide',halt);
-window.Nehir2020Audio={readingReady:()=>isReading(),sync};label();
+/* Approved 2020 recordings. Keep every outgoing source tracked until it stops. */
+(() => {
+'use strict';
+const root = document.getElementById('pandemic2020');
+const slides = document.getElementById('pandemic2020-slides');
+const button = document.getElementById('pandemic2020-sound');
+const status = document.getElementById('pandemic2020-audio-status');
+if (!root || !slides || !button) return;
+const version = '20261015-approved-v2';
+const tracks = Object.freeze({
+  '01_online.webp': '01_online.mp3',
+  '02_coffee.webp': '02_coffee.mp3',
+  '03_anime.webp': '03_anime.mp3',
+  '04_study.webp': '04_study.mp3',
+  '05_school.webp': '05_school.mp3',
+  '06_friends.webp': '06_friends.mp3'
+});
+const sources = new Set();
+const cache = new Map();
+let enabled = false, ctx = null, epoch = 0, selected = null, active = null;
+let readingState = false;
+const isOpen = () => root.classList.contains('is-open');
+function isReading() {
+  const story = root.querySelector('#pandemic2020-story');
+  if (!story || !isOpen()) return false;
+  // Match the existing gallery's transition into its story area.
+  return root.scrollTop > root.clientHeight * .45;
+}
+function currentTrack() {
+  const images = slides.querySelectorAll('figure img');
+  const i = Math.max(0, Math.min(images.length - 1,
+    Math.round(slides.scrollLeft / (slides.clientWidth || 1))));
+  const path = images[i]?.getAttribute('src') || '';
+  return tracks[path.split('/').pop()] || null;
+}
+const canPlay = () => enabled && ctx && isOpen() && !document.hidden && !isReading();
+function message(text) { if (status) status.textContent = text; }
+function label() {
+  button.disabled = false;
+  button.textContent = enabled ? 'Sesi kapat' : 'Sesi aç';
+  button.setAttribute('aria-pressed', String(enabled));
+  button.setAttribute('aria-label', enabled ? '2020 ortam sesini kapat' : '2020 ortam sesini aç');
+}
+function dispose(node) {
+  if (!sources.has(node)) return;
+  sources.delete(node);
+  clearTimeout(node.timer);
+  node.source.onended = null;
+  try { node.source.stop(); } catch (_) {}
+  node.source.disconnect();
+  node.gain.disconnect();
+  if (active === node) active = null;
+}
+function halt() {
+  ++epoch;
+  selected = null;
+  for (const node of [...sources]) dispose(node);
+}
+function fadeOut() {
+  if (!active || !ctx) return;
+  const node = active;
+  active = null;
+  const gain = node.gain.gain, now = ctx.currentTime;
+  if (gain.cancelAndHoldAtTime) gain.cancelAndHoldAtTime(now);
+  else { gain.cancelScheduledValues(now); gain.setValueAtTime(gain.value, now); }
+  gain.linearRampToValueAtTime(0, now + .22);
+  try { node.source.stop(now + .24); } catch (_) {}
+  node.timer = setTimeout(() => dispose(node), 300);
+}
+function load(file) {
+  if (cache.has(file)) return cache.get(file);
+  const promise = fetch('assets/2020/audio/' + file + '?v=' + version)
+    .then(response => {
+      if (!response.ok) throw Error('Audio HTTP ' + response.status);
+      return response.arrayBuffer();
+    }).then(bytes => ctx.decodeAudioData(bytes));
+  cache.set(file, promise);
+  promise.catch(() => { if (cache.get(file) === promise) cache.delete(file); });
+  return promise;
+}
+async function sync() {
+  const reading = isReading();
+  if (reading !== readingState) {
+    readingState = reading;
+    window.NehirPiano?.sync();
+  }
+  if (!canPlay()) { halt(); return; }
+  const file = currentTrack();
+  if (!file) { halt(); message('Bu görsel için ses bulunamadı.'); return; }
+  if (selected === file) return;
+  selected = file;
+  const token = ++epoch;
+  fadeOut();
+  message('Ses yükleniyor…');
+  try {
+    const buffer = await load(file);
+    if (token !== epoch || !canPlay() || currentTrack() !== file) return;
+    const source = ctx.createBufferSource(), gain = ctx.createGain();
+    const node = { source, gain, timer: null };
+    source.buffer = buffer;
+    source.loop = true;
+    source.connect(gain);
+    gain.connect(ctx.destination);
+    gain.gain.setValueAtTime(0, ctx.currentTime);
+    // Unity preserves the exact mix level approved in the previews.
+    gain.gain.linearRampToValueAtTime(1, ctx.currentTime + .5);
+    sources.add(node);
+    active = node;
+    source.onended = () => dispose(node);
+    source.start();
+    message('');
+    // Bound decoded-buffer memory while retaining the current and recent scene.
+    while (cache.size > 2) {
+      const oldest = [...cache.keys()].find(key => key !== file);
+      cache.delete(oldest);
+    }
+  } catch (_) {
+    if (token !== epoch) return;
+    halt();
+    enabled = false;
+    label();
+    message('Ses yüklenemedi. Yeniden denemek için Sesi aç düğmesine bas.');
+  }
+}
+button.addEventListener('click', async () => {
+  enabled = !enabled;
+  label();
+  message('');
+  halt();
+  if (!enabled) return;
+  const token = epoch;
+  try {
+    if (!ctx) ctx = new (window.AudioContext || window.webkitAudioContext)();
+    await ctx.resume();
+    if (token !== epoch || !enabled) return;
+    sync();
+  } catch (_) {
+    if (token !== epoch) return;
+    enabled = false;
+    halt();
+    label();
+    message('Ses başlatılamadı. Yeniden deneyebilirsin.');
+  }
+});
+slides.addEventListener('scroll', sync, { passive: true });
+root.addEventListener('scroll', sync, { passive: true });
+new MutationObserver(() => {
+  halt();
+  readingState = isReading();
+  window.NehirPiano?.sync();
+  if (isOpen()) sync();
+}).observe(root, { attributes: true, attributeFilter: ['class'] });
+document.addEventListener('visibilitychange', () => {
+  halt();
+  if (document.hidden || !enabled || !isOpen() || !ctx) return;
+  const token = epoch;
+  ctx.resume().then(() => { if (token === epoch) sync(); }).catch(() => {});
+});
+addEventListener('pagehide', halt);
+window.Nehir2020Audio = { readingReady: () => !document.hidden && isReading(), sync };
+label();
 })();
