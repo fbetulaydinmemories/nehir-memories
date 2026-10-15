@@ -1,0 +1,58 @@
+[
+  {
+    "file": "2024_newyear_01_korean_dinner.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "lufs": -25.17,
+    "true_peak_db": -1.99,
+    "sha256": "8c6f11cd501317be5dbe682499eb7f98f36f8b4a32cc2ad2511f2e14dfac32fd"
+  },
+  {
+    "file": "2024_newyear_02_drama_night.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "lufs": -25.14,
+    "true_peak_db": -2.14,
+    "sha256": "a636fe3dffee1e014033794c010f21007552352c4fa420134e20a486449925a1"
+  },
+  {
+    "file": "2024_newyear_03_straw_game.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "lufs": -22.65,
+    "true_peak_db": -2.43,
+    "sha256": "eb80cd2835a08623d983883bdf99092201a93daf753b523454cd2a4ff9088255"
+  },
+  {
+    "file": "2024_newyear_04_fireworks.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "lufs": -24.6,
+    "true_peak_db": -2.4,
+    "sha256": "a3595ae9295a64b4d77c6c6f45545048ab42757eefb707d225b20ff99a3934c5"
+  }
+]

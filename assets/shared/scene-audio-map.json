@@ -199,5 +199,27 @@
       "title": "Clinic Cafe’de kahve",
       "audio": "assets/2023/audio/2023_07_clinic_cafe.mp3"
     }
+  ],
+  "newyear2024": [
+    {
+      "image": "assets/2024-newyear/2024_newyear_01_korean_dinner.webp",
+      "title": "Kore yemeğiyle yılbaşı sofrası",
+      "audio": "assets/2024-newyear/audio/2024_newyear_01_korean_dinner.mp3"
+    },
+    {
+      "image": "assets/2024-newyear/2024_newyear_02_drama_night.webp",
+      "title": "Tatlı, kahkaha ve dizi gecesi",
+      "audio": "assets/2024-newyear/audio/2024_newyear_02_drama_night.mp3"
+    },
+    {
+      "image": "assets/2024-newyear/2024_newyear_04_straw_game.webp",
+      "title": "Bardaklar ve pipetlerle oyun",
+      "audio": "assets/2024-newyear/audio/2024_newyear_03_straw_game.mp3"
+    },
+    {
+      "image": "assets/2024-newyear/2024_newyear_03_fireworks.webp",
+      "title": "Yeni yıla birlikte",
+      "audio": "assets/2024-newyear/audio/2024_newyear_04_fireworks.mp3"
+    }
   ]
 }

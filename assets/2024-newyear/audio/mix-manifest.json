@@ -1,0 +1,272 @@
+[
+  {
+    "year": "2024-newyear",
+    "index": 1,
+    "path": "assets/2024-newyear/audio/2024_newyear_01_korean_dinner.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -42,
+        "source_start": 4,
+        "band_hz": null
+      },
+      {
+        "source": "friends",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -38,
+        "source_start": 12,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -41,
+        "source_start": 29,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -43,
+        "source_start": 39,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "plates",
+        "at": 0.6,
+        "duration": 2,
+        "rms_db": -28,
+        "source_start": 15,
+        "band_hz": null
+      },
+      {
+        "source": "dishes",
+        "at": 3,
+        "duration": 2,
+        "rms_db": -27,
+        "source_start": 49,
+        "band_hz": null
+      },
+      {
+        "source": "glass",
+        "at": 6,
+        "duration": 2,
+        "rms_db": -29,
+        "source_start": 23,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 9,
+        "duration": 1.8,
+        "rms_db": -32,
+        "source_start": 33,
+        "band_hz": null
+      },
+      {
+        "source": "dishes",
+        "at": 11,
+        "duration": 2,
+        "rms_db": -30,
+        "source_start": 22,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "8c6f11cd501317be5dbe682499eb7f98f36f8b4a32cc2ad2511f2e14dfac32fd"
+  },
+  {
+    "year": "2024-newyear",
+    "index": 2,
+    "path": "assets/2024-newyear/audio/2024_newyear_02_drama_night.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -42,
+        "source_start": 11,
+        "band_hz": null
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 13,
+        "rms_db": -36,
+        "source_start": 98,
+        "band_hz": [
+          240,
+          900
+        ]
+      },
+      {
+        "source": "snack",
+        "at": 0.5,
+        "duration": 2.5,
+        "rms_db": -27,
+        "source_start": 2,
+        "band_hz": null
+      },
+      {
+        "source": "rustle",
+        "at": 4,
+        "duration": 2,
+        "rms_db": -28,
+        "source_start": 8,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 6.8,
+        "duration": 3,
+        "rms_db": -25,
+        "source_start": 7,
+        "band_hz": null
+      },
+      {
+        "source": "blanket",
+        "at": 10,
+        "duration": 1.7,
+        "rms_db": -32,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "cat",
+        "at": 12,
+        "duration": 1,
+        "rms_db": -34,
+        "source_start": 0,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "a636fe3dffee1e014033794c010f21007552352c4fa420134e20a486449925a1"
+  },
+  {
+    "year": "2024-newyear",
+    "index": 3,
+    "path": "assets/2024-newyear/audio/2024_newyear_03_straw_game.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -43,
+        "source_start": 22,
+        "band_hz": null
+      },
+      {
+        "source": "glasses",
+        "at": 0.7,
+        "duration": 2.5,
+        "rms_db": -25,
+        "source_start": 5,
+        "band_hz": null
+      },
+      {
+        "source": "straw",
+        "at": 3.3,
+        "duration": 2,
+        "rms_db": -27,
+        "source_start": 1,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 5.7,
+        "duration": 2.5,
+        "rms_db": -25,
+        "source_start": 9,
+        "band_hz": null
+      },
+      {
+        "source": "glass",
+        "at": 8.5,
+        "duration": 1.3,
+        "rms_db": -28,
+        "source_start": 36,
+        "band_hz": null
+      },
+      {
+        "source": "straw",
+        "at": 10,
+        "duration": 1.4,
+        "rms_db": -29,
+        "source_start": 2,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 11.5,
+        "duration": 2,
+        "rms_db": -27,
+        "source_start": 19,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "eb80cd2835a08623d983883bdf99092201a93daf753b523454cd2a4ff9088255"
+  },
+  {
+    "year": "2024-newyear",
+    "index": 4,
+    "path": "assets/2024-newyear/audio/2024_newyear_04_fireworks.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -43,
+        "source_start": 14,
+        "band_hz": null
+      },
+      {
+        "source": "fireworks",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -26,
+        "source_start": 48,
+        "band_hz": [
+          90,
+          1800
+        ]
+      },
+      {
+        "source": "crowd2",
+        "at": 2,
+        "duration": 10,
+        "rms_db": -41,
+        "source_start": 21,
+        "band_hz": [
+          200,
+          850
+        ]
+      },
+      {
+        "source": "fabric",
+        "at": 11,
+        "duration": 1.5,
+        "rms_db": -36,
+        "source_start": 66,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "a3595ae9295a64b4d77c6c6f45545048ab42757eefb707d225b20ff99a3934c5"
+  }
+]
