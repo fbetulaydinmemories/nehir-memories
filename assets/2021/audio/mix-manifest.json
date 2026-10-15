@@ -1,0 +1,766 @@
+[
+  {
+    "year": "2021",
+    "index": 1,
+    "path": "assets/2021/audio/2021_01_classroom.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -43,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "canteen",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -30,
+        "source_start": 31,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "canteen",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -33,
+        "source_start": 48,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -35,
+        "source_start": 58,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "steps",
+        "at": 1,
+        "duration": 4,
+        "rms_db": -28,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "chair",
+        "at": 6,
+        "duration": 2,
+        "rms_db": -27,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 10,
+        "duration": 2,
+        "rms_db": -30,
+        "source_start": 0,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "617cd200e9f9ef663057a0298e84647734ff1790fb909a411d1db08ccfdb076f"
+  },
+  {
+    "year": "2021",
+    "index": 2,
+    "path": "assets/2021/audio/2021_02_computer_lab.mp3",
+    "events": [
+      {
+        "source": "fan",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -40,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "keyboard",
+        "at": 0.5,
+        "duration": 3,
+        "rms_db": -25,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "mouse",
+        "at": 4.1,
+        "duration": 0.5,
+        "rms_db": -28,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 5,
+        "duration": 2,
+        "rms_db": -27,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 7,
+        "duration": 3.5,
+        "rms_db": -25,
+        "source_start": 4,
+        "band_hz": null
+      },
+      {
+        "source": "keyboard",
+        "at": 11,
+        "duration": 2,
+        "rms_db": -27,
+        "source_start": 0,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "eb42dbf7fe15f35ae13c2517a60de88ffa47b95c21969e42dc1a0f6932b7acab"
+  },
+  {
+    "year": "2021",
+    "index": 3,
+    "path": "assets/2021/audio/2021_03_mirror_photo.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -43,
+        "source_start": 9,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 1,
+        "duration": 2,
+        "rms_db": -30,
+        "source_start": 12,
+        "band_hz": null
+      },
+      {
+        "source": "phone",
+        "at": 4,
+        "duration": 1,
+        "rms_db": -22,
+        "source_start": 1,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 5.2,
+        "duration": 2,
+        "rms_db": -27,
+        "source_start": 12,
+        "band_hz": null
+      },
+      {
+        "source": "phone",
+        "at": 10,
+        "duration": 1,
+        "rms_db": -25,
+        "source_start": 2,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "111a9e5b9323e7cdde332d739c34ef9f30d7c16baf204d9d21be6c76c418db32"
+  },
+  {
+    "year": "2021",
+    "index": 4,
+    "path": "assets/2021/audio/2021_04_academic_team.mp3",
+    "events": [
+      {
+        "source": "friends",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -31,
+        "source_start": 3,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -34,
+        "source_start": 20,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -36,
+        "source_start": 30,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "laugh",
+        "at": 2,
+        "duration": 3,
+        "rms_db": -25,
+        "source_start": 8,
+        "band_hz": null
+      },
+      {
+        "source": "cameras",
+        "at": 6,
+        "duration": 3,
+        "rms_db": -26,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 9.5,
+        "duration": 3,
+        "rms_db": -26,
+        "source_start": 16,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 11,
+        "duration": 2,
+        "rms_db": -30,
+        "source_start": 0,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "1a681c9c263052c0118c548fed3debe3bae027bcf55400342ce4c1417d7e0748"
+  },
+  {
+    "year": "2021",
+    "index": 5,
+    "path": "assets/2021/audio/2021_05_mun_badges.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -45,
+        "source_start": 13,
+        "band_hz": null
+      },
+      {
+        "source": "rustle",
+        "at": 0.5,
+        "duration": 2,
+        "rms_db": -26,
+        "source_start": 2,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 3,
+        "duration": 2,
+        "rms_db": -27,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "mic",
+        "at": 6,
+        "duration": 0.7,
+        "rms_db": -28,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 7,
+        "duration": 2,
+        "rms_db": -29,
+        "source_start": 31,
+        "band_hz": null
+      },
+      {
+        "source": "rustle",
+        "at": 10,
+        "duration": 2.5,
+        "rms_db": -27,
+        "source_start": 6,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "412c29c66169de648da7e6d17398c7806d0c9dad1913f1e0bfcc2c0073514f85"
+  },
+  {
+    "year": "2021",
+    "index": 6,
+    "path": "assets/2021/audio/2021_06_registration.mp3",
+    "events": [
+      {
+        "source": "crowd3",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -32,
+        "source_start": 23,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "crowd3",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -35,
+        "source_start": 40,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -37,
+        "source_start": 50,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "page",
+        "at": 1,
+        "duration": 2,
+        "rms_db": -26,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "pencil",
+        "at": 4,
+        "duration": 3,
+        "rms_db": -30,
+        "source_start": 1,
+        "band_hz": null
+      },
+      {
+        "source": "rustle",
+        "at": 7,
+        "duration": 2,
+        "rms_db": -28,
+        "source_start": 3,
+        "band_hz": null
+      },
+      {
+        "source": "mouse",
+        "at": 10,
+        "duration": 0.5,
+        "rms_db": -27,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 11,
+        "duration": 2,
+        "rms_db": -29,
+        "source_start": 1,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "07226efe1487ca5e4c1800d8ce468aa3f6f2e797c420cc0049eae2d73b20cda3"
+  },
+  {
+    "year": "2021",
+    "index": 7,
+    "path": "assets/2021/audio/2021_07_mun_committee.mp3",
+    "events": [
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -34,
+        "source_start": 31,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -37,
+        "source_start": 48,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -39,
+        "source_start": 58,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "mic",
+        "at": 1,
+        "duration": 0.6,
+        "rms_db": -24,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "gavel",
+        "at": 3,
+        "duration": 1,
+        "rms_db": -23,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "gavel",
+        "at": 8.5,
+        "duration": 1,
+        "rms_db": -26,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 10,
+        "duration": 2,
+        "rms_db": -31,
+        "source_start": 0,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "90f813746540ddb5cc0088398665f3d5bb1c5a3600ed154a9d3c20867dfd3e7b"
+  },
+  {
+    "year": "2021",
+    "index": 8,
+    "path": "assets/2021/audio/2021_08_coffee_photo_booth.mp3",
+    "events": [
+      {
+        "source": "cafe",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -37,
+        "source_start": 14,
+        "band_hz": null
+      },
+      {
+        "source": "coffee",
+        "at": 0.4,
+        "duration": 4.5,
+        "rms_db": -27,
+        "source_start": 1,
+        "band_hz": null
+      },
+      {
+        "source": "glass",
+        "at": 4,
+        "duration": 1,
+        "rms_db": -25,
+        "source_start": 2,
+        "band_hz": null
+      },
+      {
+        "source": "countdown",
+        "at": 4.5,
+        "duration": 2.2,
+        "rms_db": -32,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "phone",
+        "at": 7,
+        "duration": 0.8,
+        "rms_db": -23,
+        "source_start": 1,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 7.5,
+        "duration": 3.6,
+        "rms_db": -23,
+        "source_start": 6,
+        "band_hz": null
+      },
+      {
+        "source": "cameras",
+        "at": 11,
+        "duration": 2,
+        "rms_db": -27,
+        "source_start": 0,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "de9706e6bd3d3a814227bf1b84ce0da0196369c4208511244d5607ff579037e9"
+  },
+  {
+    "year": "2021",
+    "index": 9,
+    "path": "assets/2021/audio/2021_09_after_party.mp3",
+    "events": [
+      {
+        "source": "beat",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -43,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "outdoor",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -36,
+        "source_start": 34,
+        "band_hz": null
+      },
+      {
+        "source": "garden",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -31,
+        "source_start": 41,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "garden",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -34,
+        "source_start": 58,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -36,
+        "source_start": 68,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "laugh",
+        "at": 3,
+        "duration": 2.8,
+        "rms_db": -27,
+        "source_start": 10,
+        "band_hz": null
+      },
+      {
+        "source": "steps",
+        "at": 8,
+        "duration": 3,
+        "rms_db": -31,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 11,
+        "duration": 2,
+        "rms_db": -26,
+        "source_start": 19,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "d42406035f5a5461d1f3bdbd9b2d698a5f851259334355f3e95e8d168eb16ee2"
+  },
+  {
+    "year": "2021",
+    "index": 10,
+    "path": "assets/2021/audio/2021_10_closing_ceremony.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -42,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "mic",
+        "at": 0.4,
+        "duration": 0.6,
+        "rms_db": -26,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "voice",
+        "at": 1,
+        "duration": 2,
+        "rms_db": -31,
+        "source_start": 37,
+        "band_hz": [
+          250,
+          700
+        ]
+      },
+      {
+        "source": "applause",
+        "at": 2.6,
+        "duration": 10,
+        "rms_db": -26,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "teens",
+        "at": 3.5,
+        "duration": 4,
+        "rms_db": -31,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "whistle",
+        "at": 4.1,
+        "duration": 2,
+        "rms_db": -24,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "whistle",
+        "at": 8.3,
+        "duration": 2,
+        "rms_db": -25,
+        "source_start": 2,
+        "band_hz": null
+      },
+      {
+        "source": "cameras",
+        "at": 7,
+        "duration": 3,
+        "rms_db": -29,
+        "source_start": 0,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "e04d48d3ec7e838ee0649492b4f9d8587d31935cdf19fad9531458694f247b73"
+  },
+  {
+    "year": "2021",
+    "index": 11,
+    "path": "assets/2021/audio/2021_11_celebration_dinner.mp3",
+    "events": [
+      {
+        "source": "cafe",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -34,
+        "source_start": 52,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "cafe",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -37,
+        "source_start": 69,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -39,
+        "source_start": 79,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "rustle",
+        "at": 1,
+        "duration": 2.5,
+        "rms_db": -25,
+        "source_start": 2,
+        "band_hz": null
+      },
+      {
+        "source": "plates",
+        "at": 4,
+        "duration": 2,
+        "rms_db": -26,
+        "source_start": 5,
+        "band_hz": null
+      },
+      {
+        "source": "glass",
+        "at": 7,
+        "duration": 1.5,
+        "rms_db": -27,
+        "source_start": 10,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 9,
+        "duration": 3.5,
+        "rms_db": -24,
+        "source_start": 14,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "50b11c404de2070a2357b145d4bdfca769178672388c1f143c12fd22c503e567"
+  }
+]

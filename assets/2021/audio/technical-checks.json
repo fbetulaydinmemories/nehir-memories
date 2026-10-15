@@ -1,0 +1,134 @@
+[
+  {
+    "file": "2021_01_classroom.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "sha256": "617cd200e9f9ef663057a0298e84647734ff1790fb909a411d1db08ccfdb076f"
+  },
+  {
+    "file": "2021_02_computer_lab.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "sha256": "eb42dbf7fe15f35ae13c2517a60de88ffa47b95c21969e42dc1a0f6932b7acab"
+  },
+  {
+    "file": "2021_03_mirror_photo.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "sha256": "111a9e5b9323e7cdde332d739c34ef9f30d7c16baf204d9d21be6c76c418db32"
+  },
+  {
+    "file": "2021_04_academic_team.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "sha256": "1a681c9c263052c0118c548fed3debe3bae027bcf55400342ce4c1417d7e0748"
+  },
+  {
+    "file": "2021_05_mun_badges.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "sha256": "412c29c66169de648da7e6d17398c7806d0c9dad1913f1e0bfcc2c0073514f85"
+  },
+  {
+    "file": "2021_06_registration.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "sha256": "07226efe1487ca5e4c1800d8ce468aa3f6f2e797c420cc0049eae2d73b20cda3"
+  },
+  {
+    "file": "2021_07_mun_committee.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "sha256": "90f813746540ddb5cc0088398665f3d5bb1c5a3600ed154a9d3c20867dfd3e7b"
+  },
+  {
+    "file": "2021_08_coffee_photo_booth.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "sha256": "de9706e6bd3d3a814227bf1b84ce0da0196369c4208511244d5607ff579037e9"
+  },
+  {
+    "file": "2021_09_after_party.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "sha256": "d42406035f5a5461d1f3bdbd9b2d698a5f851259334355f3e95e8d168eb16ee2"
+  },
+  {
+    "file": "2021_10_closing_ceremony.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "sha256": "e04d48d3ec7e838ee0649492b4f9d8587d31935cdf19fad9531458694f247b73"
+  },
+  {
+    "file": "2021_11_celebration_dinner.mp3",
+    "duration": 14.027755,
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "sha256": "50b11c404de2070a2357b145d4bdfca769178672388c1f143c12fd22c503e567"
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "reunion2021": [
+    {
+      "image": "assets/2021/2021_01_classroom.webp",
+      "title": "Sınıfta sıradan bir gün",
+      "audio": "assets/2021/audio/2021_01_classroom.mp3"
+    },
+    {
+      "image": "assets/2021/2021_02_guide_writing.webp",
+      "title": "Laboratuvarda Guide hazırlamak",
+      "audio": "assets/2021/audio/2021_02_computer_lab.mp3"
+    },
+    {
+      "image": "assets/2021/2021_03_mirror_selfie.webp",
+      "title": "Aynadaki fotoğrafımız",
+      "audio": "assets/2021/audio/2021_03_mirror_photo.mp3"
+    },
+    {
+      "image": "assets/2021/2021_04_academic_team.webp",
+      "title": "Academic Team",
+      "audio": "assets/2021/audio/2021_04_academic_team.mp3"
+    },
+    {
+      "image": "assets/2021/2021_05_mun_badges.webp",
+      "title": "MUN isimliklerimiz",
+      "audio": "assets/2021/audio/2021_05_mun_badges.mp3"
+    },
+    {
+      "image": "assets/2021/2021_06_registration.webp",
+      "title": "MUN Registration",
+      "audio": "assets/2021/audio/2021_06_registration.mp3"
+    },
+    {
+      "image": "assets/2021/2021_07_committee_board.webp",
+      "title": "Farklı komitelerde USG olmak",
+      "audio": "assets/2021/audio/2021_07_mun_committee.mp3"
+    },
+    {
+      "image": "assets/2021/2021_08_coffee_break.webp",
+      "title": "Coffee Break ve fotoğraf kabini",
+      "audio": "assets/2021/audio/2021_08_coffee_photo_booth.mp3"
+    },
+    {
+      "image": "assets/2021/2021_09_after_party.webp",
+      "title": "Çimli alanda After Party",
+      "audio": "assets/2021/audio/2021_09_after_party.mp3"
+    },
+    {
+      "image": "assets/2021/2021_10_closing_ceremony.webp",
+      "title": "Closing Ceremony · Best Delegate",
+      "audio": "assets/2021/audio/2021_10_closing_ceremony.mp3"
+    },
+    {
+      "image": "assets/2021/2021_11_celebration.webp",
+      "title": "Academic Team kutlama yemeği",
+      "audio": "assets/2021/audio/2021_11_celebration_dinner.mp3"
+    }
+  ]
+}
