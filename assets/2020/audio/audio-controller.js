@@ -1,7 +1,8 @@
-/* Original synthesized 2020 soundscapes; user opt-in only. */
+/* 2020 ambient sound is temporarily disabled pending replacement with approved recordings. */
 (()=>{'use strict';
 const root=document.getElementById('pandemic2020'),slides=document.getElementById('pandemic2020-slides'),button=document.getElementById('pandemic2020-sound'),status=document.getElementById('pandemic2020-audio-status'),read=document.getElementById('pandemic2020-read');
 if(!root||!slides||!button)return;
+button.disabled=true;button.textContent='Ortam sesleri hazırlanıyor';button.setAttribute('aria-label','2020 ortam sesleri geçici olarak devre dışı');button.setAttribute('aria-pressed','false');if(status)status.textContent='2020 ortam sesleri yenileniyor.';return;
 const names=['01_online','02_coffee','03_anime','04_study','05_school','06_friends'];
 let enabled=false,ctx=null,serial=0,active=null,selected=null,readingState=false;
 const cache=new Map();
