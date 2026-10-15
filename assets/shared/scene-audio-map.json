@@ -55,5 +55,112 @@
       "title": "Academic Team kutlama yemeği",
       "audio": "assets/2021/audio/2021_11_celebration_dinner.mp3"
     }
+  ],
+  "senior2022": [
+    {
+      "image": "assets/2022/2022_01_summer_school.webp",
+      "title": "Yazın başlayan okul yılı",
+      "audio": "assets/2022/audio/2022_01_summer_school.mp3"
+    },
+    {
+      "image": "assets/2022/2022_02_classroom_anxiety.webp",
+      "title": "Gelecek kaygısı",
+      "audio": "assets/2022/audio/2022_02_future_anxiety.mp3"
+    },
+    {
+      "image": "assets/2022/2022_03_exam_preparation.webp",
+      "title": "Koridorun sonunda test çözmek",
+      "audio": "assets/2022/audio/2022_03_studying_corridor.mp3"
+    },
+    {
+      "image": "assets/2022/2022_04_birthday_candle.webp",
+      "title": "Nehir’in doğum günü",
+      "audio": "assets/2022/audio/2022_04_birthday.mp3"
+    },
+    {
+      "image": "assets/2022/2022_05_studio_graduation.webp",
+      "title": "Stüdyoda mezuniyet fotoğrafları",
+      "audio": "assets/2022/audio/2022_05_studio_photos.mp3"
+    },
+    {
+      "image": "assets/2022/2022_06_classroom_sunset.webp",
+      "title": "Sınıfta gün batımı",
+      "audio": "assets/2022/audio/2022_06_sunset_classroom.mp3"
+    },
+    {
+      "image": "assets/2022/2022_07_study_camp.webp",
+      "title": "Kızılcahamam kampında deneme sınavı",
+      "audio": "assets/2022/audio/2022_07_exam_camp.mp3"
+    },
+    {
+      "image": "assets/2022/2022_08_hotel_room.webp",
+      "title": "Otel odasında dertleşmek",
+      "audio": "assets/2022/audio/2022_08_hotel_room.mp3"
+    },
+    {
+      "image": "assets/2022/2022_09B_football_evening.webp",
+      "title": "Akşam halı saha maçı",
+      "audio": "assets/2022/audio/2022_09_football_match.mp3"
+    },
+    {
+      "image": "assets/2022/2022_09_cafeteria.webp",
+      "title": "Yemekhanede birlikte öğle yemeği",
+      "audio": "assets/2022/audio/2022_10_cafeteria.mp3"
+    },
+    {
+      "image": "assets/2022/2022_10_exam_rankings.webp",
+      "title": "Sınav sıralamalarına bakmak",
+      "audio": "assets/2022/audio/2022_11_exam_rankings.mp3"
+    },
+    {
+      "image": "assets/2022/2022_11_national_library.webp",
+      "title": "Millet Kütüphanesi’nde karşılaşmak",
+      "audio": "assets/2022/audio/2022_12_library.mp3"
+    },
+    {
+      "image": "assets/2022/2022_12_school_graduation.webp",
+      "title": "Okul bahçesinde mezuniyet fotoğrafları",
+      "audio": "assets/2022/audio/2022_13_graduation_garden.mp3"
+    },
+    {
+      "image": "assets/2022/2022_13_diplomas_yearbooks.webp",
+      "title": "Diplomalarımız ve yıllıklarımız",
+      "audio": "assets/2022/audio/2022_14_diplomas_yearbooks.mp3"
+    },
+    {
+      "image": "assets/2022/2022_14_graduation_host.webp",
+      "title": "Mezuniyet töreninde sunuculuk",
+      "audio": "assets/2022/audio/2022_15_graduation_stage.mp3"
+    },
+    {
+      "image": "assets/2022/2022_15_graduation_cake.webp",
+      "title": "Mezuniyet pastası ve arkadaşlarımız",
+      "audio": "assets/2022/audio/2022_16_graduation_cake.mp3"
+    },
+    {
+      "image": "assets/2022/2022_16_pasta_at_home.webp",
+      "title": "Nehirlerde salçalı makarna",
+      "audio": "assets/2022/audio/2022_17_pasta_at_home.mp3"
+    },
+    {
+      "image": "assets/2022/2022_17_ice_cream.webp",
+      "title": "Serra’yla akşam dondurması",
+      "audio": "assets/2022/audio/2022_18_ice_cream.mp3"
+    },
+    {
+      "image": "assets/2022/2022_18_university_choices.webp",
+      "title": "Üniversite tercih listesi",
+      "audio": "assets/2022/audio/2022_19_university_choices.mp3"
+    },
+    {
+      "image": "assets/2022/2022_20_atilim_university.webp",
+      "title": "Çankaya Üniversitesi gezisi",
+      "audio": "assets/2022/audio/2022_20_cankaya_visit.mp3"
+    },
+    {
+      "image": "assets/2022/2022_21_cankaya_university.webp",
+      "title": "Atılım Üniversitesi gezisi",
+      "audio": "assets/2022/audio/2022_21_atilim_visit.mp3"
+    }
   ]
 }

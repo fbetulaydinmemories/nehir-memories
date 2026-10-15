@@ -10,6 +10,16 @@
     "downloaded_sha256": "5e327980c04ecb5140f2ddecb173d5cedaf49df3ab4c798f5ab809e2b4dc7e84"
   },
   {
+    "key": "mug",
+    "author": "haus.the.child",
+    "source": "https://freesound.org/people/haus.the.child/sounds/839346/",
+    "preview": "https://cdn.freesound.org/previews/839/839346_16563371-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "title": "Freesound - Mug On Table: Setting Down and Picking Up by haus.the.child",
+    "downloaded_sha256": "79b146a10c1138860b31850456fd0e12cc2b608c5e6c8f3d7fa79fd1d04f35b7"
+  },
+  {
     "key": "fabric",
     "author": "moxobna",
     "source": "https://freesound.org/people/moxobna/sounds/100343/",
@@ -20,6 +30,16 @@
     "downloaded_sha256": "2b3b260421575945edf1dae2848e70a3d8928761e8863af208b87719e0b8cb26"
   },
   {
+    "key": "blanket",
+    "author": "OwlStorm",
+    "source": "https://freesound.org/people/OwlStorm/sounds/320138/",
+    "preview": "https://cdn.freesound.org/previews/320/320138_140737-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "title": "Freesound - Blanket Movement 2 by OwlStorm",
+    "downloaded_sha256": "f8cd975c25318e5c0cf4a96c8c1ee39e1f71ab5a5935fbf6436b129e406c9fa3"
+  },
+  {
     "key": "keyboard",
     "author": "Breviceps",
     "source": "https://freesound.org/people/Breviceps/sounds/447909/",
@@ -28,6 +48,16 @@
     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "title": "Freesound - Keyboard typing by Breviceps",
     "downloaded_sha256": "9777520f7b6a68f2b33104ee908437a78c434fb643a3038fab3fbdf235a848c5"
+  },
+  {
+    "key": "lecture",
+    "author": "12572598",
+    "source": "https://freesound.org/people/12572598/sounds/449511/",
+    "preview": "https://cdn.freesound.org/previews/449/449511_9289636-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "title": "Freesound - Theatre Class Lecture by 12572598",
+    "downloaded_sha256": "da09726740009ac3fb898645d036918c8a7476a3b3f622931f4a8d5c280ccfc2"
   },
   {
     "key": "voice",
@@ -110,6 +140,16 @@
     "downloaded_sha256": "d7d46af774ad5ac94e93bd539cdad3b0178387d43647e116c3ed58d1a1623e47"
   },
   {
+    "key": "camera",
+    "source": "https://bigsoundbank.com/trigger-of-camera-1-s2394.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/2394.mp3",
+    "title": "Trigger of Camera #1 — Free Download WAV & MP3 | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "825bf2c531a585d1287fc6bee86e6c6e608485f0389c3f214ec24713db2eaa38"
+  },
+  {
     "key": "phone",
     "source": "https://bigsoundbank.com/iphone-camera-s0448.html",
     "preview": "https://bigsoundbank.com/UPLOAD/mp3/0448.mp3",
@@ -160,6 +200,16 @@
     "downloaded_sha256": "2c051003d9587280cf9881a996d26d787febe6f263d7397f437d6db0021301d9"
   },
   {
+    "key": "dishes",
+    "source": "https://bigsoundbank.com/cutlery-manipulations-on-plate-s1193.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/1193.mp3",
+    "title": "Cutlery, Manipulations on Plate — Free Download WAV & MP3 | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "83d63e6d701f7557fa792893cbd46f67c76e0ba5fbb1fa4b6e676e45905e9532"
+  },
+  {
     "key": "plates",
     "source": "https://bigsoundbank.com/6-small-plates-manipulations-s1188.html",
     "preview": "https://bigsoundbank.com/UPLOAD/mp3/1188.mp3",
@@ -188,6 +238,56 @@
     "license_url": "https://bigsoundbank.com/licenses.html",
     "author": "Joseph SARDIN / BigSoundBank (see source page)",
     "downloaded_sha256": "c2cbf38a4b2d8e845388243a7f74fb21ebcc3814aae70dd548bd78aec92cd84f"
+  },
+  {
+    "key": "clock",
+    "source": "https://bigsoundbank.com/clock-s0007.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/0007.mp3",
+    "title": "Clock — Free Download WAV & MP3 | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "86d8c2af45b11f2abc7ba09acd060d02665e52cebeca162dfde478fcf1c86458"
+  },
+  {
+    "key": "lighter",
+    "source": "https://bigsoundbank.com/lighter-s0049.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/0049.mp3",
+    "title": "Lighter — Free Sound Effect Download | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "4221b6c421f23a8a0808a0187d4921fb562372c82a083cf3b782b1b3e7d1b2e4"
+  },
+  {
+    "key": "soccer",
+    "source": "https://bigsoundbank.com/ball-kicked-s1044.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/1044.mp3",
+    "title": "Ball Kicked — Free Sound Effect Download | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "ac31ec762a4bea334faa35024f9ecdc151cad2f6d40db7a47f92155728b434ab"
+  },
+  {
+    "key": "football",
+    "source": "https://bigsoundbank.com/school-playground-football-s1072.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/1072.mp3",
+    "title": "School Playground, Football — Free Download WAV & MP3 | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "9f8c6e8533f387291cb17dbc5b54f0bbf724a333567f41f21b3ce1e9093b828e"
+  },
+  {
+    "key": "cat",
+    "source": "https://bigsoundbank.com/little-meow-of-a-cat-s0494.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/0494.mp3",
+    "title": "Little Meow of a Cat #1 — Free Sound Effect Download | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "dc7d272ad4adac6c7bbfe25e1a0cc2dfbf1048e024a0a438e067ab1c61e951ed"
   },
   {
     "key": "mouse",
@@ -240,6 +340,16 @@
     "downloaded_sha256": "955f82bacfdf50d1f581441391ef76fb7e074efd76375ca4b02924e5a21655c5"
   },
   {
+    "key": "street",
+    "source": "https://bigsoundbank.com/paris-by-night-s0680.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/0680.mp3",
+    "title": "Paris by Night — Free Download WAV & MP3 | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "3acef3f248c8a8af23c6fef1b31d18000fcd77a14ca952f35ff2d233ac7c307c"
+  },
+  {
     "key": "steps",
     "source": "https://bigsoundbank.com/fast-steps-on-concrete-s1318.html",
     "preview": "https://bigsoundbank.com/UPLOAD/mp3/1318.mp3",
@@ -248,6 +358,26 @@
     "license_url": "https://bigsoundbank.com/licenses.html",
     "author": "Joseph SARDIN / BigSoundBank (see source page)",
     "downloaded_sha256": "184cdcb26f3f8a3fe0c4eefc0c058ee8c9b83dadef10bec39ee375162c65abdd"
+  },
+  {
+    "key": "birds",
+    "source": "https://bigsoundbank.com/wake-birds-3-s0999.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/0999.mp3",
+    "title": "Birds Waking #3 — Free Download WAV & MP3 | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "aa98471a9f33755284d6456cd2a3b9425ae6efa57cb7a8df6bb1ff0597b0ddab"
+  },
+  {
+    "key": "crowd2",
+    "source": "https://bigsoundbank.com/outside-talks-2-s2969.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/2969.mp3",
+    "title": "Outside Talks #2 — Free Download WAV & MP3 | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "b890fa8bc3b0864c6ad327530cc1a131fd948beb1b9907112416329b53ec712d"
   },
   {
     "key": "crowd3",
@@ -278,6 +408,16 @@
     "license_url": "https://bigsoundbank.com/licenses.html",
     "author": "Joseph SARDIN / BigSoundBank (see source page)",
     "downloaded_sha256": "da97ae7ca4d83c9e129a515e1c09bc48883a89616868f45665aaa6e7cc56ab2a"
+  },
+  {
+    "key": "breath",
+    "source": "https://bigsoundbank.com/blow-hard-2-s1603.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/1603.mp3",
+    "title": "Blow Hard #2 — Free Sound Effect Download | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "b71202aa82bd181e1be21288580b92ae338ffc97d6fb9c4fb75fe026e7c27a61"
   },
   {
     "key": "countdown",

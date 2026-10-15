@@ -1,0 +1,1393 @@
+[
+  {
+    "year": "2022",
+    "index": 1,
+    "path": "assets/2022/audio/2022_01_summer_school.mp3",
+    "events": [
+      {
+        "source": "birds",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -35,
+        "source_start": 19,
+        "band_hz": null
+      },
+      {
+        "source": "garden",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -37,
+        "source_start": 12,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "garden",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -40,
+        "source_start": 29,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -42,
+        "source_start": 39,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "gavel",
+        "at": 2,
+        "duration": 0.3,
+        "rms_db": -29,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "gavel",
+        "at": 6,
+        "duration": 0.25,
+        "rms_db": -32,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 9,
+        "duration": 2,
+        "rms_db": -33,
+        "source_start": 22,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "3bffa4a0185a91a93079cc74bf043d678317655a9b09f9a6f92d0ecc50d177fe"
+  },
+  {
+    "year": "2022",
+    "index": 2,
+    "path": "assets/2022/audio/2022_02_future_anxiety.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -43,
+        "source_start": 12,
+        "band_hz": null
+      },
+      {
+        "source": "clock",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -36,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "pencil",
+        "at": 2,
+        "duration": 2,
+        "rms_db": -29,
+        "source_start": 7,
+        "band_hz": null
+      },
+      {
+        "source": "chair",
+        "at": 7,
+        "duration": 1.5,
+        "rms_db": -30,
+        "source_start": 1,
+        "band_hz": null
+      },
+      {
+        "source": "pencil",
+        "at": 10,
+        "duration": 2,
+        "rms_db": -31,
+        "source_start": 11,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "3392b780c6fec0b6fba62edc915001432467465ebe7557fc38f3f2bfd220cfdd"
+  },
+  {
+    "year": "2022",
+    "index": 3,
+    "path": "assets/2022/audio/2022_03_studying_corridor.mp3",
+    "events": [
+      {
+        "source": "canteen",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -30,
+        "source_start": 64,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "canteen",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -33,
+        "source_start": 81,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -35,
+        "source_start": 91,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "page",
+        "at": 0.7,
+        "duration": 2,
+        "rms_db": -25,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "pencil",
+        "at": 3,
+        "duration": 3,
+        "rms_db": -27,
+        "source_start": 9,
+        "band_hz": null
+      },
+      {
+        "source": "steps",
+        "at": 7,
+        "duration": 3,
+        "rms_db": -30,
+        "source_start": 4,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 10,
+        "duration": 1.3,
+        "rms_db": -30,
+        "source_start": 30,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 12,
+        "duration": 1,
+        "rms_db": -28,
+        "source_start": 1,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "17a79c7b50a6ab2134aa55ddf7ee241d9d0a6e8f2eb149ca44b41ebd6b5bd134"
+  },
+  {
+    "year": "2022",
+    "index": 4,
+    "path": "assets/2022/audio/2022_04_birthday.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -43,
+        "source_start": 18,
+        "band_hz": null
+      },
+      {
+        "source": "lighter",
+        "at": 1,
+        "duration": 2,
+        "rms_db": -25,
+        "source_start": 1,
+        "band_hz": null
+      },
+      {
+        "source": "breath",
+        "at": 4,
+        "duration": 0.8,
+        "rms_db": -31,
+        "source_start": 1,
+        "band_hz": [
+          180,
+          4000
+        ]
+      },
+      {
+        "source": "laugh",
+        "at": 6,
+        "duration": 2,
+        "rms_db": -27,
+        "source_start": 8,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 10,
+        "duration": 2,
+        "rms_db": -29,
+        "source_start": 18,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "f8f7cb4bc3ef4a4096ce5be5e7d255d9668098097732f44ae2212218a16eb941"
+  },
+  {
+    "year": "2022",
+    "index": 5,
+    "path": "assets/2022/audio/2022_05_studio_photos.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -41,
+        "source_start": 5,
+        "band_hz": null
+      },
+      {
+        "source": "voice",
+        "at": 1,
+        "duration": 2,
+        "rms_db": -32,
+        "source_start": 54,
+        "band_hz": [
+          250,
+          800
+        ]
+      },
+      {
+        "source": "camera",
+        "at": 3,
+        "duration": 0.6,
+        "rms_db": -23,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 4,
+        "duration": 2,
+        "rms_db": -28,
+        "source_start": 44,
+        "band_hz": null
+      },
+      {
+        "source": "camera",
+        "at": 7,
+        "duration": 0.6,
+        "rms_db": -24,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "voice",
+        "at": 8,
+        "duration": 2,
+        "rms_db": -34,
+        "source_start": 62,
+        "band_hz": [
+          250,
+          800
+        ]
+      },
+      {
+        "source": "cameras",
+        "at": 10,
+        "duration": 2.5,
+        "rms_db": -27,
+        "source_start": 0,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "6408981e76a52b40beafa0eff5492346d7f6a4bfdc2166c6a1f09b6b8b6d0c88"
+  },
+  {
+    "year": "2022",
+    "index": 6,
+    "path": "assets/2022/audio/2022_06_sunset_classroom.mp3",
+    "events": [
+      {
+        "source": "outdoor",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -39,
+        "source_start": 52,
+        "band_hz": null
+      },
+      {
+        "source": "friends",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -38,
+        "source_start": 32,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -41,
+        "source_start": 49,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -43,
+        "source_start": 59,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "mug",
+        "at": 2,
+        "duration": 1.8,
+        "rms_db": -25,
+        "source_start": 5,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 6,
+        "duration": 2,
+        "rms_db": -33,
+        "source_start": 17,
+        "band_hz": null
+      },
+      {
+        "source": "mug",
+        "at": 9,
+        "duration": 1.5,
+        "rms_db": -28,
+        "source_start": 12,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "941aa25e2a48a09ebd5822b47179bb2be4dd8c5f488c64a67f966f20bee86999"
+  },
+  {
+    "year": "2022",
+    "index": 7,
+    "path": "assets/2022/audio/2022_07_exam_camp.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -43,
+        "source_start": 21,
+        "band_hz": null
+      },
+      {
+        "source": "pencil",
+        "at": 0.5,
+        "duration": 5,
+        "rms_db": -28,
+        "source_start": 2,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 5.7,
+        "duration": 1.5,
+        "rms_db": -26,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "pencil",
+        "at": 7,
+        "duration": 4,
+        "rms_db": -31,
+        "source_start": 11,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 11.5,
+        "duration": 2,
+        "rms_db": -28,
+        "source_start": 1,
+        "band_hz": null
+      },
+      {
+        "source": "chair",
+        "at": 12,
+        "duration": 0.8,
+        "rms_db": -34,
+        "source_start": 0,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "92b3f8f4e42d374ded178045b7438d2699694f422e47fdc63dce829205b65479"
+  },
+  {
+    "year": "2022",
+    "index": 8,
+    "path": "assets/2022/audio/2022_08_hotel_room.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -41,
+        "source_start": 24,
+        "band_hz": null
+      },
+      {
+        "source": "blanket",
+        "at": 0.6,
+        "duration": 1.8,
+        "rms_db": -27,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "voice",
+        "at": 3,
+        "duration": 5,
+        "rms_db": -38,
+        "source_start": 88,
+        "band_hz": [
+          230,
+          800
+        ]
+      },
+      {
+        "source": "laugh",
+        "at": 5,
+        "duration": 2,
+        "rms_db": -29,
+        "source_start": 12,
+        "band_hz": null
+      },
+      {
+        "source": "blanket",
+        "at": 8.3,
+        "duration": 1.8,
+        "rms_db": -30,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 11,
+        "duration": 1.5,
+        "rms_db": -31,
+        "source_start": 19,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "6d04a3bcd471c8389e618b76175c4969f7a4e559c46d1e1e398c2db9fcf851d3"
+  },
+  {
+    "year": "2022",
+    "index": 9,
+    "path": "assets/2022/audio/2022_09_football_match.mp3",
+    "events": [
+      {
+        "source": "football",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -34,
+        "source_start": 24,
+        "band_hz": null
+      },
+      {
+        "source": "soccer",
+        "at": 1,
+        "duration": 2,
+        "rms_db": -25,
+        "source_start": 1,
+        "band_hz": null
+      },
+      {
+        "source": "steps",
+        "at": 4,
+        "duration": 2,
+        "rms_db": -29,
+        "source_start": 8,
+        "band_hz": null
+      },
+      {
+        "source": "soccer",
+        "at": 7,
+        "duration": 2,
+        "rms_db": -26,
+        "source_start": 6,
+        "band_hz": null
+      },
+      {
+        "source": "teens",
+        "at": 10,
+        "duration": 2,
+        "rms_db": -30,
+        "source_start": 2,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "c6e4fb4817480058fe0671807fd516229f70c0150568c13ae3ce4057c339fd65"
+  },
+  {
+    "year": "2022",
+    "index": 10,
+    "path": "assets/2022/audio/2022_10_cafeteria.mp3",
+    "events": [
+      {
+        "source": "canteen",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -32,
+        "source_start": 10,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "canteen",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -35,
+        "source_start": 27,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -37,
+        "source_start": 37,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "plates",
+        "at": 0.8,
+        "duration": 3,
+        "rms_db": -25,
+        "source_start": 22,
+        "band_hz": null
+      },
+      {
+        "source": "dishes",
+        "at": 4,
+        "duration": 3,
+        "rms_db": -27,
+        "source_start": 29,
+        "band_hz": null
+      },
+      {
+        "source": "glass",
+        "at": 8,
+        "duration": 2,
+        "rms_db": -28,
+        "source_start": 19,
+        "band_hz": null
+      },
+      {
+        "source": "dishes",
+        "at": 11,
+        "duration": 2,
+        "rms_db": -29,
+        "source_start": 38,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "76559fe09ad528c095633d3a7a1d03cc756269d9907016d3b5de8c825c2aa59a"
+  },
+  {
+    "year": "2022",
+    "index": 11,
+    "path": "assets/2022/audio/2022_11_exam_rankings.mp3",
+    "events": [
+      {
+        "source": "crowd3",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -34,
+        "source_start": 44,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "crowd3",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -37,
+        "source_start": 61,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -39,
+        "source_start": 71,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "steps",
+        "at": 1,
+        "duration": 4,
+        "rms_db": -27,
+        "source_start": 2,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 5,
+        "duration": 2.5,
+        "rms_db": -28,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 9,
+        "duration": 2,
+        "rms_db": -31,
+        "source_start": 54,
+        "band_hz": null
+      },
+      {
+        "source": "voice",
+        "at": 11,
+        "duration": 2,
+        "rms_db": -36,
+        "source_start": 75,
+        "band_hz": [
+          250,
+          850
+        ]
+      }
+    ],
+    "duration": 14,
+    "sha256": "eb047547f7c2d6c5a9b61355742feb69a06834ee26ca05252b5866e65b5352f5"
+  },
+  {
+    "year": "2022",
+    "index": 12,
+    "path": "assets/2022/audio/2022_12_library.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -42,
+        "source_start": 8,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 1,
+        "duration": 2,
+        "rms_db": -28,
+        "source_start": 1,
+        "band_hz": null
+      },
+      {
+        "source": "steps",
+        "at": 4,
+        "duration": 2.7,
+        "rms_db": -34,
+        "source_start": 6,
+        "band_hz": null
+      },
+      {
+        "source": "voice",
+        "at": 7,
+        "duration": 3,
+        "rms_db": -39,
+        "source_start": 14,
+        "band_hz": [
+          180,
+          650
+        ]
+      },
+      {
+        "source": "page",
+        "at": 11,
+        "duration": 2,
+        "rms_db": -30,
+        "source_start": 0,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "3d62284631dde9ad58b44e78a4bc45ff515fca63ac3753c24b0e9d4655f65a82"
+  },
+  {
+    "year": "2022",
+    "index": 13,
+    "path": "assets/2022/audio/2022_13_graduation_garden.mp3",
+    "events": [
+      {
+        "source": "outdoor",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -37,
+        "source_start": 72,
+        "band_hz": null
+      },
+      {
+        "source": "garden",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -34,
+        "source_start": 93,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "garden",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -37,
+        "source_start": 110,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -39,
+        "source_start": 120,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "fabric",
+        "at": 1,
+        "duration": 2,
+        "rms_db": -29,
+        "source_start": 12,
+        "band_hz": null
+      },
+      {
+        "source": "cameras",
+        "at": 3,
+        "duration": 3,
+        "rms_db": -27,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 6.5,
+        "duration": 3,
+        "rms_db": -24,
+        "source_start": 7,
+        "band_hz": null
+      },
+      {
+        "source": "camera",
+        "at": 10,
+        "duration": 0.6,
+        "rms_db": -26,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 11,
+        "duration": 2,
+        "rms_db": -26,
+        "source_start": 18,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "aff6e0ee1aff0dc31a73e4b99f6ea3b6f2047eb9373140a9c490052172d14868"
+  },
+  {
+    "year": "2022",
+    "index": 14,
+    "path": "assets/2022/audio/2022_14_diplomas_yearbooks.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -45,
+        "source_start": 15,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 0.5,
+        "duration": 2.5,
+        "rms_db": -24,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 4,
+        "duration": 2.5,
+        "rms_db": -25,
+        "source_start": 0.7,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 7,
+        "duration": 2,
+        "rms_db": -30,
+        "source_start": 8,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 10,
+        "duration": 3,
+        "rms_db": -26,
+        "source_start": 0.1,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "90c9cee2ad942554b125afae21a4f85d75afa7dfd5a7b8650e014d44f2c9f64c"
+  },
+  {
+    "year": "2022",
+    "index": 15,
+    "path": "assets/2022/audio/2022_15_graduation_stage.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -39,
+        "source_start": 4,
+        "band_hz": null
+      },
+      {
+        "source": "mic",
+        "at": 0.5,
+        "duration": 0.7,
+        "rms_db": -24,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "lecture",
+        "at": 2,
+        "duration": 3,
+        "rms_db": -33,
+        "source_start": 4,
+        "band_hz": [
+          250,
+          850
+        ]
+      },
+      {
+        "source": "applause",
+        "at": 5.5,
+        "duration": 7,
+        "rms_db": -25,
+        "source_start": 4,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 11,
+        "duration": 1.3,
+        "rms_db": -31,
+        "source_start": 0,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "3ab3e94e3af78d2dd671e952be52550a02830e1e4a26228cdf972a4c29203a41"
+  },
+  {
+    "year": "2022",
+    "index": 16,
+    "path": "assets/2022/audio/2022_16_graduation_cake.mp3",
+    "events": [
+      {
+        "source": "crowd2",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -31,
+        "source_start": 49,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "crowd2",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -34,
+        "source_start": 66,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -36,
+        "source_start": 76,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "plates",
+        "at": 1,
+        "duration": 2,
+        "rms_db": -28,
+        "source_start": 35,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 3.4,
+        "duration": 3,
+        "rms_db": -25,
+        "source_start": 1,
+        "band_hz": null
+      },
+      {
+        "source": "cameras",
+        "at": 7,
+        "duration": 3,
+        "rms_db": -26,
+        "source_start": 1,
+        "band_hz": null
+      },
+      {
+        "source": "glass",
+        "at": 11,
+        "duration": 1,
+        "rms_db": -27,
+        "source_start": 14,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "8d7762d206ede12085c88651096ecfe2abf46fff4346f122a9bca577bbda8c30"
+  },
+  {
+    "year": "2022",
+    "index": 17,
+    "path": "assets/2022/audio/2022_17_pasta_at_home.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -42,
+        "source_start": 26,
+        "band_hz": null
+      },
+      {
+        "source": "plates",
+        "at": 0.7,
+        "duration": 2,
+        "rms_db": -27,
+        "source_start": 46,
+        "band_hz": null
+      },
+      {
+        "source": "dishes",
+        "at": 3.5,
+        "duration": 3,
+        "rms_db": -26,
+        "source_start": 71,
+        "band_hz": null
+      },
+      {
+        "source": "mug",
+        "at": 7,
+        "duration": 2,
+        "rms_db": -31,
+        "source_start": 4,
+        "band_hz": null
+      },
+      {
+        "source": "dishes",
+        "at": 10,
+        "duration": 3,
+        "rms_db": -29,
+        "source_start": 12,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "88963742f6ad8774867a22438a0539be7dfd61a98a6e31ae9aefa7a374c9359f"
+  },
+  {
+    "year": "2022",
+    "index": 18,
+    "path": "assets/2022/audio/2022_18_ice_cream.mp3",
+    "events": [
+      {
+        "source": "street",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -37,
+        "source_start": 18,
+        "band_hz": null
+      },
+      {
+        "source": "friends",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -37,
+        "source_start": 55,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -40,
+        "source_start": 72,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -42,
+        "source_start": 82,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "rustle",
+        "at": 2,
+        "duration": 2,
+        "rms_db": -28,
+        "source_start": 12,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 5,
+        "duration": 2,
+        "rms_db": -27,
+        "source_start": 20,
+        "band_hz": null
+      },
+      {
+        "source": "steps",
+        "at": 8,
+        "duration": 3,
+        "rms_db": -31,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "rustle",
+        "at": 11,
+        "duration": 2,
+        "rms_db": -30,
+        "source_start": 7,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "8b158c754a015b3f61921d81285507b8d82331fd82bcbc3bbd583325650f19ac"
+  },
+  {
+    "year": "2022",
+    "index": 19,
+    "path": "assets/2022/audio/2022_19_university_choices.mp3",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -43,
+        "source_start": 2,
+        "band_hz": null
+      },
+      {
+        "source": "keyboard",
+        "at": 0.7,
+        "duration": 3,
+        "rms_db": -26,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "mouse",
+        "at": 4.2,
+        "duration": 0.5,
+        "rms_db": -28,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "cat",
+        "at": 5.7,
+        "duration": 1.4,
+        "rms_db": -28,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "keyboard",
+        "at": 8,
+        "duration": 3,
+        "rms_db": -29,
+        "source_start": 0.4,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 12,
+        "duration": 1,
+        "rms_db": -32,
+        "source_start": 0,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "a3b7ca15baef85dfcf1bfc7d9273a8cf1668b9383f669dfc0637307f32c77370"
+  },
+  {
+    "year": "2022",
+    "index": 20,
+    "path": "assets/2022/audio/2022_20_cankaya_visit.mp3",
+    "events": [
+      {
+        "source": "birds",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -37,
+        "source_start": 43,
+        "band_hz": null
+      },
+      {
+        "source": "garden",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -35,
+        "source_start": 154,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "garden",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -38,
+        "source_start": 171,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -40,
+        "source_start": 181,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "steps",
+        "at": 1,
+        "duration": 4,
+        "rms_db": -28,
+        "source_start": 13,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 6,
+        "duration": 2,
+        "rms_db": -26,
+        "source_start": 0,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 9,
+        "duration": 2,
+        "rms_db": -31,
+        "source_start": 27,
+        "band_hz": null
+      },
+      {
+        "source": "steps",
+        "at": 11,
+        "duration": 2,
+        "rms_db": -30,
+        "source_start": 21,
+        "band_hz": null
+      }
+    ],
+    "duration": 14,
+    "sha256": "8379d7f6438e1f74a9637f2fd276dea48067b9aadb713f8492e7b305dee6bd90"
+  },
+  {
+    "year": "2022",
+    "index": 21,
+    "path": "assets/2022/audio/2022_21_atilim_visit.mp3",
+    "events": [
+      {
+        "source": "outdoor",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -37,
+        "source_start": 91,
+        "band_hz": null
+      },
+      {
+        "source": "crowd2",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -33,
+        "source_start": 77,
+        "band_hz": [
+          180,
+          1000
+        ]
+      },
+      {
+        "source": "crowd2",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -36,
+        "source_start": 94,
+        "band_hz": [
+          250,
+          1200
+        ]
+      },
+      {
+        "source": "voice",
+        "at": 0,
+        "duration": 14,
+        "rms_db": -38,
+        "source_start": 104,
+        "band_hz": [
+          200,
+          800
+        ]
+      },
+      {
+        "source": "page",
+        "at": 1,
+        "duration": 2,
+        "rms_db": -27,
+        "source_start": 1,
+        "band_hz": null
+      },
+      {
+        "source": "steps",
+        "at": 4,
+        "duration": 3,
+        "rms_db": -30,
+        "source_start": 31,
+        "band_hz": null
+      },
+      {
+        "source": "rustle",
+        "at": 8,
+        "duration": 2,
+        "rms_db": -31,
+        "source_start": 18,
+        "band_hz": null
+      },
+      {
+        "source": "voice",
+        "at": 11,
+        "duration": 2,
+        "rms_db": -35,
+        "source_start": 48,
+        "band_hz": [
+          250,
+          850
+        ]
+      }
+    ],
+    "duration": 14,
+    "sha256": "101b5f3b4f2b203f3ba13327c9149f1e77a380aa2eae1a600dca2922b19040d0"
+  }
+]

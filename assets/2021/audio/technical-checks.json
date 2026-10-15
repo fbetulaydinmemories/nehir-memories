@@ -9,6 +9,8 @@
         "channels": 2
       }
     ],
+    "lufs": -23.05,
+    "true_peak_db": -2.35,
     "sha256": "617cd200e9f9ef663057a0298e84647734ff1790fb909a411d1db08ccfdb076f"
   },
   {
@@ -21,6 +23,8 @@
         "channels": 2
       }
     ],
+    "lufs": -22.38,
+    "true_peak_db": -2.13,
     "sha256": "eb42dbf7fe15f35ae13c2517a60de88ffa47b95c21969e42dc1a0f6932b7acab"
   },
   {
@@ -33,6 +37,8 @@
         "channels": 2
       }
     ],
+    "lufs": -21.65,
+    "true_peak_db": -2.41,
     "sha256": "111a9e5b9323e7cdde332d739c34ef9f30d7c16baf204d9d21be6c76c418db32"
   },
   {
@@ -45,6 +51,8 @@
         "channels": 2
       }
     ],
+    "lufs": -23.03,
+    "true_peak_db": -2.13,
     "sha256": "1a681c9c263052c0118c548fed3debe3bae027bcf55400342ce4c1417d7e0748"
   },
   {
@@ -57,6 +65,8 @@
         "channels": 2
       }
     ],
+    "lufs": -23.81,
+    "true_peak_db": -2.24,
     "sha256": "412c29c66169de648da7e6d17398c7806d0c9dad1913f1e0bfcc2c0073514f85"
   },
   {
@@ -69,6 +79,8 @@
         "channels": 2
       }
     ],
+    "lufs": -23.48,
+    "true_peak_db": -2.25,
     "sha256": "07226efe1487ca5e4c1800d8ce468aa3f6f2e797c420cc0049eae2d73b20cda3"
   },
   {
@@ -81,6 +93,8 @@
         "channels": 2
       }
     ],
+    "lufs": -24.73,
+    "true_peak_db": -2.3,
     "sha256": "90f813746540ddb5cc0088398665f3d5bb1c5a3600ed154a9d3c20867dfd3e7b"
   },
   {
@@ -93,6 +107,8 @@
         "channels": 2
       }
     ],
+    "lufs": -22.88,
+    "true_peak_db": -2.15,
     "sha256": "de9706e6bd3d3a814227bf1b84ce0da0196369c4208511244d5607ff579037e9"
   },
   {
@@ -105,6 +121,8 @@
         "channels": 2
       }
     ],
+    "lufs": -21.27,
+    "true_peak_db": -2.43,
     "sha256": "d42406035f5a5461d1f3bdbd9b2d698a5f851259334355f3e95e8d168eb16ee2"
   },
   {
@@ -117,6 +135,8 @@
         "channels": 2
       }
     ],
+    "lufs": -21.92,
+    "true_peak_db": -2.47,
     "sha256": "e04d48d3ec7e838ee0649492b4f9d8587d31935cdf19fad9531458694f247b73"
   },
   {
@@ -129,6 +149,8 @@
         "channels": 2
       }
     ],
+    "lufs": -23.79,
+    "true_peak_db": -1.97,
     "sha256": "50b11c404de2070a2357b145d4bdfca769178672388c1f143c12fd22c503e567"
   }
 ]
