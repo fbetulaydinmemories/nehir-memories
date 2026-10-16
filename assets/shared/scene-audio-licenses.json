@@ -496,5 +496,14 @@
     "source": "",
     "license_url": "",
     "process": "Synthesized specifically for this scene; not a reused ambient drone."
+  },
+  {
+    "key": "schoolchime",
+    "title": "Original melodic school PA chime",
+    "author": "Original procedural sound design for Nehir Memories",
+    "license": "Project original",
+    "source": "",
+    "license_url": "",
+    "process": "Four-note electronic chime with corridor reflections, mixed with CC0 school-canteen walla (hz37), room tone and distant footsteps."
   }
 ]
