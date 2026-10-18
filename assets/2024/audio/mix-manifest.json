@@ -1,0 +1,1445 @@
+[
+  {
+    "index": 1,
+    "path": "assets/2024/audio/2024_01_coffee_cheesecake.mp3",
+    "duration": 14.4,
+    "target_lufs": -22,
+    "sha256": "19dc42fd700c25e92643183cdb485dd5f017089bdb9d577544b10a29a898b8dc",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14.4,
+        "db": -43,
+        "start": 12,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "womanA",
+        "at": 0.5,
+        "duration": 3.4,
+        "db": -24,
+        "start": 10,
+        "pan": -0.45,
+        "band": [
+          180,
+          5500
+        ],
+        "move": null
+      },
+      {
+        "source": "womanB",
+        "at": 4.4,
+        "duration": 3.2,
+        "db": -24,
+        "start": 10,
+        "pan": 0.45,
+        "band": [
+          180,
+          5500
+        ],
+        "move": null
+      },
+      {
+        "source": "womanA",
+        "at": 9.5,
+        "duration": 2.8,
+        "db": -25,
+        "start": 26,
+        "pan": -0.4,
+        "band": [
+          180,
+          5500
+        ],
+        "move": null
+      },
+      {
+        "source": "laugh",
+        "at": 3,
+        "duration": 2.5,
+        "db": -24,
+        "start": 5,
+        "pan": -0.4,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "laughB",
+        "at": 7.8,
+        "duration": 1.1,
+        "db": -25,
+        "start": 0,
+        "pan": 0.4,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "mug",
+        "at": 1.4,
+        "duration": 1.2,
+        "db": -29,
+        "start": 4,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "dishes",
+        "at": 8.3,
+        "duration": 2,
+        "db": -29,
+        "start": 9,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "mug",
+        "at": 12,
+        "duration": 1.2,
+        "db": -30,
+        "start": 9,
+        "pan": 0,
+        "band": null,
+        "move": null
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "path": "assets/2024/audio/2024_02_school_canteen.mp3",
+    "duration": 14.4,
+    "target_lufs": -22,
+    "sha256": "9d3a4e7cb101bea99ef56bf639436abfde1749e59d9e4c8b4327ae6bfa6c0a77",
+    "events": [
+      {
+        "source": "canteen",
+        "at": 0,
+        "duration": 14.4,
+        "db": -29,
+        "start": 72,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "laughGroup",
+        "at": 1.2,
+        "duration": 2.2,
+        "db": -31,
+        "start": 3,
+        "pan": -0.5,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "chair",
+        "at": 3,
+        "duration": 1.8,
+        "db": -28,
+        "start": 0,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "dishes",
+        "at": 6,
+        "duration": 2,
+        "db": -30,
+        "start": 16,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "glass",
+        "at": 9,
+        "duration": 1,
+        "db": -31,
+        "start": 6,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "steps",
+        "at": 7,
+        "duration": 4,
+        "db": -32,
+        "start": 2,
+        "pan": 0.5,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "schoolchime",
+        "at": 11.4,
+        "duration": 2.3,
+        "db": -34,
+        "start": 0,
+        "pan": 0,
+        "band": [
+          300,
+          3500
+        ],
+        "move": null
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "path": "assets/2024/audio/2024_03_elevator_photo.mp3",
+    "duration": 14.4,
+    "target_lufs": -22,
+    "sha256": "e36e2e7910774c67d1cc20eb6885644744fe5c54eb00d19b80e87ae2225e3c5f",
+    "events": [
+      {
+        "source": "lift",
+        "at": 0,
+        "duration": 11,
+        "db": -31,
+        "start": 15,
+        "pan": 0,
+        "band": [
+          80,
+          5000
+        ],
+        "move": null
+      },
+      {
+        "source": "liftChime",
+        "at": 3.6,
+        "duration": 1,
+        "db": -29,
+        "start": 0,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "womanB",
+        "at": 5.2,
+        "duration": 2.1,
+        "db": -25,
+        "start": 27,
+        "pan": 0.25,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "laughB",
+        "at": 7.4,
+        "duration": 1.1,
+        "db": -24,
+        "start": 0,
+        "pan": -0.3,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "phone",
+        "at": 8.8,
+        "duration": 0.7,
+        "db": -25,
+        "start": 1,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "womanA",
+        "at": 10.5,
+        "duration": 2.3,
+        "db": -28,
+        "start": 41,
+        "pan": -0.2,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14.4,
+        "db": -44,
+        "start": 3,
+        "pan": 0,
+        "band": null,
+        "move": null
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "path": "assets/2024/audio/2024_04_timboo_lunch.mp3",
+    "duration": 14.4,
+    "target_lufs": -22,
+    "sha256": "e6d305eae7338a6af0265bfebd31a1b60ee2de570ffb3769b647ffccfe966dfc",
+    "events": [
+      {
+        "source": "restaurant",
+        "at": 0,
+        "duration": 14.4,
+        "db": -37,
+        "start": 44,
+        "pan": 0,
+        "band": [
+          180,
+          6500
+        ],
+        "move": null
+      },
+      {
+        "source": "womanA",
+        "at": 0.5,
+        "duration": 3.4,
+        "db": -24,
+        "start": 17,
+        "pan": -0.45,
+        "band": [
+          180,
+          5500
+        ],
+        "move": null
+      },
+      {
+        "source": "womanB",
+        "at": 4.4,
+        "duration": 3.2,
+        "db": -24,
+        "start": 15,
+        "pan": 0.45,
+        "band": [
+          180,
+          5500
+        ],
+        "move": null
+      },
+      {
+        "source": "womanA",
+        "at": 9.5,
+        "duration": 2.8,
+        "db": -25,
+        "start": 32,
+        "pan": -0.4,
+        "band": [
+          180,
+          5500
+        ],
+        "move": null
+      },
+      {
+        "source": "laugh",
+        "at": 3.5,
+        "duration": 2.3,
+        "db": -23,
+        "start": 14,
+        "pan": -0.4,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "laughB",
+        "at": 8.2,
+        "duration": 1.1,
+        "db": -24,
+        "start": 0,
+        "pan": 0.4,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "dishes",
+        "at": 1.1,
+        "duration": 2.1,
+        "db": -28,
+        "start": 30,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "dishes",
+        "at": 9.4,
+        "duration": 1.7,
+        "db": -30,
+        "start": 57,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "glass",
+        "at": 12,
+        "duration": 1.1,
+        "db": -29,
+        "start": 18,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "steps",
+        "at": 6.5,
+        "duration": 2.2,
+        "db": -36,
+        "start": 12,
+        "pan": 0,
+        "band": null,
+        "move": null
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "path": "assets/2024/audio/2024_05_hospital_rest.mp3",
+    "duration": 14.4,
+    "target_lufs": -28,
+    "sha256": "c0214f3de6c2d58268dc7864841c705f5366e99bca3fb0a310a40fd30a1dffe4",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14.4,
+        "db": -43,
+        "start": 6,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "fan",
+        "at": 0,
+        "duration": 14.4,
+        "db": -46,
+        "start": 1,
+        "pan": 0,
+        "band": [
+          80,
+          2200
+        ],
+        "move": null
+      },
+      {
+        "source": "steps",
+        "at": 2,
+        "duration": 3,
+        "db": -40,
+        "start": 12,
+        "pan": 0.55,
+        "band": [
+          100,
+          2000
+        ],
+        "move": null
+      },
+      {
+        "source": "blanket",
+        "at": 5.4,
+        "duration": 1.8,
+        "db": -31,
+        "start": 0,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "chair",
+        "at": 8.4,
+        "duration": 1.3,
+        "db": -36,
+        "start": 0.5,
+        "pan": -0.3,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "breathCalm",
+        "at": 10.2,
+        "duration": 3,
+        "db": -37,
+        "start": 3,
+        "pan": 0,
+        "band": [
+          180,
+          2500
+        ],
+        "move": null
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "path": "assets/2024/audio/2024_06_wedding_photo.mp3",
+    "duration": 14.4,
+    "target_lufs": -22,
+    "sha256": "d7aa446a878ba65182105d13ddd7740edee729419962cfcbe5307ff233eb08cb",
+    "events": [
+      {
+        "source": "crowd3",
+        "at": 0,
+        "duration": 14.4,
+        "db": -33,
+        "start": 68,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "weddingRhythm",
+        "at": 0,
+        "duration": 14.4,
+        "db": -38,
+        "start": 0,
+        "pan": 0,
+        "band": [
+          120,
+          5000
+        ],
+        "move": null
+      },
+      {
+        "source": "friends",
+        "at": 0.5,
+        "duration": 3,
+        "db": -28,
+        "start": 22,
+        "pan": -0.3,
+        "band": [
+          180,
+          4500
+        ],
+        "move": null
+      },
+      {
+        "source": "laughGroup",
+        "at": 3.2,
+        "duration": 3,
+        "db": -27,
+        "start": 6,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "womanB",
+        "at": 6.5,
+        "duration": 2.4,
+        "db": -26,
+        "start": 35,
+        "pan": 0.4,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "camera",
+        "at": 5.7,
+        "duration": 0.6,
+        "db": -24,
+        "start": 0,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "cameras",
+        "at": 9,
+        "duration": 2,
+        "db": -28,
+        "start": 1,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "laugh",
+        "at": 11.2,
+        "duration": 2,
+        "db": -26,
+        "start": 19,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "teens",
+        "at": 10.6,
+        "duration": 1.3,
+        "db": -34,
+        "start": 2,
+        "pan": 0,
+        "band": null,
+        "move": null
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "path": "assets/2024/audio/2024_07_university_open_day.mp3",
+    "duration": 14.4,
+    "target_lufs": -22,
+    "sha256": "1b78f4583a68a1dfef8fdd0af83e688859ec6bc2d959047d3ea326f636ee6a12",
+    "events": [
+      {
+        "source": "students",
+        "at": 0,
+        "duration": 14.4,
+        "db": -31,
+        "start": 80,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "page",
+        "at": 0.8,
+        "duration": 1.6,
+        "db": -27,
+        "start": 0,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "steps",
+        "at": 2.7,
+        "duration": 3,
+        "db": -30,
+        "start": 20,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "womanA",
+        "at": 4.2,
+        "duration": 2.8,
+        "db": -26,
+        "start": 63,
+        "pan": -0.3,
+        "band": [
+          200,
+          4500
+        ],
+        "move": null
+      },
+      {
+        "source": "page",
+        "at": 7.3,
+        "duration": 1.7,
+        "db": -28,
+        "start": 0.7,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "womanB",
+        "at": 9.1,
+        "duration": 2.4,
+        "db": -28,
+        "start": 46,
+        "pan": 0.3,
+        "band": [
+          200,
+          4500
+        ],
+        "move": null
+      },
+      {
+        "source": "fabric",
+        "at": 12,
+        "duration": 1.4,
+        "db": -32,
+        "start": 9,
+        "pan": 0,
+        "band": null,
+        "move": null
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "path": "assets/2024/audio/2024_08_seventh_street.mp3",
+    "duration": 14.4,
+    "target_lufs": -22,
+    "sha256": "86399024e05617a42ce968e8ed9f8a2cefb1417735512f387e28ab0026d98d2b",
+    "events": [
+      {
+        "source": "street",
+        "at": 0,
+        "duration": 14.4,
+        "db": -37,
+        "start": 62,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "womanA",
+        "at": 0.4,
+        "duration": 2.4,
+        "db": -24,
+        "start": 22,
+        "pan": -0.6,
+        "band": [
+          180,
+          5500
+        ],
+        "move": null
+      },
+      {
+        "source": "womanB",
+        "at": 3.8,
+        "duration": 2.5,
+        "db": -24,
+        "start": 24,
+        "pan": 0,
+        "band": [
+          180,
+          5500
+        ],
+        "move": null
+      },
+      {
+        "source": "womanC",
+        "at": 7,
+        "duration": 3.6,
+        "db": -24,
+        "start": 4,
+        "pan": 0.6,
+        "band": [
+          180,
+          5500
+        ],
+        "move": null
+      },
+      {
+        "source": "steps",
+        "at": 0,
+        "duration": 6,
+        "db": -29,
+        "start": 1,
+        "pan": -0.45,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "steps",
+        "at": 0.19,
+        "duration": 6,
+        "db": -31,
+        "start": 11,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "steps",
+        "at": 0.42,
+        "duration": 6,
+        "db": -32,
+        "start": 24,
+        "pan": 0.5,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "door",
+        "at": 10.8,
+        "duration": 1.8,
+        "db": -36,
+        "start": 1,
+        "pan": 0.7,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "laugh",
+        "at": 11,
+        "duration": 2,
+        "db": -25,
+        "start": 6,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "laughB",
+        "at": 12.4,
+        "duration": 1.1,
+        "db": -27,
+        "start": 0,
+        "pan": 0,
+        "band": null,
+        "move": null
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "path": "assets/2024/audio/2024_09_cakes_and_art.mp3",
+    "duration": 14.4,
+    "target_lufs": -22,
+    "sha256": "ac7f770a69b08e9c2e7c9c75bdefb5a16a020c38b2c65b2504f83be1682bff20",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14.4,
+        "db": -43,
+        "start": 27,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "restaurant",
+        "at": 0,
+        "duration": 14.4,
+        "db": -40,
+        "start": 98,
+        "pan": 0,
+        "band": [
+          200,
+          4500
+        ],
+        "move": null
+      },
+      {
+        "source": "womanA",
+        "at": 0.4,
+        "duration": 2.4,
+        "db": -24,
+        "start": 30,
+        "pan": -0.6,
+        "band": [
+          180,
+          5500
+        ],
+        "move": null
+      },
+      {
+        "source": "womanB",
+        "at": 3.8,
+        "duration": 2.5,
+        "db": -24,
+        "start": 30,
+        "pan": 0,
+        "band": [
+          180,
+          5500
+        ],
+        "move": null
+      },
+      {
+        "source": "womanC",
+        "at": 7,
+        "duration": 3.6,
+        "db": -24,
+        "start": 6,
+        "pan": 0.6,
+        "band": [
+          180,
+          5500
+        ],
+        "move": null
+      },
+      {
+        "source": "laughGroup",
+        "at": 10.7,
+        "duration": 2.6,
+        "db": -27,
+        "start": 1,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "glasses",
+        "at": 2.8,
+        "duration": 1.4,
+        "db": -29,
+        "start": 3,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "dishes",
+        "at": 6.2,
+        "duration": 1.5,
+        "db": -29,
+        "start": 42,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "plates",
+        "at": 12.5,
+        "duration": 1.1,
+        "db": -30,
+        "start": 23,
+        "pan": 0,
+        "band": null,
+        "move": null
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "path": "assets/2024/audio/2024_10_cinema_foyer.mp3",
+    "duration": 14.4,
+    "target_lufs": -22,
+    "sha256": "1704edfc122e305fe0e68ca01bc41df91491167b5c0c1de4dff114f793580b02",
+    "events": [
+      {
+        "source": "crowd2",
+        "at": 0,
+        "duration": 14.4,
+        "db": -35,
+        "start": 33,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "rustle",
+        "at": 0.8,
+        "duration": 2,
+        "db": -27,
+        "start": 6,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "ticket",
+        "at": 3.3,
+        "duration": 0.2,
+        "db": -27,
+        "start": 0,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "womanB",
+        "at": 4.1,
+        "duration": 2.7,
+        "db": -26,
+        "start": 53,
+        "pan": -0.4,
+        "band": [
+          200,
+          5000
+        ],
+        "move": null
+      },
+      {
+        "source": "door",
+        "at": 7.4,
+        "duration": 2,
+        "db": -30,
+        "start": 1,
+        "pan": 0.4,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "room",
+        "at": 8.5,
+        "duration": 5.5,
+        "db": -37,
+        "start": 2,
+        "pan": 0,
+        "band": [
+          120,
+          4000
+        ],
+        "move": null
+      },
+      {
+        "source": "womanA",
+        "at": 10.1,
+        "duration": 2.2,
+        "db": -28,
+        "start": 81,
+        "pan": 0.3,
+        "band": [
+          200,
+          4500
+        ],
+        "move": null
+      },
+      {
+        "source": "steps",
+        "at": 11.8,
+        "duration": 2,
+        "db": -34,
+        "start": 30,
+        "pan": 0,
+        "band": null,
+        "move": null
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "path": "assets/2024/audio/2024_11_parked_cars.mp3",
+    "duration": 14.4,
+    "target_lufs": -22,
+    "sha256": "9b3a6d4f3c9539c3e09804fbdaf6061dbcad33fc04eb19144934d598f8e4b6a9",
+    "events": [
+      {
+        "source": "street",
+        "at": 0,
+        "duration": 14.4,
+        "db": -36,
+        "start": 91,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "outdoor",
+        "at": 0,
+        "duration": 14.4,
+        "db": -45,
+        "start": 21,
+        "pan": 0,
+        "band": [
+          80,
+          2000
+        ],
+        "move": null
+      },
+      {
+        "source": "engineOffA",
+        "at": 0.1,
+        "duration": 2.4,
+        "db": -29,
+        "start": 28,
+        "pan": -0.6,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "engineOffB",
+        "at": 2.8,
+        "duration": 2.6,
+        "db": -30,
+        "start": 48,
+        "pan": 0.6,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "doorA",
+        "at": 3.3,
+        "duration": 1.2,
+        "db": -28,
+        "start": 2.5,
+        "pan": -0.5,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "doorB",
+        "at": 5.4,
+        "duration": 1.3,
+        "db": -28,
+        "start": 11,
+        "pan": 0.5,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "womanA",
+        "at": 6.8,
+        "duration": 2.5,
+        "db": -25,
+        "start": 72,
+        "pan": -0.3,
+        "band": [
+          180,
+          5000
+        ],
+        "move": null
+      },
+      {
+        "source": "womanB",
+        "at": 10,
+        "duration": 2.3,
+        "db": -25,
+        "start": 38,
+        "pan": 0.3,
+        "band": [
+          180,
+          5000
+        ],
+        "move": null
+      },
+      {
+        "source": "laugh",
+        "at": 12.1,
+        "duration": 1.8,
+        "db": -25,
+        "start": 18,
+        "pan": 0,
+        "band": null,
+        "move": null
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "path": "assets/2024/audio/2024_12_clinic_study.mp3",
+    "duration": 14.4,
+    "target_lufs": -22,
+    "sha256": "537d6fe7a7a7b0cbb618df4a30845d9db4ef79e6151c53ccf957606473e593b2",
+    "events": [
+      {
+        "source": "restaurant",
+        "at": 0,
+        "duration": 14.4,
+        "db": -42,
+        "start": 129,
+        "pan": 0,
+        "band": [
+          160,
+          3500
+        ],
+        "move": null
+      },
+      {
+        "source": "pencil",
+        "at": 0.2,
+        "duration": 3,
+        "db": -25,
+        "start": 3,
+        "pan": -0.25,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "page",
+        "at": 3.5,
+        "duration": 1.5,
+        "db": -26,
+        "start": 0,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "keyboard",
+        "at": 5.2,
+        "duration": 2.4,
+        "db": -29,
+        "start": 2,
+        "pan": 0.35,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "mug",
+        "at": 7.8,
+        "duration": 1.2,
+        "db": -29,
+        "start": 11,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "womanB",
+        "at": 8.6,
+        "duration": 1.9,
+        "db": -30,
+        "start": 21,
+        "pan": 0.2,
+        "band": [
+          180,
+          5000
+        ],
+        "move": null
+      },
+      {
+        "source": "womanA",
+        "at": 11,
+        "duration": 1.7,
+        "db": -30,
+        "start": 53,
+        "pan": -0.2,
+        "band": [
+          180,
+          5000
+        ],
+        "move": null
+      },
+      {
+        "source": "laugh",
+        "at": 12.4,
+        "duration": 1.3,
+        "db": -31,
+        "start": 23,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "pencil",
+        "at": 9,
+        "duration": 3,
+        "db": -29,
+        "start": 10,
+        "pan": 0,
+        "band": null,
+        "move": null
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "path": "assets/2024/audio/2024_13_car_race.mp3",
+    "duration": 14.4,
+    "target_lufs": -21,
+    "sha256": "ee31bed0d552b54a75d2f158d49c11f9f928e1c0122eff92b3cb3eb0cfc8aaf6",
+    "events": [
+      {
+        "source": "road",
+        "at": 0,
+        "duration": 14.4,
+        "db": -31,
+        "start": 25,
+        "pan": 0,
+        "band": [
+          100,
+          6500
+        ],
+        "move": null
+      },
+      {
+        "source": "engineA",
+        "at": 0.4,
+        "duration": 5.8,
+        "db": -24,
+        "start": 0.2,
+        "pan": -0.65,
+        "band": null,
+        "move": 0.05
+      },
+      {
+        "source": "engineB",
+        "at": 5.7,
+        "duration": 3.2,
+        "db": -23,
+        "start": 0.1,
+        "pan": 0.6,
+        "band": null,
+        "move": -0.1
+      },
+      {
+        "source": "engineA",
+        "at": 9,
+        "duration": 4.8,
+        "db": -27,
+        "start": 1.2,
+        "pan": -0.1,
+        "band": null,
+        "move": -0.6
+      },
+      {
+        "source": "outdoor",
+        "at": 0,
+        "duration": 14.4,
+        "db": -40,
+        "start": 33,
+        "pan": 0,
+        "band": [
+          100,
+          5000
+        ],
+        "move": null
+      },
+      {
+        "source": "womanA",
+        "at": 2.9,
+        "duration": 1.3,
+        "db": -27,
+        "start": 93,
+        "pan": -0.5,
+        "band": [
+          250,
+          4500
+        ],
+        "move": null
+      },
+      {
+        "source": "laughB",
+        "at": 4.7,
+        "duration": 1.1,
+        "db": -24,
+        "start": 0,
+        "pan": -0.4,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "womanB",
+        "at": 8.2,
+        "duration": 1.7,
+        "db": -27,
+        "start": 32,
+        "pan": 0.5,
+        "band": [
+          250,
+          4500
+        ],
+        "move": null
+      },
+      {
+        "source": "laugh",
+        "at": 11.4,
+        "duration": 2,
+        "db": -25,
+        "start": 11,
+        "pan": 0.4,
+        "band": null,
+        "move": null
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "path": "assets/2024/audio/2024_14_facetime_study.mp3",
+    "duration": 14.4,
+    "target_lufs": -22,
+    "sha256": "76054e88c7928423d4080b37799d6d5c99b4e8f2794c458d6f3e6c0f04ed5eda",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14.4,
+        "db": -44,
+        "start": 13,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "connect",
+        "at": 0.1,
+        "duration": 0.8,
+        "db": -31,
+        "start": 0,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "keyboard",
+        "at": 1.1,
+        "duration": 2,
+        "db": -29,
+        "start": 1,
+        "pan": -0.4,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "womanA",
+        "at": 2.1,
+        "duration": 2.1,
+        "db": -26,
+        "start": 47,
+        "pan": -0.5,
+        "band": [
+          300,
+          3400
+        ],
+        "move": null
+      },
+      {
+        "source": "womanB",
+        "at": 5.2,
+        "duration": 2.2,
+        "db": -26,
+        "start": 12,
+        "pan": 0,
+        "band": [
+          300,
+          3400
+        ],
+        "move": null
+      },
+      {
+        "source": "womanC",
+        "at": 8.3,
+        "duration": 2.7,
+        "db": -26,
+        "start": 9,
+        "pan": 0.5,
+        "band": [
+          300,
+          3400
+        ],
+        "move": null
+      },
+      {
+        "source": "page",
+        "at": 4,
+        "duration": 1.2,
+        "db": -28,
+        "start": 0,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "pencil",
+        "at": 7.2,
+        "duration": 2.5,
+        "db": -30,
+        "start": 4,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "laughB",
+        "at": 11.4,
+        "duration": 1.1,
+        "db": -28,
+        "start": 0,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "laugh",
+        "at": 12.2,
+        "duration": 1.5,
+        "db": -29,
+        "start": 8,
+        "pan": 0,
+        "band": null,
+        "move": null
+      },
+      {
+        "source": "keyboard",
+        "at": 10.2,
+        "duration": 1.4,
+        "db": -31,
+        "start": 3,
+        "pan": 0,
+        "band": null,
+        "move": null
+      }
+    ]
+  }
+]

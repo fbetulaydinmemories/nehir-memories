@@ -226,5 +226,77 @@
       "title": "Yeni yıla birlikte",
       "audio": "assets/2024-newyear/audio/2024_newyear_04_fireworks.mp3"
     }
+  ],
+  "memories2024": [
+    {
+      "image": "assets/2024/2024_01_clinic_coffee.webp",
+      "title": "Bir Kahve, Bir Dilim San Sebastian",
+      "audio": "assets/2024/audio/2024_01_coffee_cheesecake.mp3"
+    },
+    {
+      "image": "assets/2024/2024_02_school_visit.webp",
+      "title": "Mezun Olduğumuz Koridorlara Dönüş",
+      "audio": "assets/2024/audio/2024_02_school_canteen.mp3"
+    },
+    {
+      "image": "assets/2024/2024_03_elevator.webp",
+      "title": "Asansörde Bir Kare",
+      "audio": "assets/2024/audio/2024_03_elevator_photo.mp3"
+    },
+    {
+      "image": "assets/2024/2024_04_timboo_salad.webp",
+      "title": "Timboo'da Bir Öğle Molası",
+      "audio": "assets/2024/audio/2024_04_timboo_lunch.mp3"
+    },
+    {
+      "image": "assets/2024/2024_05_hospital_recovery.webp",
+      "title": "Ameliyat Sonrası",
+      "audio": "assets/2024/audio/2024_05_hospital_rest.mp3"
+    },
+    {
+      "image": "assets/2024/2024_06_wedding.webp",
+      "title": "Bir Düğün, Bir Sürü Anı",
+      "audio": "assets/2024/audio/2024_06_wedding_photo.mp3"
+    },
+    {
+      "image": "assets/2024/2024_07_university_intro.webp",
+      "title": "Bu Kez Tanıtan Bendim",
+      "audio": "assets/2024/audio/2024_07_university_open_day.mp3"
+    },
+    {
+      "image": "assets/2024/2024_08_seventh_street.webp",
+      "title": "7. Cadde'de Üçümüz",
+      "audio": "assets/2024/audio/2024_08_seventh_street.mp3"
+    },
+    {
+      "image": "assets/2024/2024_09_cakes_and_art.webp",
+      "title": "Cakes & Art'ta Tatlı Bir Mola",
+      "audio": "assets/2024/audio/2024_09_cakes_and_art.mp3"
+    },
+    {
+      "image": "assets/2024/2024_10_cinema.webp",
+      "title": "Amy Winehouse'u İzlemeye",
+      "audio": "assets/2024/audio/2024_10_cinema_foyer.mp3"
+    },
+    {
+      "image": "assets/2024/2024_11_car_hoods.webp",
+      "title": "İki Araba, İki Arkadaş",
+      "audio": "assets/2024/audio/2024_11_parked_cars.mp3"
+    },
+    {
+      "image": "assets/2024/2024_12_clinic_study.webp",
+      "title": "Clinic'te Ders Molası",
+      "audio": "assets/2024/audio/2024_12_clinic_study.mp3"
+    },
+    {
+      "image": "assets/2024/2024_13_car_race.webp",
+      "title": "Kim Daha Hızlı?",
+      "audio": "assets/2024/audio/2024_13_car_race.mp3"
+    },
+    {
+      "image": "assets/2024/2024_14_facetime_study.webp",
+      "title": "Ekranın Üç Köşesinde",
+      "audio": "assets/2024/audio/2024_14_facetime_study.mp3"
+    }
   ]
 }

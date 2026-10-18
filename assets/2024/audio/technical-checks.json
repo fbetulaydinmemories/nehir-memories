@@ -1,0 +1,142 @@
+[
+  {
+    "file": "2024_01_coffee_cheesecake.mp3",
+    "seconds": 14.4,
+    "lufs": -22.39,
+    "true_peak_db": -2.36,
+    "rms": 0.04297443479299545,
+    "seam_jump": 0.00013115064939484,
+    "typical_high_sample_jump": 0.054232459515333176,
+    "sha256": "19dc42fd700c25e92643183cdb485dd5f017089bdb9d577544b10a29a898b8dc"
+  },
+  {
+    "file": "2024_02_school_canteen.mp3",
+    "seconds": 14.4,
+    "lufs": -23.17,
+    "true_peak_db": -2.34,
+    "rms": 0.05068732053041458,
+    "seam_jump": 4.670675843954086e-05,
+    "typical_high_sample_jump": 0.05429082363843918,
+    "sha256": "9d3a4e7cb101bea99ef56bf639436abfde1749e59d9e4c8b4327ae6bfa6c0a77"
+  },
+  {
+    "file": "2024_03_elevator_photo.mp3",
+    "seconds": 14.4,
+    "lufs": -21.86,
+    "true_peak_db": -2.77,
+    "rms": 0.05258669704198837,
+    "seam_jump": 0.02103171870112419,
+    "typical_high_sample_jump": 0.05886593461036682,
+    "sha256": "e36e2e7910774c67d1cc20eb6885644744fe5c54eb00d19b80e87ae2225e3c5f"
+  },
+  {
+    "file": "2024_04_timboo_lunch.mp3",
+    "seconds": 14.4,
+    "lufs": -23.89,
+    "true_peak_db": -2.4,
+    "rms": 0.037376776337623596,
+    "seam_jump": 0.0010267267934978008,
+    "typical_high_sample_jump": 0.06853950768709183,
+    "sha256": "e6d305eae7338a6af0265bfebd31a1b60ee2de570ffb3769b647ffccfe966dfc"
+  },
+  {
+    "file": "2024_05_hospital_rest.mp3",
+    "seconds": 14.4,
+    "lufs": -26.8,
+    "true_peak_db": -2.42,
+    "rms": 0.03342096135020256,
+    "seam_jump": 0.0017485758289694786,
+    "typical_high_sample_jump": 0.0299160685390234,
+    "sha256": "c0214f3de6c2d58268dc7864841c705f5366e99bca3fb0a310a40fd30a1dffe4"
+  },
+  {
+    "file": "2024_06_wedding_photo.mp3",
+    "seconds": 14.4,
+    "lufs": -22.28,
+    "true_peak_db": -2.3,
+    "rms": 0.05154193937778473,
+    "seam_jump": 0.0014671096578240395,
+    "typical_high_sample_jump": 0.11926786601543427,
+    "sha256": "d7aa446a878ba65182105d13ddd7740edee729419962cfcbe5307ff233eb08cb"
+  },
+  {
+    "file": "2024_07_university_open_day.mp3",
+    "seconds": 14.4,
+    "lufs": -23.82,
+    "true_peak_db": -2.42,
+    "rms": 0.047868695110082626,
+    "seam_jump": 0.001580696552991867,
+    "typical_high_sample_jump": 0.07853049039840698,
+    "sha256": "1b78f4583a68a1dfef8fdd0af83e688859ec6bc2d959047d3ea326f636ee6a12"
+  },
+  {
+    "file": "2024_08_seventh_street.mp3",
+    "seconds": 14.4,
+    "lufs": -22.79,
+    "true_peak_db": -2.2,
+    "rms": 0.046681977808475494,
+    "seam_jump": 0.005658106878399849,
+    "typical_high_sample_jump": 0.05834279954433441,
+    "sha256": "86399024e05617a42ce968e8ed9f8a2cefb1417735512f387e28ab0026d98d2b"
+  },
+  {
+    "file": "2024_09_cakes_and_art.mp3",
+    "seconds": 14.4,
+    "lufs": -23.63,
+    "true_peak_db": -2.43,
+    "rms": 0.041060805320739746,
+    "seam_jump": 0.007334697060286999,
+    "typical_high_sample_jump": 0.05379611253738403,
+    "sha256": "ac7f770a69b08e9c2e7c9c75bdefb5a16a020c38b2c65b2504f83be1682bff20"
+  },
+  {
+    "file": "2024_10_cinema_foyer.mp3",
+    "seconds": 14.4,
+    "lufs": -26.43,
+    "true_peak_db": -2.15,
+    "rms": 0.032067202031612396,
+    "seam_jump": 0.00010221824049949646,
+    "typical_high_sample_jump": 0.06479330360889435,
+    "sha256": "1704edfc122e305fe0e68ca01bc41df91491167b5c0c1de4dff114f793580b02"
+  },
+  {
+    "file": "2024_11_parked_cars.mp3",
+    "seconds": 14.4,
+    "lufs": -23.05,
+    "true_peak_db": -2.12,
+    "rms": 0.056779757142066956,
+    "seam_jump": 0.030283033847808838,
+    "typical_high_sample_jump": 0.06348973512649536,
+    "sha256": "9b3a6d4f3c9539c3e09804fbdaf6061dbcad33fc04eb19144934d598f8e4b6a9"
+  },
+  {
+    "file": "2024_12_clinic_study.mp3",
+    "seconds": 14.4,
+    "lufs": -23.85,
+    "true_peak_db": -2.46,
+    "rms": 0.03914259374141693,
+    "seam_jump": 0.0013082621153444052,
+    "typical_high_sample_jump": 0.1285649538040161,
+    "sha256": "537d6fe7a7a7b0cbb618df4a30845d9db4ef79e6151c53ccf957606473e593b2"
+  },
+  {
+    "file": "2024_13_car_race.mp3",
+    "seconds": 14.4,
+    "lufs": -21.66,
+    "true_peak_db": -3.01,
+    "rms": 0.06208175793290138,
+    "seam_jump": 0.002851780503988266,
+    "typical_high_sample_jump": 0.08381018787622452,
+    "sha256": "ee31bed0d552b54a75d2f158d49c11f9f928e1c0122eff92b3cb3eb0cfc8aaf6"
+  },
+  {
+    "file": "2024_14_facetime_study.mp3",
+    "seconds": 14.4,
+    "lufs": -22.47,
+    "true_peak_db": -2.46,
+    "rms": 0.04787454381585121,
+    "seam_jump": 0.0062914881855249405,
+    "typical_high_sample_jump": 0.09951572120189667,
+    "sha256": "76054e88c7928423d4080b37799d6d5c99b4e8f2794c458d6f3e6c0f04ed5eda"
+  }
+]
