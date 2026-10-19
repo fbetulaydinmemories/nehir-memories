@@ -1,0 +1,1071 @@
+[
+  {
+    "index": 1,
+    "title": "Mutfakta Sushi Hazırlığı",
+    "file": "2025_newyear_01_sushi.mp3",
+    "duration": 14.4,
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14.4,
+        "source_start": 2.0,
+        "rms_db": -45,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "rice",
+        "at": 0.3,
+        "duration": 3.8,
+        "source_start": 64.0,
+        "rms_db": -27,
+        "pan": -0.35,
+        "band_hz": null
+      },
+      {
+        "source": "womanA",
+        "at": 0,
+        "duration": 7.0,
+        "source_start": 16.0,
+        "rms_db": -31,
+        "pan": 0.2,
+        "band_hz": [
+          200,
+          2700
+        ]
+      },
+      {
+        "source": "womanB",
+        "at": 5.8,
+        "duration": 7.8,
+        "source_start": 18.0,
+        "rms_db": -32,
+        "pan": -0.2,
+        "band_hz": [
+          230,
+          2600
+        ]
+      },
+      {
+        "source": "cutB",
+        "at": 1,
+        "duration": 0.65,
+        "source_start": 0.0,
+        "rms_db": -26,
+        "pan": -0.5,
+        "band_hz": null
+      },
+      {
+        "source": "cutA",
+        "at": 1.65,
+        "duration": 0.65,
+        "source_start": 0.0,
+        "rms_db": -26,
+        "pan": -0.5,
+        "band_hz": null
+      },
+      {
+        "source": "cutB",
+        "at": 2.3,
+        "duration": 0.65,
+        "source_start": 0.0,
+        "rms_db": -26,
+        "pan": -0.5,
+        "band_hz": null
+      },
+      {
+        "source": "cutA",
+        "at": 4.6,
+        "duration": 0.65,
+        "source_start": 0.0,
+        "rms_db": -26,
+        "pan": -0.5,
+        "band_hz": null
+      },
+      {
+        "source": "cutB",
+        "at": 5.2,
+        "duration": 0.65,
+        "source_start": 0.0,
+        "rms_db": -26,
+        "pan": 0.4,
+        "band_hz": null
+      },
+      {
+        "source": "cutA",
+        "at": 9.2,
+        "duration": 0.65,
+        "source_start": 0.0,
+        "rms_db": -26,
+        "pan": 0.4,
+        "band_hz": null
+      },
+      {
+        "source": "cutB",
+        "at": 9.95,
+        "duration": 0.65,
+        "source_start": 0.0,
+        "rms_db": -26,
+        "pan": 0.4,
+        "band_hz": null
+      },
+      {
+        "source": "cutA",
+        "at": 11,
+        "duration": 0.65,
+        "source_start": 0.0,
+        "rms_db": -26,
+        "pan": 0.4,
+        "band_hz": null
+      },
+      {
+        "source": "plates",
+        "at": 3.4,
+        "duration": 1.8,
+        "source_start": 12.6,
+        "rms_db": -30,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "rice",
+        "at": 7,
+        "duration": 3.0,
+        "source_start": 69.0,
+        "rms_db": -29,
+        "pan": 0.3,
+        "band_hz": null
+      },
+      {
+        "source": "laughB",
+        "at": 11.8,
+        "duration": 1.1,
+        "source_start": 0.0,
+        "rms_db": -27,
+        "pan": 0.1,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 12.6,
+        "duration": 1.4,
+        "source_start": 11.2,
+        "rms_db": -29,
+        "pan": 0,
+        "band_hz": null
+      }
+    ],
+    "sha256": "66185e4885c71ff81f4827473d4a0f1d22a62d106933cf5e6e42d5b79ad016c9",
+    "target_lufs": -21
+  },
+  {
+    "index": 2,
+    "title": "Yılbaşı Sofrasında",
+    "file": "2025_newyear_02_dinner.mp3",
+    "duration": 14.4,
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14.4,
+        "source_start": 15.0,
+        "rms_db": -46,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "womanA",
+        "at": 0,
+        "duration": 4.8,
+        "source_start": 40.0,
+        "rms_db": -31,
+        "pan": -0.55,
+        "band_hz": [
+          180,
+          2400
+        ]
+      },
+      {
+        "source": "womanB",
+        "at": 3.4,
+        "duration": 5.3,
+        "source_start": 32.0,
+        "rms_db": -31,
+        "pan": 0.5,
+        "band_hz": [
+          220,
+          2600
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 7.8,
+        "duration": 3.7,
+        "source_start": 4.0,
+        "rms_db": -32,
+        "pan": -0.2,
+        "band_hz": [
+          230,
+          2500
+        ]
+      },
+      {
+        "source": "womanA",
+        "at": 10.3,
+        "duration": 3.4,
+        "source_start": 60.0,
+        "rms_db": -33,
+        "pan": 0.2,
+        "band_hz": [
+          200,
+          2300
+        ]
+      },
+      {
+        "source": "dishes",
+        "at": 1.4,
+        "duration": 2.0,
+        "source_start": 26.4,
+        "rms_db": -27,
+        "pan": -0.35,
+        "band_hz": null
+      },
+      {
+        "source": "dishes",
+        "at": 5.5,
+        "duration": 2.0,
+        "source_start": 36.6,
+        "rms_db": -27,
+        "pan": 0.4,
+        "band_hz": null
+      },
+      {
+        "source": "dishes",
+        "at": 10.4,
+        "duration": 2.0,
+        "source_start": 43.2,
+        "rms_db": -27,
+        "pan": -0.1,
+        "band_hz": null
+      },
+      {
+        "source": "glass",
+        "at": 3.7,
+        "duration": 1.0,
+        "source_start": 15.8,
+        "rms_db": -29,
+        "pan": 0.55,
+        "band_hz": null
+      },
+      {
+        "source": "mug",
+        "at": 9,
+        "duration": 1.3,
+        "source_start": 9.4,
+        "rms_db": -30,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 11.8,
+        "duration": 2.0,
+        "source_start": 15.4,
+        "rms_db": -28,
+        "pan": 0,
+        "band_hz": null
+      }
+    ],
+    "sha256": "606955d5464ebe397396cfd2a0c4c81fe1aa43157650992d65f7ef58f15a19a7",
+    "target_lufs": -21
+  },
+  {
+    "index": 3,
+    "title": "Yılbaşı Ağacını ve Salonu Süslerken",
+    "file": "2025_newyear_03_decorating.mp3",
+    "duration": 14.4,
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14.4,
+        "source_start": 8.0,
+        "rms_db": -46,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "box",
+        "at": 0.5,
+        "duration": 2.8,
+        "source_start": 0.0,
+        "rms_db": -27,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "womanC",
+        "at": 0.3,
+        "duration": 3.2,
+        "source_start": 7.0,
+        "rms_db": -30,
+        "pan": 0.5,
+        "band_hz": [
+          200,
+          3000
+        ]
+      },
+      {
+        "source": "womanB",
+        "at": 4,
+        "duration": 4.0,
+        "source_start": 44.0,
+        "rms_db": -32,
+        "pan": -0.4,
+        "band_hz": [
+          200,
+          2500
+        ]
+      },
+      {
+        "source": "fabric",
+        "at": 5.2,
+        "duration": 1.8,
+        "source_start": 25.4,
+        "rms_db": -31,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "laughB",
+        "at": 8.9,
+        "duration": 1.1,
+        "source_start": 0.0,
+        "rms_db": -27,
+        "pan": 0.4,
+        "band_hz": null
+      },
+      {
+        "source": "womanA",
+        "at": 10.5,
+        "duration": 3.2,
+        "source_start": 76.0,
+        "rms_db": -32,
+        "pan": 0.2,
+        "band_hz": [
+          200,
+          2400
+        ]
+      },
+      {
+        "source": "original:branch",
+        "at": 3,
+        "duration": 0.6,
+        "rms_db": -31,
+        "pan": -0.4
+      },
+      {
+        "source": "original:ornament",
+        "at": 3.35,
+        "duration": 0.45,
+        "rms_db": -30,
+        "pan": -0.4
+      },
+      {
+        "source": "original:branch",
+        "at": 6.7,
+        "duration": 0.6,
+        "rms_db": -31,
+        "pan": 0.3
+      },
+      {
+        "source": "original:ornament",
+        "at": 7.05,
+        "duration": 0.45,
+        "rms_db": -30,
+        "pan": 0.3
+      },
+      {
+        "source": "original:branch",
+        "at": 10,
+        "duration": 0.6,
+        "rms_db": -31,
+        "pan": -0.1
+      },
+      {
+        "source": "original:ornament",
+        "at": 10.35,
+        "duration": 0.45,
+        "rms_db": -30,
+        "pan": -0.1
+      },
+      {
+        "source": "original:branch",
+        "at": 12,
+        "duration": 0.6,
+        "rms_db": -31,
+        "pan": 0.5
+      },
+      {
+        "source": "original:ornament",
+        "at": 12.35,
+        "duration": 0.45,
+        "rms_db": -30,
+        "pan": 0.5
+      },
+      {
+        "source": "original:festive",
+        "at": 11.4,
+        "duration": 1.5,
+        "rms_db": -38,
+        "pan": 0
+      }
+    ],
+    "sha256": "bd14ad23cd80e0b1dee3471ee48abf055bb239796dfea34de1f8f9d1d78e22ac",
+    "target_lufs": -21
+  },
+  {
+    "index": 4,
+    "title": "O Ses Türkiye ile 2025'e Giriş",
+    "file": "2025_newyear_04_countdown.mp3",
+    "duration": 14.4,
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14.4,
+        "source_start": 11.0,
+        "rms_db": -47,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "applause",
+        "at": 0.2,
+        "duration": 4.8,
+        "source_start": 4.0,
+        "rms_db": -31,
+        "pan": -0.65,
+        "band_hz": [
+          350,
+          2800
+        ]
+      },
+      {
+        "source": "original:cue",
+        "at": 0.8,
+        "duration": 0.28,
+        "rms_db": -28,
+        "pan": -0.65
+      },
+      {
+        "source": "original:cue",
+        "at": 1.8,
+        "duration": 0.28,
+        "rms_db": -28,
+        "pan": -0.65
+      },
+      {
+        "source": "original:cue",
+        "at": 2.8,
+        "duration": 0.28,
+        "rms_db": -28,
+        "pan": -0.65
+      },
+      {
+        "source": "teens",
+        "at": 3.6,
+        "duration": 4.8,
+        "source_start": 0.0,
+        "rms_db": -27,
+        "pan": -0.5,
+        "band_hz": [
+          260,
+          3100
+        ]
+      },
+      {
+        "source": "applause",
+        "at": 4,
+        "duration": 8.5,
+        "source_start": 12.0,
+        "rms_db": -28,
+        "pan": -0.6,
+        "band_hz": [
+          300,
+          3300
+        ]
+      },
+      {
+        "source": "fireworkClose",
+        "at": 3.3,
+        "duration": 10.4,
+        "source_start": 35.0,
+        "rms_db": -25,
+        "pan": 0.6,
+        "band_hz": [
+          80,
+          3300
+        ]
+      },
+      {
+        "source": "laughGroup",
+        "at": 5.3,
+        "duration": 4.2,
+        "source_start": 1.0,
+        "rms_db": -25,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "womanC",
+        "at": 9.6,
+        "duration": 3.2,
+        "source_start": 9.0,
+        "rms_db": -29,
+        "pan": 0.2,
+        "band_hz": [
+          220,
+          4000
+        ]
+      }
+    ],
+    "sha256": "9968ead98dcb28f016902d1af275903528b76abe08e2331b88c30e6b4c5ffac6",
+    "target_lufs": -20
+  },
+  {
+    "index": 5,
+    "title": "Kar Altında Çardakta",
+    "file": "2025_newyear_05_gazebo.mp3",
+    "duration": 14.4,
+    "events": [
+      {
+        "source": "outdoor",
+        "at": 0,
+        "duration": 14.4,
+        "source_start": 42.0,
+        "rms_db": -38,
+        "pan": 0,
+        "band_hz": [
+          80,
+          1400
+        ]
+      },
+      {
+        "source": "womanB",
+        "at": 0.4,
+        "duration": 4.1,
+        "source_start": 7.0,
+        "rms_db": -30,
+        "pan": -0.4,
+        "band_hz": [
+          180,
+          3000
+        ]
+      },
+      {
+        "source": "womanA",
+        "at": 4.2,
+        "duration": 4.7,
+        "source_start": 87.0,
+        "rms_db": -31,
+        "pan": 0.4,
+        "band_hz": [
+          180,
+          2900
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 9.1,
+        "duration": 3.8,
+        "source_start": 13.0,
+        "rms_db": -32,
+        "pan": -0.15,
+        "band_hz": [
+          180,
+          2400
+        ]
+      },
+      {
+        "source": "fabric",
+        "at": 1.4,
+        "duration": 2.0,
+        "source_start": 46.0,
+        "rms_db": -31,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "glass",
+        "at": 5.9,
+        "duration": 1.3,
+        "source_start": 32.4,
+        "rms_db": -29,
+        "pan": 0.4,
+        "band_hz": null
+      },
+      {
+        "source": "blanket",
+        "at": 10.1,
+        "duration": 1.7,
+        "source_start": 0.0,
+        "rms_db": -33,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 11.8,
+        "duration": 2.0,
+        "source_start": 22.2,
+        "rms_db": -28,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "applause",
+        "at": 8.5,
+        "duration": 3.0,
+        "source_start": 19.0,
+        "rms_db": -44,
+        "pan": -0.5,
+        "band_hz": [
+          200,
+          1100
+        ]
+      }
+    ],
+    "sha256": "24fd43418f3feb224dbc4d01ad737b772b0d4a9ee0f12e08bdf5a6ef477a8e51",
+    "target_lufs": -22
+  },
+  {
+    "index": 6,
+    "title": "Hear Me Out Cake",
+    "file": "2025_newyear_06_cake.mp3",
+    "duration": 14.4,
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14.4,
+        "source_start": 4.0,
+        "rms_db": -47,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "womanC",
+        "at": 0.1,
+        "duration": 2.8,
+        "source_start": 2.0,
+        "rms_db": -29,
+        "pan": 0.35,
+        "band_hz": [
+          220,
+          3800
+        ]
+      },
+      {
+        "source": "page",
+        "at": 0.5,
+        "duration": 1.3,
+        "source_start": 0.1,
+        "rms_db": -27,
+        "pan": -0.5,
+        "band_hz": null
+      },
+      {
+        "source": "paperwrap",
+        "at": 3.2,
+        "duration": 1.3,
+        "source_start": 0.4,
+        "rms_db": -29,
+        "pan": 0.4,
+        "band_hz": null
+      },
+      {
+        "source": "womanB",
+        "at": 2.6,
+        "duration": 2.1,
+        "source_start": 51.0,
+        "rms_db": -28,
+        "pan": -0.4,
+        "band_hz": [
+          200,
+          3600
+        ]
+      },
+      {
+        "source": "laughB",
+        "at": 4.2,
+        "duration": 1.1,
+        "source_start": 0.0,
+        "rms_db": -27,
+        "pan": 0.25,
+        "band_hz": null
+      },
+      {
+        "source": "laughGroup",
+        "at": 5.4,
+        "duration": 6.3,
+        "source_start": 2.0,
+        "rms_db": -25,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 9.3,
+        "duration": 3.6,
+        "source_start": 8.6,
+        "rms_db": -28,
+        "pan": -0.45,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 12.5,
+        "duration": 1.2,
+        "source_start": 1.0,
+        "rms_db": -30,
+        "pan": 0.5,
+        "band_hz": null
+      },
+      {
+        "source": "original:woodstick",
+        "at": 1.9,
+        "duration": 0.22,
+        "rms_db": -32,
+        "pan": -0.5
+      },
+      {
+        "source": "original:woodstick",
+        "at": 4,
+        "duration": 0.22,
+        "rms_db": -32,
+        "pan": 0.3
+      },
+      {
+        "source": "original:woodstick",
+        "at": 11.9,
+        "duration": 0.22,
+        "rms_db": -32,
+        "pan": 0.1
+      }
+    ],
+    "sha256": "03c8fe97753e862afd4b51d7c7b090974ff518715f9a32798318ce09715a5108",
+    "target_lufs": -20.5
+  },
+  {
+    "index": 7,
+    "title": "Balkonda Sıcak Çikolata",
+    "file": "2025_newyear_07_balcony.mp3",
+    "duration": 14.4,
+    "events": [
+      {
+        "source": "street",
+        "at": 0,
+        "duration": 14.4,
+        "source_start": 48.0,
+        "rms_db": -41,
+        "pan": 0,
+        "band_hz": [
+          100,
+          1100
+        ]
+      },
+      {
+        "source": "womanA",
+        "at": 0.6,
+        "duration": 5.1,
+        "source_start": 6.0,
+        "rms_db": -31,
+        "pan": -0.3,
+        "band_hz": [
+          180,
+          2800
+        ]
+      },
+      {
+        "source": "womanB",
+        "at": 6.3,
+        "duration": 5.0,
+        "source_start": 56.0,
+        "rms_db": -31,
+        "pan": 0.3,
+        "band_hz": [
+          180,
+          2800
+        ]
+      },
+      {
+        "source": "mug",
+        "at": 1.5,
+        "duration": 1.7,
+        "source_start": 17.6,
+        "rms_db": -29,
+        "pan": -0.4,
+        "band_hz": null
+      },
+      {
+        "source": "blanket",
+        "at": 4.8,
+        "duration": 1.7,
+        "source_start": 0.0,
+        "rms_db": -32,
+        "pan": 0.35,
+        "band_hz": null
+      },
+      {
+        "source": "glasses",
+        "at": 9.2,
+        "duration": 1.5,
+        "source_start": 32.6,
+        "rms_db": -32,
+        "pan": 0.35,
+        "band_hz": null
+      },
+      {
+        "source": "womanC",
+        "at": 11.9,
+        "duration": 1.8,
+        "source_start": 17.0,
+        "rms_db": -32,
+        "pan": 0,
+        "band_hz": [
+          250,
+          2400
+        ]
+      },
+      {
+        "source": "laughB",
+        "at": 12.9,
+        "duration": 1.1,
+        "source_start": 0.0,
+        "rms_db": -31,
+        "pan": 0,
+        "band_hz": null
+      }
+    ],
+    "sha256": "db4209be7123482e7c5e2fd1d3e98752442edb2ee855320cb1af57515a8d4a5c",
+    "target_lufs": -23
+  },
+  {
+    "index": 8,
+    "title": "Ağacın Altında Hediyeler",
+    "file": "2025_newyear_08_gifts.mp3",
+    "duration": 14.4,
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14.4,
+        "source_start": 14.0,
+        "rms_db": -47,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "giftwrap",
+        "at": 0.3,
+        "duration": 3.0,
+        "source_start": 35.8,
+        "rms_db": -25,
+        "pan": -0.35,
+        "band_hz": null
+      },
+      {
+        "source": "papertear",
+        "at": 3.2,
+        "duration": 2.3,
+        "source_start": 0.2,
+        "rms_db": -26,
+        "pan": 0.3,
+        "band_hz": null
+      },
+      {
+        "source": "boxOpen",
+        "at": 5.9,
+        "duration": 0.9,
+        "source_start": 0.0,
+        "rms_db": -28,
+        "pan": 0.15,
+        "band_hz": null
+      },
+      {
+        "source": "womanA",
+        "at": 4.8,
+        "duration": 2.2,
+        "source_start": 30.0,
+        "rms_db": -29,
+        "pan": -0.35,
+        "band_hz": [
+          200,
+          3000
+        ]
+      },
+      {
+        "source": "giftwrap",
+        "at": 8,
+        "duration": 2.8,
+        "source_start": 69.6,
+        "rms_db": -27,
+        "pan": 0.4,
+        "band_hz": null
+      },
+      {
+        "source": "womanB",
+        "at": 7.3,
+        "duration": 3.1,
+        "source_start": 3.0,
+        "rms_db": -30,
+        "pan": 0.35,
+        "band_hz": [
+          200,
+          3000
+        ]
+      },
+      {
+        "source": "laugh",
+        "at": 11,
+        "duration": 2.5,
+        "source_start": 22.0,
+        "rms_db": -27,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "laughB",
+        "at": 12.7,
+        "duration": 1.1,
+        "source_start": 0.0,
+        "rms_db": -30,
+        "pan": 0.35,
+        "band_hz": null
+      },
+      {
+        "source": "original:festive",
+        "at": 10.5,
+        "duration": 1.7,
+        "rms_db": -39,
+        "pan": 0
+      }
+    ],
+    "sha256": "13dd5c4c4869af75ca729d2c538ffca00dab808c607b6303d61261cba193f044",
+    "target_lufs": -21
+  },
+  {
+    "index": 9,
+    "title": "Yeni Yılın İlk Sabahı",
+    "file": "2025_newyear_09_breakfast.mp3",
+    "duration": 14.4,
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 14.4,
+        "source_start": 6.0,
+        "rms_db": -46,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "birds",
+        "at": 0,
+        "duration": 14.4,
+        "source_start": 73.0,
+        "rms_db": -38,
+        "pan": 0.55,
+        "band_hz": [
+          1200,
+          6500
+        ]
+      },
+      {
+        "source": "pour",
+        "at": 0.6,
+        "duration": 4.6,
+        "source_start": 0.0,
+        "rms_db": -26,
+        "pan": -0.4,
+        "band_hz": null
+      },
+      {
+        "source": "womanB",
+        "at": 1.2,
+        "duration": 3.1,
+        "source_start": 25.0,
+        "rms_db": -33,
+        "pan": 0.25,
+        "band_hz": [
+          200,
+          2200
+        ]
+      },
+      {
+        "source": "womanA",
+        "at": 6,
+        "duration": 4.2,
+        "source_start": 54.0,
+        "rms_db": -33,
+        "pan": -0.25,
+        "band_hz": [
+          200,
+          2200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 10.9,
+        "duration": 2.5,
+        "source_start": 14.0,
+        "rms_db": -34,
+        "pan": 0,
+        "band_hz": [
+          200,
+          2300
+        ]
+      },
+      {
+        "source": "dishes",
+        "at": 5.3,
+        "duration": 2.0,
+        "source_start": 54.2,
+        "rms_db": -28,
+        "pan": 0.3,
+        "band_hz": null
+      },
+      {
+        "source": "plates",
+        "at": 9,
+        "duration": 1.6,
+        "source_start": 35.6,
+        "rms_db": -31,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "mug",
+        "at": 11.3,
+        "duration": 1.2,
+        "source_start": 18.0,
+        "rms_db": -30,
+        "pan": -0.3,
+        "band_hz": null
+      },
+      {
+        "source": "laughB",
+        "at": 12.9,
+        "duration": 1.1,
+        "source_start": 0.0,
+        "rms_db": -32,
+        "pan": 0,
+        "band_hz": null
+      }
+    ],
+    "sha256": "ee5c1ff81828bb020ac307e8566ab3fe930508f2f982030a43cd9d949a452793",
+    "target_lufs": -22.5
+  }
+]
