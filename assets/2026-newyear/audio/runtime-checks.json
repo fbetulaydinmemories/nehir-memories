@@ -1,0 +1,21 @@
+{
+  "mode": "Simulated DOM/WebAudio integration; not a physical device or actual browser audio audition",
+  "results": [
+    {
+      "width": 390,
+      "maxSimultaneousSources": 1,
+      "newScenes": 8,
+      "existingAlbums": 6,
+      "readStops": true,
+      "reopenFirst": true
+    },
+    {
+      "width": 1365,
+      "maxSimultaneousSources": 1,
+      "newScenes": 8,
+      "existingAlbums": 6,
+      "readStops": true,
+      "reopenFirst": true
+    }
+  ]
+}

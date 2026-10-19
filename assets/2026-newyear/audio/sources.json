@@ -1,0 +1,369 @@
+[
+  {
+    "key": "room",
+    "author": "leonelmail",
+    "source": "https://freesound.org/people/leonelmail/sounds/329569/",
+    "preview": "https://cdn.freesound.org/previews/329/329569_4437257-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "title": "Freesound - Roomtone Bedroom Yew by leonelmail",
+    "downloaded_sha256": "47efe63c314f93d1ebef554955ce7132506d15a13b317a99e084fc6c030ef0c2"
+  },
+  {
+    "key": "mug",
+    "author": "haus.the.child",
+    "source": "https://freesound.org/people/haus.the.child/sounds/839346/",
+    "preview": "https://cdn.freesound.org/previews/839/839346_16563371-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "title": "Freesound - Mug On Table: Setting Down and Picking Up by haus.the.child",
+    "downloaded_sha256": "79b146a10c1138860b31850456fd0e12cc2b608c5e6c8f3d7fa79fd1d04f35b7"
+  },
+  {
+    "key": "fabric",
+    "author": "moxobna",
+    "source": "https://freesound.org/people/moxobna/sounds/100343/",
+    "preview": "https://cdn.freesound.org/previews/100/100343_43834-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "title": "Freesound - 062710_fabric.wav by moxobna",
+    "downloaded_sha256": "2b3b260421575945edf1dae2848e70a3d8928761e8863af208b87719e0b8cb26"
+  },
+  {
+    "key": "blanket",
+    "author": "OwlStorm",
+    "source": "https://freesound.org/people/OwlStorm/sounds/320138/",
+    "preview": "https://cdn.freesound.org/previews/320/320138_140737-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "title": "Freesound - Blanket Movement 2 by OwlStorm",
+    "downloaded_sha256": "f8cd975c25318e5c0cf4a96c8c1ee39e1f71ab5a5935fbf6436b129e406c9fa3"
+  },
+  {
+    "key": "laugh",
+    "author": "buggly",
+    "source": "https://freesound.org/people/buggly/sounds/505437/",
+    "preview": "https://cdn.freesound.org/previews/505/505437_9088242-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "title": "Freesound - Girl soft laughing by buggly",
+    "downloaded_sha256": "0834f71a5d5f0ae05d49b0d57a0ef813845cde3d385bede382bc8e1d613c45e8"
+  },
+  {
+    "key": "laughB",
+    "source": "https://freesound.org/people/OwlStorm/sounds/151223/",
+    "download": "https://cdn.freesound.org/previews/151/151223_140737-hq.mp3",
+    "license": "CC0-1.0",
+    "author": "OwlStorm / Ashe Kirk",
+    "sha256": "851fb7e81dad4152734b199eae6eb32950c780e57e7630d645c9b0772b9c4ee3",
+    "downloaded_sha256": "851fb7e81dad4152734b199eae6eb32950c780e57e7630d645c9b0772b9c4ee3"
+  },
+  {
+    "key": "laughGroup",
+    "source": "https://freesound.org/people/kikorurelas/sounds/767470/",
+    "download": "https://cdn.freesound.org/previews/767/767470_6252416-hq.mp3",
+    "license": "CC0-1.0",
+    "author": "kikorurelas",
+    "sha256": "0d1a781a972383c225cc64e316a6e8ea4978bd17d30af0909ebe410db8c150b1",
+    "downloaded_sha256": "0d1a781a972383c225cc64e316a6e8ea4978bd17d30af0909ebe410db8c150b1"
+  },
+  {
+    "key": "womanA",
+    "source": "https://freesound.org/people/bpayri/sounds/504738/",
+    "download": "https://cdn.freesound.org/previews/504/504738_1846027-hq.mp3",
+    "license": "CC-BY-4.0",
+    "author": "bpayri",
+    "sha256": "8d515b92af2b19c49a81352d7be9c8a0c0b0f54841ce1c5e4fa8cc2f93a09947",
+    "downloaded_sha256": "8d515b92af2b19c49a81352d7be9c8a0c0b0f54841ce1c5e4fa8cc2f93a09947"
+  },
+  {
+    "key": "womanB",
+    "author": "bpayri",
+    "source": "https://freesound.org/people/bpayri/sounds/504737/",
+    "download": "https://cdn.freesound.org/previews/504/504737_1846027-hq.mp3",
+    "license": "CC-BY-4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "sha256": "cd19c4e1c2f8d76924f5f0f389c5f0d7740feffc69b5d2eb7e1562c1c2834f44",
+    "downloaded_sha256": "cd19c4e1c2f8d76924f5f0f389c5f0d7740feffc69b5d2eb7e1562c1c2834f44"
+  },
+  {
+    "key": "womanC",
+    "author": "milcahrawr",
+    "source": "https://freesound.org/people/milcahrawr/sounds/814973/",
+    "download": "https://cdn.freesound.org/previews/814/814973_11995365-hq.mp3",
+    "license": "CC0-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "sha256": "2d9440a40ce73d47f41d4e91c9e9525636e98322ad23d7f6e87efdf9e2964f44",
+    "downloaded_sha256": "2d9440a40ce73d47f41d4e91c9e9525636e98322ad23d7f6e87efdf9e2964f44"
+  },
+  {
+    "key": "dishes",
+    "source": "https://bigsoundbank.com/cutlery-manipulations-on-plate-s1193.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/1193.mp3",
+    "title": "Cutlery, Manipulations on Plate — Free Download WAV & MP3 | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "83d63e6d701f7557fa792893cbd46f67c76e0ba5fbb1fa4b6e676e45905e9532"
+  },
+  {
+    "key": "plates",
+    "source": "https://bigsoundbank.com/6-small-plates-manipulations-s1188.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/1188.mp3",
+    "title": "6 small plates, manipulations — Free Sound Effect Download | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "8b86a5bff2d197009db318ba3b56e52597765f9f603026f6037aa976a0a4c2e2"
+  },
+  {
+    "key": "glass",
+    "source": "https://bigsoundbank.com/glass-placed-on-table-s1204.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/1204.mp3",
+    "title": "Glass, Placed on Table — Free Sound Effect Download | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "2c051003d9587280cf9881a996d26d787febe6f263d7397f437d6db0021301d9"
+  },
+  {
+    "key": "outdoor",
+    "author": "Joseph SARDIN",
+    "title": "Wind in a Tree",
+    "source": "https://bigsoundbank.com/wind-in-a-tree-s0659.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/0659.mp3?v=d",
+    "license": "CC0 1.0 / public-domain equivalent",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "downloaded_sha256": "e14873c3430334075ba3a5274fb92672dc85896089ac94f1ef12154412ed2630"
+  },
+  {
+    "key": "street",
+    "source": "https://bigsoundbank.com/paris-by-night-s0680.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/0680.mp3",
+    "title": "Paris by Night — Free Download WAV & MP3 | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "3acef3f248c8a8af23c6fef1b31d18000fcd77a14ca952f35ff2d233ac7c307c"
+  },
+  {
+    "key": "applause",
+    "source": "https://bigsoundbank.com/applause-150-people-s0019.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/0019.mp3",
+    "title": "Applause: 150 People — Free Download WAV & MP3 | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "0ba788a947d4869b29b38f0c6b341c4df7fb900fe07de056d1f0701e1435d7a4"
+  },
+  {
+    "key": "teens",
+    "source": "https://bigsoundbank.com/shouts-and-applauses-of-teens-2-s0237.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/0237.mp3",
+    "title": "Shouts and Applauses of Teens #2 — Free Download WAV & MP3 | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "95a4f366d867b9b8f71d731c2f53abf692b49340de9459c40b3e255ea887bd71"
+  },
+  {
+    "key": "rustle",
+    "source": "https://bigsoundbank.com/pack-of-chips-manipulation-1-s1433.html",
+    "preview": "https://bigsoundbank.com/UPLOAD/mp3/1433.mp3",
+    "title": "Pack of chips, manipulation #1 — Free Sound Effect Download | BigSoundBank",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN / BigSoundBank (see source page)",
+    "downloaded_sha256": "376f709ddea10dd7738a3438407376aabf3e190513a149b31ca10264cc26ebcc"
+  },
+  {
+    "key": "cutA",
+    "source": "https://bigsoundbank.com/raw-carrot-cut-1-s1598.html",
+    "download": "https://bigsoundbank.com/UPLOAD/mp3/1598.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN",
+    "title": "raw-carrot-cut-1",
+    "downloaded_sha256": "f536e95ee1c98fc9a7eb44194e13433ae861c59befc991565ae24402736e6954"
+  },
+  {
+    "key": "cutB",
+    "source": "https://bigsoundbank.com/raw-carrot-cut-2-s1599.html",
+    "download": "https://bigsoundbank.com/UPLOAD/mp3/1599.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://bigsoundbank.com/licenses.html",
+    "author": "Joseph SARDIN",
+    "title": "raw-carrot-cut-2",
+    "downloaded_sha256": "562c6f9693fd75f1a37099750dd1c316c15d2c45cd1b8698eac59b840710d81a"
+  },
+  {
+    "key": "giftwrap",
+    "source": "https://freesound.org/people/kineticturtle/sounds/718170/",
+    "download": "https://cdn.freesound.org/previews/718/718170_39299-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "kineticturtle",
+    "title": "Freesound - wrap_48 by kineticturtle",
+    "downloaded_sha256": "f0f7e6c04043babfccb140ee5f432dad0f53ee0260a2e4c56b8e2e23fd57fe86"
+  },
+  {
+    "key": "box",
+    "source": "https://freesound.org/people/ittou/sounds/465449/",
+    "download": "https://cdn.freesound.org/previews/465/465449_4596196-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "ittou",
+    "title": "Freesound - Cardboard Box Rustle by ittou",
+    "downloaded_sha256": "4dcab25da92628ec65012f1ceeb0741ef2bd0f7e888244e68d7fded2715519ef"
+  },
+  {
+    "key": "paperwrap",
+    "source": "https://freesound.org/people/craigsmith/sounds/481820/",
+    "download": "https://cdn.freesound.org/previews/481/481820_2524442-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "craigsmith",
+    "title": "Freesound - R04-33-Wrapping Paper.wav by craigsmith",
+    "downloaded_sha256": "e46f208edc1d82069a14a901fc22b5d217564c58c8a4e5f397cb31cdb617562c"
+  },
+  {
+    "key": "scissors",
+    "source": "https://freesound.org/people/haus.the.child/sounds/839351/",
+    "download": "https://cdn.freesound.org/previews/839/839351_16563371-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "haus.the.child",
+    "title": "Freesound - Scissors Cutting Paper by haus.the.child",
+    "downloaded_sha256": "524ece8cab945321388e253216577e6ef4c2d1a11354656b15e976cc46e1cd7c"
+  },
+  {
+    "key": "tape",
+    "source": "https://freesound.org/people/aunrea/sounds/485958/",
+    "download": "https://cdn.freesound.org/previews/485/485958_7932944-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "aunrea",
+    "title": "Freesound - Tape Dispenser by aunrea",
+    "downloaded_sha256": "4c3fa72394bf9b15426e5ca4aef5407d52d6b7d62ac831cd0fba1146958b6472"
+  },
+  {
+    "key": "mall",
+    "source": "https://freesound.org/people/florianreichelt/sounds/451732/",
+    "download": "https://cdn.freesound.org/previews/451/451732_6253486-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "florianreichelt",
+    "title": "Freesound - Shopping Mall - Ambience by florianreichelt",
+    "downloaded_sha256": "830659f2bae3aa18f54e1ea95ab644dad613de0bef063d06dd542d3295b55625"
+  },
+  {
+    "key": "steam",
+    "source": "https://freesound.org/people/gerardcatala/sounds/153290/",
+    "download": "https://cdn.freesound.org/previews/153/153290_2358240-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "gerardcatala",
+    "title": "Freesound - Coffee machine steam by gerardcatala",
+    "downloaded_sha256": "028d1b1988cbe56c4381bd1887acf1f0da490af1310b895d2931339bc7a95854"
+  },
+  {
+    "key": "cafe",
+    "source": "https://freesound.org/people/evsecrets/sounds/332271/",
+    "download": "https://cdn.freesound.org/previews/332/332271_2367065-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "evsecrets",
+    "title": "Freesound - Cafe ambient sound.mp3 by evsecrets",
+    "downloaded_sha256": "6b6cfff6614713bbb84c684871860374e9b44b7c52180460be52ca68990c89cf"
+  },
+  {
+    "key": "market",
+    "source": "https://freesound.org/people/rocketchicken/sounds/421858/",
+    "download": "https://cdn.freesound.org/previews/421/421858_37303-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "rocketchicken",
+    "title": "Freesound - Supermarket Ambience by rocketchicken",
+    "downloaded_sha256": "4f4657c660e9b38a641f23231770334205b390c6f14297ed26e0c0afb7f642b8"
+  },
+  {
+    "key": "cart",
+    "source": "https://freesound.org/people/SpliceSound/sounds/218325/",
+    "download": "https://cdn.freesound.org/previews/218/218325_1480854-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "SpliceSound",
+    "title": "Freesound - Shopping cart - wheels, medium speed.wav by SpliceSound",
+    "downloaded_sha256": "44c46bb51a8fcdad9eba14b717328507d6fcc2e4bd5bf346a7e65779a6e034ea"
+  },
+  {
+    "key": "water",
+    "source": "https://freesound.org/people/OwlStorm/sounds/212176/",
+    "download": "https://cdn.freesound.org/previews/212/212176_140737-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "OwlStorm",
+    "title": "Freesound - Tap Water 2 by OwlStorm",
+    "downloaded_sha256": "c316f0809a84e2bb2d4d1a35a394a003db8243119c09e3473b12a848927559d6"
+  },
+  {
+    "key": "countdown",
+    "source": "https://freesound.org/people/xtrgamr/sounds/239495/",
+    "download": "https://cdn.freesound.org/previews/239/239495_4157918-hq.mp3",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "author": "xtrgamr",
+    "title": "Freesound - countdownandcheer_02.wav by xtrgamr",
+    "downloaded_sha256": "4b70c5fbeb60b5902021f6a3bd07e6f00881ef9a9affe183c31d4a033b396fe7"
+  },
+  {
+    "key": "steps",
+    "source": "https://freesound.org/people/Hoertalker/sounds/440486/",
+    "download": "https://cdn.freesound.org/previews/440/440486_7106275-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Hoertalker",
+    "title": "Freesound - Footsteps indoor on floor by Hoertalker",
+    "downloaded_sha256": "d69cba93938cdde6a3f6d077db9c288150dcc39142065c70c967dbf019e799e6"
+  },
+  {
+    "key": "chair",
+    "source": "https://freesound.org/people/skysonglark/sounds/459137/",
+    "download": "https://cdn.freesound.org/previews/459/459137_8523981-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "skysonglark",
+    "title": "Freesound - scraping chair.wav by skysonglark",
+    "downloaded_sha256": "c172c35fbc294224fb7b02bade59330ca04ace217cbd54a545ac37c5b675cdcf"
+  },
+  {
+    "key": "clink",
+    "source": "https://freesound.org/people/m1a2t3z4/sounds/136469/",
+    "download": "https://cdn.freesound.org/previews/136/136469_1329392-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "m1a2t3z4",
+    "title": "Freesound - Wine glasses.mp3 by m1a2t3z4",
+    "downloaded_sha256": "b7789360086a97849b4ada6cb06bd2acec9c0101716cede80cccba4c6fe62304"
+  },
+  {
+    "key": "spoon",
+    "source": "https://freesound.org/people/samplecat/sounds/11593/",
+    "download": "https://cdn.freesound.org/previews/11/11593_31600-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "samplecat",
+    "title": "Freesound - spoon on cup.WAV by samplecat",
+    "downloaded_sha256": "c448ad062c269c26280baf90f384aa0229095d35368d589619edf74368c09030"
+  },
+  {
+    "key": "stir",
+    "source": "https://freesound.org/people/christo13/sounds/485484/",
+    "download": "https://cdn.freesound.org/previews/485/485484_1807941-hq.mp3",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "christo13",
+    "title": "Freesound - Squishing.wav by christo13",
+    "downloaded_sha256": "eed5a35ad2a86f329b6900004b5a6c04f2605e229accb83a2aebf9adf6c02252"
+  }
+]
