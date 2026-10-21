@@ -23,7 +23,7 @@ function play(button){
  let resolve;const promise=new Promise(r=>resolve=r);active={promise,cancel:()=>finish(false)};
  main.inert=true;document.body.style.overflow='hidden';document.body.append(layer);cancel.focus({preventScroll:true});
  let ctx;try{ctx=canvas.getContext('2d')}catch{};
- const stars=Array.from({length:innerWidth<600?155:270},(_,i)=>({u:(i*.61803398875)%1,v:(i*.38196601125)%1,p:i*2.399963,r:.45+(i%5)*.32,c:palette[i%5]}));
+ const stars=Array.from({length:innerWidth<600?155:270},(_,i)=>({u:(i*.61803398875)%1,v:(i*.75487766625)%1,p:i*2.399963,r:.45+(i%5)*.32,c:palette[i%5]}));
  function resize(){w=innerWidth;h=innerHeight;const d=Math.min(devicePixelRatio||1,1.5);canvas.width=Math.round(w*d);canvas.height=Math.round(h*d);ctx?.setTransform(d,0,0,d,0,0)}
  function finish(success){if(done)return;done=true;cancelAnimationFrame(raf);clearTimeout(timer);removeEventListener('resize',resize);document.removeEventListener('keydown',key,true);document.removeEventListener('visibilitychange',hidden);layer.remove();if(!opened){main.inert=prevInert;document.body.style.overflow=overflow;}active=null;if(!opened)(focus||button)?.focus({preventScroll:true});resolve(success);}
  function key(e){if(e.key==='Escape'){e.preventDefault();e.stopImmediatePropagation();finish(false)}else if(e.key==='Tab'){e.preventDefault();e.stopImmediatePropagation();cancel.focus()}else if(['ArrowLeft','ArrowRight',' ','Enter','PageDown','PageUp','Home','End'].includes(e.key)&&e.target!==cancel){e.preventDefault();e.stopImmediatePropagation()}}
