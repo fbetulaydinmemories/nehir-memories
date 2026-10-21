@@ -321,6 +321,16 @@
   },
   {
     "src": "assets/last-book/images/lastbook_33.webp",
+    "title": "Ailece Bir Doğum Günü",
+    "width": 1672,
+    "height": 941,
+    "source": "Sonbaharda restoranda doğum günü pastası(3).png",
+    "source_sha256": "1cf5f5dd667d46b9bbb9d5d5dad43f5210bad77ecc82be0bbe18abec3983438d",
+    "pixel_sha256": "5a627fe56cec35ff716ec6a3ae5d9196ba2d8652dc157dfd2de7a87ede028dd8",
+    "webp_sha256": "6ddd43996f1f1776b740b76443e86d2e5cc687fba1e26d159165e0c51df3fdce"
+  },
+  {
+    "src": "assets/last-book/images/lastbook_34.webp",
     "title": "Baloya Hazırlanırken",
     "width": 1672,
     "height": 941,
@@ -330,7 +340,7 @@
     "webp_sha256": "665fa9d0fd4bf82904ae965d55f08f2fd980b91423181ff771036b32ede10ef8"
   },
   {
-    "src": "assets/last-book/images/lastbook_34.webp",
+    "src": "assets/last-book/images/lastbook_35.webp",
     "title": "Onların Mezuniyet Gururu",
     "width": 1672,
     "height": 941,
@@ -340,7 +350,7 @@
     "webp_sha256": "e3c18512afc4cc52ae54cf3842db3982298d625be039c984176000f75a1b5b53"
   },
   {
-    "src": "assets/last-book/images/lastbook_35.webp",
+    "src": "assets/last-book/images/lastbook_36.webp",
     "title": "Yıllar Geçse de Bizim Buluşmalarımız",
     "width": 1672,
     "height": 941,
@@ -350,7 +360,7 @@
     "webp_sha256": "132cf1e6eff4e618877a21eb4e3c25394033c41acc5dc56cb71211a0f4977966"
   },
   {
-    "src": "assets/last-book/images/lastbook_36.webp",
+    "src": "assets/last-book/images/lastbook_37.webp",
     "title": "Zor Günleri Birlikte Atlatmak",
     "width": 1673,
     "height": 940,
@@ -360,7 +370,7 @@
     "webp_sha256": "bdcf66f82a7a1269c657a4a9e3bc98a987f654474b0218608d62ca7c33b47974"
   },
   {
-    "src": "assets/last-book/images/lastbook_37.webp",
+    "src": "assets/last-book/images/lastbook_38.webp",
     "title": "Bir Aile Sofrasında Yeni Hikâyeler",
     "width": 1672,
     "height": 941,
@@ -368,16 +378,6 @@
     "source_sha256": "8dc2ab42fe425a7bcb2ffa6260413b84562134d8b180bf3f7bb1d0f4cb9954ab",
     "pixel_sha256": "2a53420fd1e87a81d15987b58445a3319386156fe322d1a2ab500cbd1ca411aa",
     "webp_sha256": "441fe2b600994fecdd3dc6d20188ad76f8477ed8d1af972798121749a7cb3b1c"
-  },
-  {
-    "src": "assets/last-book/images/lastbook_38.webp",
-    "title": "Yılların Ardından Bir Doğum Günü",
-    "width": 1672,
-    "height": 941,
-    "source": "Sonbaharda restoranda doğum günü pastası(3).png",
-    "source_sha256": "1cf5f5dd667d46b9bbb9d5d5dad43f5210bad77ecc82be0bbe18abec3983438d",
-    "pixel_sha256": "5a627fe56cec35ff716ec6a3ae5d9196ba2d8652dc157dfd2de7a87ede028dd8",
-    "webp_sha256": "6ddd43996f1f1776b740b76443e86d2e5cc687fba1e26d159165e0c51df3fdce"
   },
   {
     "src": "assets/last-book/images/lastbook_39.webp",

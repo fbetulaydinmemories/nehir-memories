@@ -36,12 +36,12 @@
 | 30 | Okul Kapısında Birlikte | Anaokulu önünde yaz vedası(2).png | assets/last-book/images/lastbook_30.webp |
 | 31 | Birlikte Bir Cadılar Bayramı | Sonbahar verandasında sekiz kişilik aile(3).png | assets/last-book/images/lastbook_31.webp |
 | 32 | Kalabalık Yılbaşı Soframız | Kış sofrasında sekiz kişilik aile(1).png | assets/last-book/images/lastbook_32.webp |
-| 33 | Baloya Hazırlanırken | Balo öncesi merdivende aile fotoğrafı(2).png | assets/last-book/images/lastbook_33.webp |
-| 34 | Onların Mezuniyet Gururu | Sekiz kişilik mezuniyet aile portresi(2).png | assets/last-book/images/lastbook_34.webp |
-| 35 | Yıllar Geçse de Bizim Buluşmalarımız | Sonbahar bankında iki eski dost(3).png | assets/last-book/images/lastbook_35.webp |
-| 36 | Zor Günleri Birlikte Atlatmak | Yağmurlu sonbaharda dört kadının sessiz dayanışması(3).png | assets/last-book/images/lastbook_36.webp |
-| 37 | Bir Aile Sofrasında Yeni Hikâyeler | Altı Kişilik Sıcak Bir Ev Yemeği(2).png | assets/last-book/images/lastbook_37.webp |
-| 38 | Yılların Ardından Bir Doğum Günü | Sonbaharda restoranda doğum günü pastası(3).png | assets/last-book/images/lastbook_38.webp |
+| 33 | Ailece Bir Doğum Günü | Sonbaharda restoranda doğum günü pastası(3).png | assets/last-book/images/lastbook_33.webp |
+| 34 | Baloya Hazırlanırken | Balo öncesi merdivende aile fotoğrafı(2).png | assets/last-book/images/lastbook_34.webp |
+| 35 | Onların Mezuniyet Gururu | Sekiz kişilik mezuniyet aile portresi(2).png | assets/last-book/images/lastbook_35.webp |
+| 36 | Yıllar Geçse de Bizim Buluşmalarımız | Sonbahar bankında iki eski dost(3).png | assets/last-book/images/lastbook_36.webp |
+| 37 | Zor Günleri Birlikte Atlatmak | Yağmurlu sonbaharda dört kadının sessiz dayanışması(3).png | assets/last-book/images/lastbook_37.webp |
+| 38 | Bir Aile Sofrasında Yeni Hikâyeler | Altı Kişilik Sıcak Bir Ev Yemeği(2).png | assets/last-book/images/lastbook_38.webp |
 | 39 | Bir Ömür Sonra, Dördümüz Bir Doğum Gününde | Dört kişilik sıcak doğum günü(2).png | assets/last-book/images/lastbook_39.webp |
 | 40 | Torunlarımıza Anlattığımız Masallar | Şömine başında dört torunla büyükanneler(3).png | assets/last-book/images/lastbook_40.webp |
 | 41 | Dolunayın Altında, Yine İkimiz | Ay ışığında iki yaşlı dost(2).png | assets/last-book/images/lastbook_41.webp |
@@ -66,6 +66,8 @@
 - nehir_betul_mistik_timeline_v3.html: galeri betiği ve son sekme adı
 - Önceki albümler, görseller, hikâyeler, piyano dosyası ve diğer sesler değiştirilmedi.
 
+- Restoran doğum günü karesindeki çocuklar ergen göründüğünden bu sahne 33. sıraya, balo ve mezuniyetin önüne alındı; başlığı “Ailece Bir Doğum Günü” oldu.
+
 ## Test kayıtları
 
 - 41 WebP dosyasının açılabilirliği, boyutları ve benzersiz kaynak piksel hash değerleri doğrulandı.
@@ -76,3 +78,4 @@
 - Geçiş iptali, çift giriş engeli, gizlenen sekmede temizlik ve zaman aşımı doğrulandı.
 - Aynı piyano kaynağının galeri boyunca durmadığı, yeniden başlamadığı veya kazancının değişmediği simülasyonda doğrulandı. Gerçek ses dinleme testi yapılmadı.
 - Fiziksel mobil cihaz testi yapılmadı. Canlı masaüstü ve yayın kontrollerinin sonucu teslim mesajında ayrıca belirtilir.
+- Canlı masaüstünde Son Kitap sekmesi, ışık geçişinden Eskişehir karesine açılış, sonraki sahneye geçiş, End tuşuyla 41 / 41 dolunay finali, son ileri okunun yokluğu ve zaman çizelgesine dönüş görüldü.
