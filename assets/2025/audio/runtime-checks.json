@@ -1,0 +1,23 @@
+{
+  "mode": "Simulated DOM/WebAudio integration; not a physical device or actual browser audio audition",
+  "results": [
+    {
+      "width": 390,
+      "maxSimultaneousSources": 1,
+      "newScenes": 28,
+      "album": "memories2025",
+      "existingAlbums": 7,
+      "readStops": true,
+      "reopenFirst": true
+    },
+    {
+      "width": 1365,
+      "maxSimultaneousSources": 1,
+      "newScenes": 28,
+      "album": "memories2025",
+      "existingAlbums": 7,
+      "readStops": true,
+      "reopenFirst": true
+    }
+  ]
+}

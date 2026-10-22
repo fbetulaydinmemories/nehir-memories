@@ -1,0 +1,293 @@
+{
+  "mode": "Decoded audio/measurement tests; not a listening test",
+  "files": [
+    {
+      "file": "2025_01_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "13204f04724bdec446acfcb80793bcb6c364eeb448576833befbbd6b6c12497b",
+      "integrated_lufs": -21.6,
+      "true_peak_dbtp": -2.03,
+      "loop_boundary_jump": 0.00032384152291342616,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_02_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "22a519b729278bcd44ca31c33f3e5240c8012a7618dad816e09b8c59e6bf5502",
+      "integrated_lufs": -22.18,
+      "true_peak_dbtp": -2.59,
+      "loop_boundary_jump": 0.0003433924575801939,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_03_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "c2dbbaa8d9b5569e368cce3182109ba2e53e82e5634ecf909810eb508e8c3788",
+      "integrated_lufs": -22.62,
+      "true_peak_dbtp": -2.28,
+      "loop_boundary_jump": 0.00014280062168836594,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_04_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "0e054626d55d660dab122eff7fa0912447a647daf2b077bc089dc2fc600eb523",
+      "integrated_lufs": -26.92,
+      "true_peak_dbtp": -3.2,
+      "loop_boundary_jump": 0.0005252286791801453,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_05_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "dfcf2b4211c7e0fcf457d87c02ba0640529c9fc65b575e757686e77967c37a2f",
+      "integrated_lufs": -21.64,
+      "true_peak_dbtp": -2.32,
+      "loop_boundary_jump": 0.0003003200108651072,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_06_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "0fb099d6291e4e63db4fc38426a37826677ea9d1cdbd0f0438cd406f94cf1534",
+      "integrated_lufs": -22.87,
+      "true_peak_dbtp": -2.73,
+      "loop_boundary_jump": 0.00020948989549651742,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_07_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "b022e6f375b706c4a7e52a46226daa836a3c0038ebfb5bbb721016bd7c3c75c2",
+      "integrated_lufs": -24.19,
+      "true_peak_dbtp": -5.92,
+      "loop_boundary_jump": 6.603149813599885e-07,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_08_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "627abb5ab9531b582c9f200e650164c412c6e51d4633028f138be2a710c84ed9",
+      "integrated_lufs": -21.16,
+      "true_peak_dbtp": -2.34,
+      "loop_boundary_jump": 0.0007399101159535348,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_09_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "4cf492b080d604d90054561ac1adf5d252cdaf3f1895750ec07fbe4b5917e666",
+      "integrated_lufs": -22.39,
+      "true_peak_dbtp": -4.7,
+      "loop_boundary_jump": 0.00016778470308054239,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_10_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "193b9c0ba817b53ec43c59ae9e48ec0ebf9602fca2e2e3d8c90bfb954b8049b2",
+      "integrated_lufs": -22.63,
+      "true_peak_dbtp": -2.41,
+      "loop_boundary_jump": 0.0002689572283998132,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_11_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "dc9924be79caa9888fb5ae7e9afb41f99c2af789e44697dc40baefff280faba3",
+      "integrated_lufs": -22.05,
+      "true_peak_dbtp": -2.45,
+      "loop_boundary_jump": 7.476151222363114e-05,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_12_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "b30887ec6816ba699a1246858a3979a62dc0708efe6109f98df29bfc78b317b8",
+      "integrated_lufs": -25.05,
+      "true_peak_dbtp": -2.39,
+      "loop_boundary_jump": 5.272915950627066e-05,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_13_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "5f2bc16b3994cb028990b0c3613d04ed82da12165594901601f4fdf59218e66f",
+      "integrated_lufs": -20.37,
+      "true_peak_dbtp": -8.28,
+      "loop_boundary_jump": 2.4107466742862016e-06,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_14_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "9b8d795eefedc3be5c1886e5a3372c0200e0a28261e17833ede9b58653e51fc7",
+      "integrated_lufs": -21.37,
+      "true_peak_dbtp": -3.22,
+      "loop_boundary_jump": 0.0008794002933427691,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_15_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "8cb444156de09d225907cc86fda2c457c2866843039dde55c6cc29cba43ce2f3",
+      "integrated_lufs": -22.38,
+      "true_peak_dbtp": -7.6,
+      "loop_boundary_jump": 0.00013713671069126576,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_16_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "7eaf1d2b18e779f6ffa505d3e70c7853c83d5685c1b0af841bce5245a407e965",
+      "integrated_lufs": -22.6,
+      "true_peak_dbtp": -2.45,
+      "loop_boundary_jump": 0.00401707598939538,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_17_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "05580ed32b3cb3d50f85c52f1e6dd1c2f0de54192b95ce4da051cbece6ec226e",
+      "integrated_lufs": -21.37,
+      "true_peak_dbtp": -2.59,
+      "loop_boundary_jump": 0.00020122982095927,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_18_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "1cbf59c7a5425e80d28696140a468b9b76fc82acf8b887d49e41064bcb3a8e27",
+      "integrated_lufs": -22.41,
+      "true_peak_dbtp": -1.86,
+      "loop_boundary_jump": 0.0004559220396913588,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_19_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "e6b020dcf4f8f85f0788bbe037b0ebe04d5666d8d779254d8705feaf3d81e378",
+      "integrated_lufs": -22.9,
+      "true_peak_dbtp": -3.87,
+      "loop_boundary_jump": 0.00010585450218059123,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_20_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "b838e66df7a47dabc96948ad8a2c4995b3af95657d97b372d9c25842ad9ea4b2",
+      "integrated_lufs": -22.63,
+      "true_peak_dbtp": -2.69,
+      "loop_boundary_jump": 0.00015306782734114677,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_21_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "cd7a7ecc901f3fc6292eedc6462e214106aaaf0206e59cbe4ed0c1529f0af2d5",
+      "integrated_lufs": -21.27,
+      "true_peak_dbtp": -3.7,
+      "loop_boundary_jump": 0.001235881936736405,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_22_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "691d78d2c494fb5fb5674e8259ff56ace3e6faf912756b973a4ff3314d88c294",
+      "integrated_lufs": -23.35,
+      "true_peak_dbtp": -2.5,
+      "loop_boundary_jump": 0.00030985160265117884,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_23_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "78681b6897adab89d56ccbed5e6f8117e081536567d627d0997133969a943bdd",
+      "integrated_lufs": -20.64,
+      "true_peak_dbtp": -2.36,
+      "loop_boundary_jump": 0.0003106831281911582,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_24_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "d5f149f809e4232812b734d7b061aa3be99552d0102d3236137d841018e2dd25",
+      "integrated_lufs": -23.86,
+      "true_peak_dbtp": -2.42,
+      "loop_boundary_jump": 0.0005186329362913966,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_25_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "2d8bd00659344047bfb4be30f189eee4dabc6c5baac3e79fb725eacc4a899610",
+      "integrated_lufs": -23.72,
+      "true_peak_dbtp": -1.53,
+      "loop_boundary_jump": 0.0003093769191764295,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_26_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "b8903ce3d0f4953769949b6ce1dc70122bbac35233329672a3ccb22edef087e3",
+      "integrated_lufs": -25.09,
+      "true_peak_dbtp": -2.49,
+      "loop_boundary_jump": 0.00014084510621614754,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_27_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "712e46e1646d25155673b1b4b2070d0cf1fabebd7576d9e705e1298be745c9b1",
+      "integrated_lufs": -22.77,
+      "true_peak_dbtp": -2.37,
+      "loop_boundary_jump": 0.001155950129032135,
+      "silent_200ms_blocks": 0
+    },
+    {
+      "file": "2025_28_ambience.mp3",
+      "duration": 18.0,
+      "bytes": 289197,
+      "sha256": "c9d86be392eab20e85eda4e27e77aa7a938e65ac7b99fa61116cd545ab774a0b",
+      "integrated_lufs": -22.1,
+      "true_peak_dbtp": -2.37,
+      "loop_boundary_jump": 0.000403373793233186,
+      "silent_200ms_blocks": 0
+    }
+  ],
+  "all_54_hashes_unique": true,
+  "maximum_pairwise_waveform_correlation": [
+    0.4298508862930646,
+    [
+      "2025_26_ambience.mp3",
+      "2025_12_ambience.mp3"
+    ]
+  ]
+}

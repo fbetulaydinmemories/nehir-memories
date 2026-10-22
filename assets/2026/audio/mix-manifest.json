@@ -1,0 +1,4394 @@
+[
+  {
+    "index": 1,
+    "image": "assets/2026/2026_01.webp",
+    "title": "Bir Ciğerci Akşamı",
+    "audio": "assets/2026/audio/2026_01_ambience.mp3",
+    "duration": 18,
+    "note": "Ciğerci; mutfaktan düşük kızartma, yakın servis ve iki kişilik sohbet",
+    "events": [
+      {
+        "source": "restaurant",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 7.0,
+        "rms_db": -36,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "fry",
+        "at": 0,
+        "duration": 12.0163,
+        "source_start": 0.0,
+        "rms_db": -38,
+        "pan": -0.6,
+        "band_hz": null
+      },
+      {
+        "source": "friends",
+        "at": 0.5,
+        "duration": 1.0617,
+        "source_start": 64.2065,
+        "rms_db": -30.89947467282773,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 3.9902957251239726,
+        "duration": 1.1252,
+        "source_start": 65.7522,
+        "rms_db": -30.704871006448776,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 6.887089450895077,
+        "duration": 1.0462,
+        "source_start": 29.5378,
+        "rms_db": -30.792687026013446,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 9.830174361684797,
+        "duration": 0.982,
+        "source_start": 64.0848,
+        "rms_db": -30.71729092616446,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 13.315392804725812,
+        "duration": 0.7615,
+        "source_start": 68.4771,
+        "rms_db": -30.67703589159424,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 16.443972785161495,
+        "duration": 0.7851,
+        "source_start": 35.3996,
+        "rms_db": -29.246186957608543,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 1.15,
+        "duration": 0.8988,
+        "source_start": 2.0323,
+        "rms_db": -31.45387973486035,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 5.152164546103668,
+        "duration": 0.8932,
+        "source_start": 12.2473,
+        "rms_db": -29.505364507212285,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 7.7879308031302905,
+        "duration": 1.1565,
+        "source_start": 3.4057,
+        "rms_db": -29.914092168935433,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 11.83475166518658,
+        "duration": 1.1909,
+        "source_start": 6.6208,
+        "rms_db": -29.313593775603714,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 14.787675864096904,
+        "duration": 1.2342,
+        "source_start": 13.3154,
+        "rms_db": -31.557543305336058,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "plates",
+        "at": 2.5,
+        "duration": 1.8,
+        "source_start": 7.72,
+        "rms_db": -26,
+        "pan": 0.08304374627512956,
+        "band_hz": null
+      },
+      {
+        "source": "plates",
+        "at": 11.3,
+        "duration": 1.8,
+        "source_start": 12.5011,
+        "rms_db": -26,
+        "pan": -0.4089069234623224,
+        "band_hz": null
+      },
+      {
+        "source": "dishes",
+        "at": 6,
+        "duration": 1.5,
+        "source_start": 7.6494,
+        "rms_db": -27,
+        "pan": 0.13586657798411972,
+        "band_hz": null
+      },
+      {
+        "source": "dishes",
+        "at": 15.5,
+        "duration": 1.5,
+        "source_start": 17.7425,
+        "rms_db": -27,
+        "pan": -0.11857668129627486,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -21,
+    "sha256": "242487c200d3889e5284e7688d762c61b9a57427f468191a9b9114262b03f21f"
+  },
+  {
+    "index": 2,
+    "image": "assets/2026/2026_02.webp",
+    "title": "IF'de Üçümüz",
+    "audio": "assets/2026/audio/2026_02_ambience.mp3",
+    "duration": 18,
+    "note": "IF üç kişilik masa; bardak ve farklı aralıklarla kısa kahkahalar",
+    "events": [
+      {
+        "source": "cafe",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 43.0,
+        "rms_db": -35,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "womanC",
+        "at": 0.5,
+        "duration": 1.0785,
+        "source_start": 15.6753,
+        "rms_db": -30.66738710125927,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 4.041292569326596,
+        "duration": 1.1665,
+        "source_start": 14.2629,
+        "rms_db": -30.655246916569283,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 7.781191396125858,
+        "duration": 1.0406,
+        "source_start": 14.1466,
+        "rms_db": -29.398241777425394,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 11.389426891393786,
+        "duration": 1.2325,
+        "source_start": 1.7708,
+        "rms_db": -30.03748732359576,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 14.74735045409688,
+        "duration": 0.6271,
+        "source_start": 14.7449,
+        "rms_db": -29.694092705196862,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.15,
+        "duration": 0.6512,
+        "source_start": 36.5601,
+        "rms_db": -28.318658094674632,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 4.995401185489763,
+        "duration": 0.5219,
+        "source_start": 40.2216,
+        "rms_db": -28.519799678529655,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 8.656684910299894,
+        "duration": 0.5511,
+        "source_start": 58.6191,
+        "rms_db": -28.020474946027285,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 11.864850593996906,
+        "duration": 1.1301,
+        "source_start": 10.6596,
+        "rms_db": -29.324226513875193,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 15.5169412956706,
+        "duration": 0.8638,
+        "source_start": 7.5266,
+        "rms_db": -29.492203197757615,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.8,
+        "duration": 1.0526,
+        "source_start": 34.0345,
+        "rms_db": -29.239193453478453,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 4.616682974118174,
+        "duration": 0.777,
+        "source_start": 74.1858,
+        "rms_db": -30.938202057628594,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 8.347569850073771,
+        "duration": 1.0368,
+        "source_start": 15.5511,
+        "rms_db": -28.191152841765458,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 10.879910715741957,
+        "duration": 1.2047,
+        "source_start": 35.6824,
+        "rms_db": -28.12325552986687,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 14.423274384107383,
+        "duration": 0.5578,
+        "source_start": 39.7357,
+        "rms_db": -28.81238228828913,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "glasses",
+        "at": 1.8,
+        "duration": 1.2,
+        "source_start": 23.904,
+        "rms_db": -27,
+        "pan": -0.23014637446440533,
+        "band_hz": null
+      },
+      {
+        "source": "glasses",
+        "at": 9.8,
+        "duration": 1.2,
+        "source_start": 30.2696,
+        "rms_db": -27,
+        "pan": 0.40251742933868695,
+        "band_hz": null
+      },
+      {
+        "source": "glasses",
+        "at": 15.8,
+        "duration": 1.2,
+        "source_start": 16.2855,
+        "rms_db": -27,
+        "pan": 0.06615134661441469,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 5.7,
+        "duration": 2.4,
+        "source_start": 2.0,
+        "rms_db": -27,
+        "pan": 0,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -20.5,
+    "sha256": "732c7d895a5e0df391023fe1d0813afb9594c6dde33cf111af6d691597a2e9f9"
+  },
+  {
+    "index": 3,
+    "image": "assets/2026/2026_03.webp",
+    "title": "Nehir'in Yeni Tableti",
+    "audio": "assets/2026/audio/2026_03_ambience.mp3",
+    "duration": 18,
+    "note": "Araçta yeni tablet kutusu; ambalaj ve kısa sevinç, yapay ekran sesi yok",
+    "events": [
+      {
+        "source": "engineOffA",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 3.0,
+        "rms_db": -39,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "box",
+        "at": 0.9,
+        "duration": 2.0,
+        "source_start": 4.9392,
+        "rms_db": -26,
+        "pan": 0.3084318022444915,
+        "band_hz": null
+      },
+      {
+        "source": "box",
+        "at": 8.5,
+        "duration": 2.0,
+        "source_start": 4.9613,
+        "rms_db": -26,
+        "pan": 0.2963167495594754,
+        "band_hz": null
+      },
+      {
+        "source": "paperwrap",
+        "at": 4.2,
+        "duration": 1.7,
+        "source_start": 4.6824,
+        "rms_db": -28,
+        "pan": 0.026578169643652227,
+        "band_hz": null
+      },
+      {
+        "source": "paperwrap",
+        "at": 13.4,
+        "duration": 1.7,
+        "source_start": 4.3139,
+        "rms_db": -28,
+        "pan": -0.19360406012040365,
+        "band_hz": null
+      },
+      {
+        "source": "friends",
+        "at": 0.5,
+        "duration": 0.5116,
+        "source_start": 44.8163,
+        "rms_db": -32.98419125236456,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 3.7892104618803857,
+        "duration": 0.7482,
+        "source_start": 15.6648,
+        "rms_db": -31.804963393932596,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 7.360412921841924,
+        "duration": 0.8026,
+        "source_start": 16.702,
+        "rms_db": -30.19705369421498,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 10.02279982183432,
+        "duration": 0.7847,
+        "source_start": 43.3016,
+        "rms_db": -31.786683532597287,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 13.561850274542069,
+        "duration": 0.967,
+        "source_start": 31.6121,
+        "rms_db": -31.891341255998057,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 16.290713914822824,
+        "duration": 0.8288,
+        "source_start": 5.2496,
+        "rms_db": -30.302677795431777,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.15,
+        "duration": 0.526,
+        "source_start": 57.7658,
+        "rms_db": -30.18910148688558,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 4.670269470627412,
+        "duration": 0.8856,
+        "source_start": 12.6061,
+        "rms_db": -30.60760142601427,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 8.191564870799738,
+        "duration": 0.8429,
+        "source_start": 7.312,
+        "rms_db": -30.740605301429852,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 11.705944208586285,
+        "duration": 0.7039,
+        "source_start": 53.7787,
+        "rms_db": -32.95090655488266,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 15.088082633620626,
+        "duration": 0.8475,
+        "source_start": 30.1029,
+        "rms_db": -30.241800815357347,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "laugh",
+        "at": 5.3001212654356475,
+        "duration": 2.1,
+        "source_start": 4.3761,
+        "rms_db": -29,
+        "pan": 0.15,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -22,
+    "sha256": "57b597d41564bf451222b28a597e06e70aedcec264e0c8df497578946d00421e"
+  },
+  {
+    "index": 4,
+    "image": "assets/2026/2026_04.webp",
+    "title": "Arcadium'da Pizza Molası",
+    "audio": "assets/2026/audio/2026_04_ambience.mp3",
+    "duration": 18,
+    "note": "AVM pizza masası; uzak kalabalık, tabak ve çatal",
+    "events": [
+      {
+        "source": "crowd3",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 47.0,
+        "rms_db": -37,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "friends",
+        "at": 0.5,
+        "duration": 0.515,
+        "source_start": 41.4139,
+        "rms_db": -31.892921423983935,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 4.111565492925346,
+        "duration": 0.5631,
+        "source_start": 47.095,
+        "rms_db": -32.60475618619423,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 7.0442896850200825,
+        "duration": 0.872,
+        "source_start": 39.9155,
+        "rms_db": -32.869212075950664,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 10.790653415936312,
+        "duration": 1.0014,
+        "source_start": 20.2548,
+        "rms_db": -32.99861711678418,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 14.875250084940497,
+        "duration": 0.6981,
+        "source_start": 13.5314,
+        "rms_db": -33.13448835870305,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.15,
+        "duration": 0.7032,
+        "source_start": 31.0413,
+        "rms_db": -31.289364818788634,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 3.9815226181841057,
+        "duration": 0.8415,
+        "source_start": 41.7128,
+        "rms_db": -32.24518797198264,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 8.002730384362021,
+        "duration": 0.789,
+        "source_start": 59.3187,
+        "rms_db": -31.846946574595904,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 11.740492155336222,
+        "duration": 0.526,
+        "source_start": 72.2817,
+        "rms_db": -32.146055492303674,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 15.025472541748645,
+        "duration": 0.9344,
+        "source_start": 26.6983,
+        "rms_db": -31.955848052021594,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "plates",
+        "at": 1.3,
+        "duration": 1.7,
+        "source_start": 54.2356,
+        "rms_db": -26,
+        "pan": -0.08815694174265343,
+        "band_hz": null
+      },
+      {
+        "source": "plates",
+        "at": 10.9,
+        "duration": 1.7,
+        "source_start": 54.2298,
+        "rms_db": -26,
+        "pan": 0.31250760669806343,
+        "band_hz": null
+      },
+      {
+        "source": "dishes",
+        "at": 5.4,
+        "duration": 1.7,
+        "source_start": 47.0802,
+        "rms_db": -27,
+        "pan": -0.2510286572674908,
+        "band_hz": null
+      },
+      {
+        "source": "dishes",
+        "at": 14.5,
+        "duration": 1.7,
+        "source_start": 54.9283,
+        "rms_db": -27,
+        "pan": 0.35066208452246206,
+        "band_hz": null
+      },
+      {
+        "source": "glass",
+        "at": 8.1,
+        "duration": 1.3,
+        "source_start": 36.1006,
+        "rms_db": -30,
+        "pan": -0.041107266888111504,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -21,
+    "sha256": "9b31b1db6a5d612d014c800fc406eca91b42241ea8eb583119eed051f25efcdb"
+  },
+  {
+    "index": 5,
+    "image": "assets/2026/2026_05.webp",
+    "title": "Birlikte Hamnet'i İzlerken",
+    "audio": "assets/2026/audio/2026_05_ambience.mp3",
+    "duration": 18,
+    "note": "Hamnet sinema fuayesi; ayaklar, bilet ve düşük insan uğultusu",
+    "events": [
+      {
+        "source": "crowd3",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 6.0,
+        "rms_db": -41,
+        "pan": 0,
+        "band_hz": [
+          200,
+          3000
+        ]
+      },
+      {
+        "source": "heels",
+        "at": 1.1,
+        "duration": 2.0,
+        "source_start": 2.8244,
+        "rms_db": -29,
+        "pan": -0.17677914883671375,
+        "band_hz": null
+      },
+      {
+        "source": "heels",
+        "at": 8.2,
+        "duration": 2.0,
+        "source_start": 3.51,
+        "rms_db": -29,
+        "pan": 0.3969226604629702,
+        "band_hz": null
+      },
+      {
+        "source": "heels",
+        "at": 14.7,
+        "duration": 2.0,
+        "source_start": 3.5502,
+        "rms_db": -29,
+        "pan": 0.02958813456195364,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 4.8,
+        "duration": 0.9,
+        "source_start": 1.9403,
+        "rms_db": -28,
+        "pan": -0.3634616879324788,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 11.8,
+        "duration": 0.9,
+        "source_start": 0.1472,
+        "rms_db": -28,
+        "pan": 0.2125174920472549,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -24,
+    "sha256": "0bcd924d79d04aba7332dba4e4285aff502248d42e4d589c879a802289f1b59c"
+  },
+  {
+    "index": 6,
+    "image": "assets/2026/2026_06.webp",
+    "title": "Monopoly Gecesi",
+    "audio": "assets/2026/audio/2026_06_ambience.mp3",
+    "duration": 18,
+    "note": "Monopoly; gerçek zarlar, elde zar sallama, kâğıt kart ve gülüş",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 4.0,
+        "rms_db": -44,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "friends",
+        "at": 0.5,
+        "duration": 0.7688,
+        "source_start": 74.7478,
+        "rms_db": -33.58113519848879,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 3.9200365478920354,
+        "duration": 0.619,
+        "source_start": 46.443,
+        "rms_db": -32.9479356764426,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 6.498124942992618,
+        "duration": 0.5192,
+        "source_start": 62.0419,
+        "rms_db": -33.63473779830433,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 10.589555345106785,
+        "duration": 0.7528,
+        "source_start": 16.361,
+        "rms_db": -31.59468106839992,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 13.00146832493358,
+        "duration": 0.8533,
+        "source_start": 60.6099,
+        "rms_db": -31.768992849999083,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 16.246770942495544,
+        "duration": 0.8601,
+        "source_start": 67.6629,
+        "rms_db": -33.871277618933746,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.15,
+        "duration": 0.7225,
+        "source_start": 25.1453,
+        "rms_db": -31.930454616145532,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 5.108748095392713,
+        "duration": 0.5422,
+        "source_start": 31.8176,
+        "rms_db": -33.47983422668372,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 7.512093559919555,
+        "duration": 1.159,
+        "source_start": 26.6355,
+        "rms_db": -33.40554652521468,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 11.37386578220407,
+        "duration": 0.7291,
+        "source_start": 15.0343,
+        "rms_db": -31.523129752030215,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 14.891534483815676,
+        "duration": 0.6766,
+        "source_start": 78.1839,
+        "rms_db": -31.712455637531523,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "dicehand",
+        "at": 0.7,
+        "duration": 1.2,
+        "source_start": 2.8191,
+        "rms_db": -27,
+        "pan": 0.11897358164191851,
+        "band_hz": null
+      },
+      {
+        "source": "dicehand",
+        "at": 8.1,
+        "duration": 1.2,
+        "source_start": 8.6904,
+        "rms_db": -27,
+        "pan": -0.3691450389281924,
+        "band_hz": null
+      },
+      {
+        "source": "dice",
+        "at": 2,
+        "duration": 2.7,
+        "source_start": 19.4703,
+        "rms_db": -23,
+        "pan": -0.24519034361862746,
+        "band_hz": null
+      },
+      {
+        "source": "dice",
+        "at": 10,
+        "duration": 2.7,
+        "source_start": 24.1603,
+        "rms_db": -23,
+        "pan": -0.4443874769209746,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 5.6,
+        "duration": 1.0,
+        "source_start": 1.9259,
+        "rms_db": -27,
+        "pan": -0.4848355640722172,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 14.5,
+        "duration": 1.0,
+        "source_start": 1.8808,
+        "rms_db": -27,
+        "pan": -0.44532674182208154,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 11.8,
+        "duration": 2.4,
+        "source_start": 21.0,
+        "rms_db": -27,
+        "pan": 0,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -21,
+    "sha256": "f06a29356b2c6c757de6cb2f2f75e047f940ca160b0fcb2548a9fa44d12662a9"
+  },
+  {
+    "index": 7,
+    "image": "assets/2026/2026_07.webp",
+    "title": "Zor Bir Günde Yanımda",
+    "audio": "assets/2026/audio/2026_07_ambience.mp3",
+    "duration": 18,
+    "note": "Hastanede sessiz destek; oda, çarşaf ve yumuşak giysi; alarm yok",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 12.0,
+        "rms_db": -33,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "fan",
+        "at": 0,
+        "duration": 9.6131,
+        "source_start": 0.0,
+        "rms_db": -44,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "fan",
+        "at": 9.6130625,
+        "duration": 8.9869,
+        "source_start": 0.0,
+        "rms_db": -44,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "blanket",
+        "at": 3,
+        "duration": 1.8,
+        "source_start": 0.1482,
+        "rms_db": -27,
+        "pan": -0.32278023435819136,
+        "band_hz": null
+      },
+      {
+        "source": "blanket",
+        "at": 11.3,
+        "duration": 1.8,
+        "source_start": 0.1724,
+        "rms_db": -27,
+        "pan": 0.040473220563777335,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 7.6,
+        "duration": 1.8,
+        "source_start": 59.0604,
+        "rms_db": -30,
+        "pan": -0.17895437777650725,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 15.8,
+        "duration": 1.8,
+        "source_start": 25.3593,
+        "rms_db": -30,
+        "pan": -0.45538392044498754,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -26,
+    "sha256": "77196709a4c60d419c5a4b5c511455f13de11fa71ca86a834906680647111b80"
+  },
+  {
+    "index": 8,
+    "image": "assets/2026/2026_08.webp",
+    "title": "Clinic'te Üçümüz",
+    "audio": "assets/2026/audio/2026_08_ambience.mp3",
+    "duration": 18,
+    "note": "Clinic üç kişilik gündüz kahvesi; fincan ve sakin sohbet",
+    "events": [
+      {
+        "source": "cafe",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 78.0,
+        "rms_db": -39,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "friends",
+        "at": 0.5,
+        "duration": 1.2454,
+        "source_start": 7.8005,
+        "rms_db": -31.20852484105094,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 4.388169700139071,
+        "duration": 0.7615,
+        "source_start": 15.7063,
+        "rms_db": -30.549483773315803,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 7.238235222868784,
+        "duration": 0.7049,
+        "source_start": 13.1318,
+        "rms_db": -32.27643070428073,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 10.032993507009943,
+        "duration": 1.0264,
+        "source_start": 68.5885,
+        "rms_db": -32.39584986788458,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 14.023007050210925,
+        "duration": 0.9338,
+        "source_start": 13.9059,
+        "rms_db": -31.67754241111676,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 1.15,
+        "duration": 0.8094,
+        "source_start": 2.5124,
+        "rms_db": -31.99312360868506,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 3.7126351572303324,
+        "duration": 0.9469,
+        "source_start": 15.2581,
+        "rms_db": -31.976619163056927,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 7.558861372360724,
+        "duration": 1.1001,
+        "source_start": 0.115,
+        "rms_db": -31.08047869623561,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 11.49460331475813,
+        "duration": 0.9238,
+        "source_start": 5.0963,
+        "rms_db": -32.63227848379583,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 14.420279353731836,
+        "duration": 0.7681,
+        "source_start": 0.2415,
+        "rms_db": -32.18096114314359,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.8,
+        "duration": 0.9094,
+        "source_start": 11.5066,
+        "rms_db": -32.33083396388139,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 5.867168133275158,
+        "duration": 0.64,
+        "source_start": 23.551,
+        "rms_db": -30.965753049637026,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 9.15101021282908,
+        "duration": 0.9052,
+        "source_start": 43.1883,
+        "rms_db": -32.165551148425635,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 12.386909989942636,
+        "duration": 0.8894,
+        "source_start": 48.9967,
+        "rms_db": -32.739827877402476,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 14.993239341217258,
+        "duration": 0.7804,
+        "source_start": 13.7808,
+        "rms_db": -31.906282099213765,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "mug",
+        "at": 1.7,
+        "duration": 1.3,
+        "source_start": 18.0347,
+        "rms_db": -26,
+        "pan": -0.39479338255820207,
+        "band_hz": null
+      },
+      {
+        "source": "mug",
+        "at": 8.6,
+        "duration": 1.3,
+        "source_start": 18.0578,
+        "rms_db": -26,
+        "pan": 0.09259385360023675,
+        "band_hz": null
+      },
+      {
+        "source": "mug",
+        "at": 14.9,
+        "duration": 1.3,
+        "source_start": 18.0011,
+        "rms_db": -26,
+        "pan": -0.43330305471497843,
+        "band_hz": null
+      },
+      {
+        "source": "spoonB",
+        "at": 5.3,
+        "duration": 2.2,
+        "source_start": 38.3327,
+        "rms_db": -30,
+        "pan": 0.23428848420731851,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -21,
+    "sha256": "d2cff0e0965e0c49655c7d4d4e476ae571f682df3ac2f6a172d711383a9e41b1"
+  },
+  {
+    "index": 9,
+    "image": "assets/2026/2026_09.webp",
+    "title": "Timboo'da Buluşma",
+    "audio": "assets/2026/audio/2026_09_ambience.mp3",
+    "duration": 18,
+    "note": "Timboo dış masa; bahçe, servis ve iki kişilik konuşma",
+    "events": [
+      {
+        "source": "outdoor",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 19.0,
+        "rms_db": -38,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "restaurant",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 73.0,
+        "rms_db": -43,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "friends",
+        "at": 0.5,
+        "duration": 0.7286,
+        "source_start": 78.3901,
+        "rms_db": -31.105096393818528,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 3.974714530833596,
+        "duration": 0.9289,
+        "source_start": 15.7304,
+        "rms_db": -32.11818534899254,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 8.056918012063397,
+        "duration": 1.0496,
+        "source_start": 61.3263,
+        "rms_db": -32.89794643768344,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 10.612794964177356,
+        "duration": 1.2249,
+        "source_start": 74.8518,
+        "rms_db": -31.148389172242574,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 13.732217632497623,
+        "duration": 1.1261,
+        "source_start": 50.9247,
+        "rms_db": -31.27703291344488,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.15,
+        "duration": 1.0846,
+        "source_start": 5.417,
+        "rms_db": -32.097969783790646,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 3.9311505088185568,
+        "duration": 0.6458,
+        "source_start": 46.7743,
+        "rms_db": -31.07244691025744,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 6.857785465437564,
+        "duration": 0.5613,
+        "source_start": 19.9891,
+        "rms_db": -31.06273819092654,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 9.341213964285274,
+        "duration": 0.9482,
+        "source_start": 16.0068,
+        "rms_db": -31.2362946768196,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 12.906954549073083,
+        "duration": 0.8928,
+        "source_start": 35.7955,
+        "rms_db": -32.078291517615725,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 15.977045769413234,
+        "duration": 0.6447,
+        "source_start": 12.6292,
+        "rms_db": -30.978413231595905,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "dishes",
+        "at": 2.6,
+        "duration": 1.7,
+        "source_start": 29.6293,
+        "rms_db": -26,
+        "pan": 0.34503807020089405,
+        "band_hz": null
+      },
+      {
+        "source": "dishes",
+        "at": 12.2,
+        "duration": 1.7,
+        "source_start": 22.1464,
+        "rms_db": -26,
+        "pan": -0.4694452435800335,
+        "band_hz": null
+      },
+      {
+        "source": "plates",
+        "at": 6.8,
+        "duration": 1.3,
+        "source_start": 35.6056,
+        "rms_db": -29,
+        "pan": 0.3344553018085362,
+        "band_hz": null
+      },
+      {
+        "source": "plates",
+        "at": 16,
+        "duration": 1.3,
+        "source_start": 26.9132,
+        "rms_db": -29,
+        "pan": 0.1878536711588774,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -21,
+    "sha256": "ca23a1cf890751ea64b632d707a3d22b9a63440b6ad2e914f4d84ab3b7684234"
+  },
+  {
+    "index": 10,
+    "image": "assets/2026/2026_10.webp",
+    "title": "Bir Sinema Daha",
+    "audio": "assets/2026/audio/2026_10_ambience.mp3",
+    "duration": 18,
+    "note": "İkinci sinema fuayesi; kâğıt bilet ve daha sakin farklı adımlar",
+    "events": [
+      {
+        "source": "crowd2",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 93.0,
+        "rms_db": -42,
+        "pan": 0,
+        "band_hz": [
+          200,
+          2800
+        ]
+      },
+      {
+        "source": "page",
+        "at": 1.4,
+        "duration": 1.0,
+        "source_start": 0.192,
+        "rms_db": -27,
+        "pan": -0.3326017685466738,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 7.6,
+        "duration": 1.0,
+        "source_start": 1.9466,
+        "rms_db": -27,
+        "pan": 0.00956461169698708,
+        "band_hz": null
+      },
+      {
+        "source": "heels",
+        "at": 4.5,
+        "duration": 2.1,
+        "source_start": 2.8472,
+        "rms_db": -30,
+        "pan": -0.26231696690225925,
+        "band_hz": null
+      },
+      {
+        "source": "heels",
+        "at": 11.4,
+        "duration": 2.1,
+        "source_start": 2.844,
+        "rms_db": -30,
+        "pan": -0.15940167458320298,
+        "band_hz": null
+      },
+      {
+        "source": "rustle",
+        "at": 15.3,
+        "duration": 1.6,
+        "source_start": 10.3069,
+        "rms_db": -32,
+        "pan": 0.12105726740389511,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -24,
+    "sha256": "cd06a37f3f6de26acc8a0c1512f3fdc5615a1ac21bbece5b68315b6d069ae38a"
+  },
+  {
+    "index": 11,
+    "image": "assets/2026/2026_11.webp",
+    "title": "Daphne'de Ders Arası",
+    "audio": "assets/2026/audio/2026_11_ambience.mp3",
+    "duration": 18,
+    "note": "Fotoğrafta ders sürüyor; defter kapatma yerine yazı ve hafif fincan",
+    "events": [
+      {
+        "source": "cafe",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 116.0,
+        "rms_db": -42,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "pencil",
+        "at": 1.2,
+        "duration": 2.8,
+        "source_start": 8.5131,
+        "rms_db": -25,
+        "pan": -0.011161870279991049,
+        "band_hz": null
+      },
+      {
+        "source": "pencil",
+        "at": 6.4,
+        "duration": 2.8,
+        "source_start": 13.0087,
+        "rms_db": -25,
+        "pan": 0.21317331784197813,
+        "band_hz": null
+      },
+      {
+        "source": "pencil",
+        "at": 13.2,
+        "duration": 2.8,
+        "source_start": 8.5632,
+        "rms_db": -25,
+        "pan": 0.38384752529224175,
+        "band_hz": null
+      },
+      {
+        "source": "keyboard",
+        "at": 4.4,
+        "duration": 1.5,
+        "source_start": 2.1928,
+        "rms_db": -30,
+        "pan": -0.006276496256385267,
+        "band_hz": null
+      },
+      {
+        "source": "keyboard",
+        "at": 10.2,
+        "duration": 1.5,
+        "source_start": 2.1812,
+        "rms_db": -30,
+        "pan": 0.026475037355381925,
+        "band_hz": null
+      },
+      {
+        "source": "mug",
+        "at": 9,
+        "duration": 1.4,
+        "source_start": 11.4874,
+        "rms_db": -29,
+        "pan": -0.29346209637802234,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 16,
+        "duration": 1.2,
+        "source_start": 1.7966,
+        "rms_db": -29,
+        "pan": 0.06700757986571082,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -23,
+    "sha256": "1acb11452c30372fdd7d62a5f7c8cab5ae3f785c5b646623d911f30af632a80a"
+  },
+  {
+    "index": 12,
+    "image": "assets/2026/2026_12.webp",
+    "title": "TRT'de İlk Adımlarım",
+    "audio": "assets/2026/audio/2026_12_ambience.mp3",
+    "duration": 18,
+    "note": "TRT binasının dışı; kampüs yolu, trafik ve dış mekân ayakları",
+    "events": [
+      {
+        "source": "road",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 23.0,
+        "rms_db": -35,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "outdoor",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 46.0,
+        "rms_db": -39,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "stone",
+        "at": 1.6,
+        "duration": 2.0,
+        "source_start": 20.0947,
+        "rms_db": -29,
+        "pan": -0.4243143913579821,
+        "band_hz": null
+      },
+      {
+        "source": "stone",
+        "at": 8.5,
+        "duration": 2.0,
+        "source_start": 9.4044,
+        "rms_db": -29,
+        "pan": -0.18587251285276407,
+        "band_hz": null
+      },
+      {
+        "source": "stone",
+        "at": 14.4,
+        "duration": 2.0,
+        "source_start": 7.1348,
+        "rms_db": -29,
+        "pan": 0.3789076407632179,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -22,
+    "sha256": "68fa320e09fc9efea422a36ad180cd4e6cbf2be231852589cd315b9c59072714"
+  },
+  {
+    "index": 13,
+    "image": "assets/2026/2026_13.webp",
+    "title": "Stajdan Kalan Dostluklar",
+    "audio": "assets/2026/audio/2026_13_ambience.mp3",
+    "duration": 18,
+    "note": "Staj arkadaşları dış bankta; bahçe ve sıcak yakın sohbet",
+    "events": [
+      {
+        "source": "outdoor",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 72.0,
+        "rms_db": -35,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "crowd2",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 43.0,
+        "rms_db": -45,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "friends",
+        "at": 0.5,
+        "duration": 1.2377,
+        "source_start": 37.1175,
+        "rms_db": -31.69705579272865,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 3.208055460603765,
+        "duration": 1.1004,
+        "source_start": 36.6831,
+        "rms_db": -30.58382672663592,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 6.75022542287107,
+        "duration": 0.9922,
+        "source_start": 38.8549,
+        "rms_db": -29.565350068163454,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 10.645802275836516,
+        "duration": 0.7696,
+        "source_start": 21.3584,
+        "rms_db": -29.888514458373063,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 13.605274357221203,
+        "duration": 1.2383,
+        "source_start": 6.5929,
+        "rms_db": -29.63722191576028,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 16.19886618292191,
+        "duration": 0.87,
+        "source_start": 2.533,
+        "rms_db": -31.187181907774576,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 1.15,
+        "duration": 0.9075,
+        "source_start": 4.5793,
+        "rms_db": -31.63749857468083,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 4.539969225167523,
+        "duration": 1.1497,
+        "source_start": 13.2807,
+        "rms_db": -31.872116377233702,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 8.190536929871666,
+        "duration": 0.7917,
+        "source_start": 16.5876,
+        "rms_db": -31.71379527274395,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 12.232710889845935,
+        "duration": 0.5261,
+        "source_start": 15.2875,
+        "rms_db": -31.316757982947486,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 15.592642227227344,
+        "duration": 0.6564,
+        "source_start": 12.4234,
+        "rms_db": -31.9237512172831,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "laugh",
+        "at": 8.443847066361972,
+        "duration": 2.1,
+        "source_start": 22.2851,
+        "rms_db": -28,
+        "pan": 0.15,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 4.3,
+        "duration": 1.7,
+        "source_start": 4.9465,
+        "rms_db": -31,
+        "pan": -0.3058637174275093,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 13.6,
+        "duration": 1.7,
+        "source_start": 25.3919,
+        "rms_db": -31,
+        "pan": -0.03047596985003742,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -21,
+    "sha256": "44101b1f1da90276189990103b6708a205176c47ed849e2d1618236b478caada"
+  },
+  {
+    "index": 14,
+    "image": "assets/2026/2026_14.webp",
+    "title": "Nehir'in Staj Günleri",
+    "audio": "assets/2026/audio/2026_14_ambience.mp3",
+    "duration": 18,
+    "note": "Ataseven ofisi; not alma, evrak ve kısa uzak klavye",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 8.0,
+        "rms_db": -42,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "pencil",
+        "at": 1.5,
+        "duration": 2.5,
+        "source_start": 3.6913,
+        "rms_db": -25,
+        "pan": -0.328237985843822,
+        "band_hz": null
+      },
+      {
+        "source": "pencil",
+        "at": 7.7,
+        "duration": 2.5,
+        "source_start": 3.7557,
+        "rms_db": -25,
+        "pan": -0.4925505151491013,
+        "band_hz": null
+      },
+      {
+        "source": "pencil",
+        "at": 14,
+        "duration": 2.5,
+        "source_start": 5.1912,
+        "rms_db": -25,
+        "pan": -0.233323729299999,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 5.2,
+        "duration": 1.7,
+        "source_start": 1.4602,
+        "rms_db": -28,
+        "pan": 0.4064622623779186,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 11.6,
+        "duration": 1.7,
+        "source_start": 0.2891,
+        "rms_db": -28,
+        "pan": -0.12204827170645616,
+        "band_hz": null
+      },
+      {
+        "source": "keyboard",
+        "at": 8.8,
+        "duration": 2.2,
+        "source_start": 0.1,
+        "rms_db": -34,
+        "pan": 0.65,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -23,
+    "sha256": "b9bd26e1f1a050f2aa44726de975d419fd37dfb1341f8d29ee767c6922442f8d"
+  },
+  {
+    "index": 15,
+    "image": "assets/2026/2026_15_home.webp",
+    "title": "Çardakta Bir Sürpriz",
+    "audio": "assets/2026/audio/2026_15_ambience.mp3",
+    "duration": 18,
+    "note": "Çardakta oturan iki dost; hafif bahçe rüzgârı ve fincan",
+    "events": [
+      {
+        "source": "outdoor",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 33.0,
+        "rms_db": -35,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "friends",
+        "at": 0.5,
+        "duration": 0.5235,
+        "source_start": 52.3432,
+        "rms_db": -33.99018080343947,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 3.7719036394079,
+        "duration": 0.9287,
+        "source_start": 14.2631,
+        "rms_db": -33.62628619287739,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 7.580108535618599,
+        "duration": 1.1476,
+        "source_start": 72.6297,
+        "rms_db": -32.913536162536836,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 10.972583602835215,
+        "duration": 1.1646,
+        "source_start": 31.2491,
+        "rms_db": -31.6216355681525,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 14.620050333506722,
+        "duration": 0.5507,
+        "source_start": 66.6377,
+        "rms_db": -31.64980502876498,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 1.15,
+        "duration": 1.0389,
+        "source_start": 5.1962,
+        "rms_db": -31.590551297503676,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 4.52238030168423,
+        "duration": 0.753,
+        "source_start": 0.2792,
+        "rms_db": -31.55263796080949,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 8.07793072015859,
+        "duration": 0.9249,
+        "source_start": 9.1971,
+        "rms_db": -32.9479367942995,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 11.611184724256692,
+        "duration": 1.0569,
+        "source_start": 14.4603,
+        "rms_db": -31.61894490256763,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 14.226210777068633,
+        "duration": 0.5526,
+        "source_start": 6.8093,
+        "rms_db": -32.24815796220571,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 16.7927723684983,
+        "duration": 0.6595,
+        "source_start": 4.1277,
+        "rms_db": -32.64696508861988,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "mug",
+        "at": 3.2,
+        "duration": 1.4,
+        "source_start": 6.2955,
+        "rms_db": -27,
+        "pan": -0.0827786971659864,
+        "band_hz": null
+      },
+      {
+        "source": "mug",
+        "at": 12.4,
+        "duration": 1.4,
+        "source_start": 1.2334,
+        "rms_db": -27,
+        "pan": -0.4316772687613012,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 7.9,
+        "duration": 2.0,
+        "source_start": 16.4883,
+        "rms_db": -31,
+        "pan": -0.48109581840250326,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -22,
+    "sha256": "85d5345edfd7701fe935e44844c10859877e09159d43f000140b13538d4269bd"
+  },
+  {
+    "index": 16,
+    "image": "assets/2026/2026_16.webp",
+    "title": "Kocatepe'de Buluşmak",
+    "audio": "assets/2026/audio/2026_16_ambience.mp3",
+    "duration": 18,
+    "note": "Kocatepe karesi kafe masasında; uzak şehir ve içecekler, yürüyüş yok",
+    "events": [
+      {
+        "source": "cafe",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 23.0,
+        "rms_db": -40,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "street",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 60.0,
+        "rms_db": -44,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "womanC",
+        "at": 0.5,
+        "duration": 0.9985,
+        "source_start": 14.8338,
+        "rms_db": -29.410027320792118,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 3.8752248150878166,
+        "duration": 1.0286,
+        "source_start": 15.3574,
+        "rms_db": -29.34469843564139,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 7.442783747053715,
+        "duration": 1.0729,
+        "source_start": 16.2307,
+        "rms_db": -31.169554528404596,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 10.86724479752884,
+        "duration": 0.8991,
+        "source_start": 13.8143,
+        "rms_db": -30.967177520060055,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 13.681437152720346,
+        "duration": 1.1742,
+        "source_start": 12.5896,
+        "rms_db": -29.169226554922528,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.15,
+        "duration": 0.7653,
+        "source_start": 9.4405,
+        "rms_db": -29.614157460091633,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 5.151157479644592,
+        "duration": 0.8097,
+        "source_start": 52.8878,
+        "rms_db": -29.84329043148725,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 8.74038354935912,
+        "duration": 0.5607,
+        "source_start": 22.5532,
+        "rms_db": -30.675620191483198,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 11.878752495634501,
+        "duration": 0.6551,
+        "source_start": 72.5014,
+        "rms_db": -29.23284057981383,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 15.766830071459374,
+        "duration": 0.9309,
+        "source_start": 49.3067,
+        "rms_db": -31.843480400218198,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "glass",
+        "at": 1.9,
+        "duration": 1.4,
+        "source_start": 25.6607,
+        "rms_db": -26,
+        "pan": -0.34438644457668566,
+        "band_hz": null
+      },
+      {
+        "source": "glass",
+        "at": 10.8,
+        "duration": 1.4,
+        "source_start": 32.0008,
+        "rms_db": -26,
+        "pan": -0.12583172600512083,
+        "band_hz": null
+      },
+      {
+        "source": "dishes",
+        "at": 6.1,
+        "duration": 1.5,
+        "source_start": 25.8555,
+        "rms_db": -30,
+        "pan": -0.2017290698125156,
+        "band_hz": null
+      },
+      {
+        "source": "dishes",
+        "at": 15.5,
+        "duration": 1.5,
+        "source_start": 59.3132,
+        "rms_db": -30,
+        "pan": 0.21715021222636544,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -21,
+    "sha256": "f11437272a8292ffa0d0669f172d5192cf4021554465588a29504a528c7f691f"
+  },
+  {
+    "index": 17,
+    "image": "assets/2026/2026_17.webp",
+    "title": "Onyx Makka",
+    "audio": "assets/2026/audio/2026_17_ambience.mp3",
+    "duration": 18,
+    "note": "Onyx doğum günü masası; küçük grup, pasta tabağı ve kısa sevinç",
+    "events": [
+      {
+        "source": "restaurant",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 84.0,
+        "rms_db": -38,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "womanC",
+        "at": 0.5,
+        "duration": 0.5911,
+        "source_start": 13.4223,
+        "rms_db": -31.05229838465903,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 4.403852100972873,
+        "duration": 0.98,
+        "source_start": 16.9318,
+        "rms_db": -29.889624533533443,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 7.064754293398153,
+        "duration": 0.7265,
+        "source_start": 1.8995,
+        "rms_db": -29.941721069311,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 11.138602195696754,
+        "duration": 0.818,
+        "source_start": 6.0202,
+        "rms_db": -29.148359072904842,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 14.38771060303229,
+        "duration": 1.2496,
+        "source_start": 7.4678,
+        "rms_db": -31.120249336974933,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.15,
+        "duration": 1.1392,
+        "source_start": 9.7424,
+        "rms_db": -29.69621166213057,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 5.0217545023664885,
+        "duration": 1.172,
+        "source_start": 61.8229,
+        "rms_db": -30.2682612786406,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 7.969484333071568,
+        "duration": 0.8552,
+        "source_start": 45.8497,
+        "rms_db": -30.51130471012931,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 10.666821270544562,
+        "duration": 1.1601,
+        "source_start": 42.4605,
+        "rms_db": -31.223514223521306,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 14.679150726637685,
+        "duration": 1.1822,
+        "source_start": 46.451,
+        "rms_db": -30.00184740495822,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.8,
+        "duration": 0.6778,
+        "source_start": 36.8181,
+        "rms_db": -30.72186951147968,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 4.865922254077167,
+        "duration": 0.7479,
+        "source_start": 46.8787,
+        "rms_db": -29.645390363902166,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 7.623667900432964,
+        "duration": 0.9234,
+        "source_start": 66.6052,
+        "rms_db": -29.724920580812405,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 10.730336602095942,
+        "duration": 0.8432,
+        "source_start": 33.3571,
+        "rms_db": -30.778750230829033,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 14.679745371844602,
+        "duration": 0.9452,
+        "source_start": 35.1836,
+        "rms_db": -30.726797691740245,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "laughGroup",
+        "at": 2.6,
+        "duration": 3.1,
+        "source_start": 8.0,
+        "rms_db": -26,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "plates",
+        "at": 6.5,
+        "duration": 1.7,
+        "source_start": 43.4736,
+        "rms_db": -27,
+        "pan": -0.1369212518456624,
+        "band_hz": null
+      },
+      {
+        "source": "plates",
+        "at": 14.1,
+        "duration": 1.7,
+        "source_start": 49.7099,
+        "rms_db": -27,
+        "pan": 0.23216643075355858,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 10.4,
+        "duration": 2.0,
+        "source_start": 12.0,
+        "rms_db": -28,
+        "pan": 0,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -21,
+    "sha256": "a72861c5576216d1c33e22d09f2b2a0cf8f69ece7de48c629f825a9dc8196c2c"
+  },
+  {
+    "index": 18,
+    "image": "assets/2026/2026_18.webp",
+    "title": "Nehir'in Odasında Bir Akşam",
+    "audio": "assets/2026/audio/2026_18_ambience.mp3",
+    "duration": 18,
+    "note": "Yatakta üç arkadaş video izliyor; kumaş, kısa gülüş; video sesi yok",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 5.0,
+        "rms_db": -43,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "friends",
+        "at": 0.5,
+        "duration": 0.8115,
+        "source_start": 47.4763,
+        "rms_db": -34.31737234885611,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 3.524659303613124,
+        "duration": 0.8881,
+        "source_start": 6.5003,
+        "rms_db": -32.6339316800005,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 6.613671493024993,
+        "duration": 0.5343,
+        "source_start": 10.4561,
+        "rms_db": -32.740682869473105,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 9.273580504904169,
+        "duration": 0.9379,
+        "source_start": 57.1706,
+        "rms_db": -32.882346053584556,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 11.90775600158446,
+        "duration": 1.0719,
+        "source_start": 43.4159,
+        "rms_db": -33.335141098917774,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 15.278963259682213,
+        "duration": 0.7719,
+        "source_start": 16.4573,
+        "rms_db": -32.17150153992304,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.15,
+        "duration": 0.8638,
+        "source_start": 68.0342,
+        "rms_db": -34.883106227149874,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 4.016499627347555,
+        "duration": 1.0106,
+        "source_start": 15.7354,
+        "rms_db": -33.32265562614693,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 7.31124255970974,
+        "duration": 1.1106,
+        "source_start": 33.5797,
+        "rms_db": -34.518074643067465,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 9.736641553498433,
+        "duration": 0.8051,
+        "source_start": 74.4661,
+        "rms_db": -32.9678146916979,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 13.325170871365414,
+        "duration": 1.1774,
+        "source_start": 53.1526,
+        "rms_db": -33.41561996441475,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 16.752388504830886,
+        "duration": 1.0958,
+        "source_start": 41.8518,
+        "rms_db": -32.518614537413974,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 1.8,
+        "duration": 0.7793,
+        "source_start": 14.2009,
+        "rms_db": -33.636043441312566,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 5.877840797514915,
+        "duration": 0.9983,
+        "source_start": 12.8893,
+        "rms_db": -32.9869847548696,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 8.967967902143261,
+        "duration": 1.1079,
+        "source_start": 5.6177,
+        "rms_db": -32.287647107832356,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 12.551563447736363,
+        "duration": 0.5633,
+        "source_start": 13.0253,
+        "rms_db": -33.519721617416835,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 16.620562668247203,
+        "duration": 1.0856,
+        "source_start": 17.4755,
+        "rms_db": -32.71193292765031,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "blanket",
+        "at": 1.6,
+        "duration": 1.8,
+        "source_start": 0.2482,
+        "rms_db": -27,
+        "pan": -0.1569649701518243,
+        "band_hz": null
+      },
+      {
+        "source": "blanket",
+        "at": 10.5,
+        "duration": 1.8,
+        "source_start": 0.195,
+        "rms_db": -27,
+        "pan": 0.0005842734254604132,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 6.3,
+        "duration": 2.0,
+        "source_start": 29.1583,
+        "rms_db": -30,
+        "pan": -0.3994491327574444,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 14.2,
+        "duration": 2.0,
+        "source_start": 25.1454,
+        "rms_db": -30,
+        "pan": -0.422025178434161,
+        "band_hz": null
+      },
+      {
+        "source": "laugh",
+        "at": 7.4,
+        "duration": 2.0,
+        "source_start": 6.0,
+        "rms_db": -27,
+        "pan": 0,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -23,
+    "sha256": "975e4d851d7dc12cc4036d99a740cfa50bd731c9fa2d155a891e9a535163c206"
+  },
+  {
+    "index": 19,
+    "image": "assets/2026/2026_19.webp",
+    "title": "Madrid'de Ajanda Molası",
+    "audio": "assets/2026/audio/2026_19_ambience.mp3",
+    "duration": 18,
+    "note": "Madrid kafesinde ajanda; sayfa, kalem ve fincan önde",
+    "events": [
+      {
+        "source": "cafe",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 55.0,
+        "rms_db": -42,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "friends",
+        "at": 0.5,
+        "duration": 0.9697,
+        "source_start": 6.0172,
+        "rms_db": -35.04447813267904,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 4.418278293416854,
+        "duration": 0.6388,
+        "source_start": 16.715,
+        "rms_db": -35.96690757274416,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 8.494013709703403,
+        "duration": 0.8909,
+        "source_start": 70.6227,
+        "rms_db": -36.09955772686478,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 11.004790863414614,
+        "duration": 0.6295,
+        "source_start": 61.5141,
+        "rms_db": -35.03251143935858,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 14.975446042142107,
+        "duration": 0.5741,
+        "source_start": 38.2242,
+        "rms_db": -35.17625803063309,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 1.15,
+        "duration": 0.7071,
+        "source_start": 5.6301,
+        "rms_db": -34.60131402648607,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 4.040844286038909,
+        "duration": 0.6298,
+        "source_start": 2.0016,
+        "rms_db": -34.484327679357584,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 7.084842880900454,
+        "duration": 0.5757,
+        "source_start": 2.9064,
+        "rms_db": -34.48742814556488,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 9.872064229035567,
+        "duration": 0.9489,
+        "source_start": 7.7938,
+        "rms_db": -34.95934346881313,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 12.471230203292784,
+        "duration": 0.7855,
+        "source_start": 13.729,
+        "rms_db": -35.1724308868858,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 14.95755928162627,
+        "duration": 0.7393,
+        "source_start": 4.8631,
+        "rms_db": -35.436725124366745,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.8,
+        "duration": 0.9502,
+        "source_start": 28.7009,
+        "rms_db": -35.394562815322445,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 4.731541646626464,
+        "duration": 0.9621,
+        "source_start": 42.9129,
+        "rms_db": -34.959372290208876,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 7.358828141100638,
+        "duration": 0.6585,
+        "source_start": 4.8027,
+        "rms_db": -36.178703485003226,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 10.753974728404915,
+        "duration": 1.0332,
+        "source_start": 14.3349,
+        "rms_db": -35.557835707157835,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 14.310509768541271,
+        "duration": 0.727,
+        "source_start": 28.8869,
+        "rms_db": -36.804794159114806,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "page",
+        "at": 0.9,
+        "duration": 1.6,
+        "source_start": 0.2531,
+        "rms_db": -25,
+        "pan": -0.2579470382639064,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 6.2,
+        "duration": 1.6,
+        "source_start": 1.35,
+        "rms_db": -25,
+        "pan": -0.38873094405114117,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 13.4,
+        "duration": 1.6,
+        "source_start": 1.371,
+        "rms_db": -25,
+        "pan": 0.040847892496531646,
+        "band_hz": null
+      },
+      {
+        "source": "pencil",
+        "at": 3.4,
+        "duration": 1.8,
+        "source_start": 2.6211,
+        "rms_db": -28,
+        "pan": 0.14800248394297943,
+        "band_hz": null
+      },
+      {
+        "source": "pencil",
+        "at": 9.7,
+        "duration": 1.8,
+        "source_start": 14.0706,
+        "rms_db": -28,
+        "pan": 0.30109810691476613,
+        "band_hz": null
+      },
+      {
+        "source": "pencil",
+        "at": 15.7,
+        "duration": 1.8,
+        "source_start": 5.5698,
+        "rms_db": -28,
+        "pan": -0.22770913787938385,
+        "band_hz": null
+      },
+      {
+        "source": "mug",
+        "at": 8.4,
+        "duration": 1.3,
+        "source_start": 17.993,
+        "rms_db": -29,
+        "pan": -0.49051957257028755,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -22,
+    "sha256": "35ec174dbff0d859cb5b4cdcaab6f2d264eed755510b1ff0ceee9e44011d6b3c"
+  },
+  {
+    "index": 20,
+    "image": "assets/2026/2026_20.webp",
+    "title": "Üçümüz Toy Story'de",
+    "audio": "assets/2026/audio/2026_20_ambience.mp3",
+    "duration": 18,
+    "note": "Toy Story fuayesi; üç arkadaşın kısa neşesi, bilet ve ambalaj",
+    "events": [
+      {
+        "source": "crowd3",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 76.0,
+        "rms_db": -38,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "friends",
+        "at": 0.5,
+        "duration": 0.981,
+        "source_start": 2.107,
+        "rms_db": -33.55690678997936,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 4.033215914551856,
+        "duration": 0.7901,
+        "source_start": 32.5433,
+        "rms_db": -32.50729387085187,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 7.816362177172938,
+        "duration": 0.8271,
+        "source_start": 61.7884,
+        "rms_db": -31.286273053042542,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 10.320865099422013,
+        "duration": 1.2222,
+        "source_start": 57.8552,
+        "rms_db": -33.44427284285983,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 14.267305832095559,
+        "duration": 1.1861,
+        "source_start": 64.5037,
+        "rms_db": -32.60578066183342,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.15,
+        "duration": 1.2399,
+        "source_start": 50.0526,
+        "rms_db": -33.58787761729557,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 4.5527302804366165,
+        "duration": 0.5813,
+        "source_start": 16.9428,
+        "rms_db": -31.163694463473615,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 7.404187318196017,
+        "duration": 0.6641,
+        "source_start": 57.5172,
+        "rms_db": -33.33896370693037,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 11.029617771626114,
+        "duration": 0.5106,
+        "source_start": 2.2663,
+        "rms_db": -32.296708519555295,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 14.985687597937705,
+        "duration": 0.6638,
+        "source_start": 17.3481,
+        "rms_db": -31.750425153782626,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 1.8,
+        "duration": 1.0113,
+        "source_start": 12.9235,
+        "rms_db": -32.96038707874997,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 5.586158498887545,
+        "duration": 0.7428,
+        "source_start": 14.7279,
+        "rms_db": -32.320176214548205,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 8.830213630646744,
+        "duration": 0.871,
+        "source_start": 8.7525,
+        "rms_db": -33.689753260790326,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 12.899314416073869,
+        "duration": 0.9807,
+        "source_start": 7.1281,
+        "rms_db": -33.942448865583465,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 15.922245667065983,
+        "duration": 0.939,
+        "source_start": 11.8797,
+        "rms_db": -31.577344421422893,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "laugh",
+        "at": 6.345581220295749,
+        "duration": 2.1,
+        "source_start": 4.3466,
+        "rms_db": -30,
+        "pan": 0.15,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 2.8,
+        "duration": 1.0,
+        "source_start": 1.906,
+        "rms_db": -28,
+        "pan": 0.3038324818229352,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 10.6,
+        "duration": 1.0,
+        "source_start": 1.9153,
+        "rms_db": -28,
+        "pan": 0.08376349772061886,
+        "band_hz": null
+      },
+      {
+        "source": "rustle",
+        "at": 6.6,
+        "duration": 1.7,
+        "source_start": 13.462,
+        "rms_db": -28,
+        "pan": 0.4908815704792695,
+        "band_hz": null
+      },
+      {
+        "source": "rustle",
+        "at": 15,
+        "duration": 1.7,
+        "source_start": 10.5762,
+        "rms_db": -28,
+        "pan": 0.18768586437678003,
+        "band_hz": null
+      },
+      {
+        "source": "heels",
+        "at": 12,
+        "duration": 1.7,
+        "source_start": 3.3892,
+        "rms_db": -32,
+        "pan": -0.3215045417500553,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -21,
+    "sha256": "bead5801398426948ddc207220852605843bc594b7872339baa74563899e71dc"
+  },
+  {
+    "index": 21,
+    "image": "assets/2026/2026_21.webp",
+    "title": "Clinic'te Uzayan Sohbetler",
+    "audio": "assets/2026/audio/2026_21_ambience.mp3",
+    "duration": 18,
+    "note": "Clinic akşamı; üç ses, yavaş fincan hareketleri ve sandalye",
+    "events": [
+      {
+        "source": "cafe",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 8.0,
+        "rms_db": -42,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "womanC",
+        "at": 0.5,
+        "duration": 0.6521,
+        "source_start": 6.4312,
+        "rms_db": -32.04516362711284,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 3.604803304567521,
+        "duration": 1.0121,
+        "source_start": 7.5029,
+        "rms_db": -32.26174375829795,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 7.149028731363218,
+        "duration": 0.6305,
+        "source_start": 8.7759,
+        "rms_db": -33.63826478049487,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 9.865555422538183,
+        "duration": 0.7792,
+        "source_start": 17.1004,
+        "rms_db": -33.4881137986037,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 12.704732770717886,
+        "duration": 0.6708,
+        "source_start": 12.6075,
+        "rms_db": -32.432220510247056,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 16.147357559868354,
+        "duration": 0.5964,
+        "source_start": 5.9673,
+        "rms_db": -31.989823527820555,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.15,
+        "duration": 0.524,
+        "source_start": 64.7561,
+        "rms_db": -32.237634933253545,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 4.761935954778105,
+        "duration": 0.6886,
+        "source_start": 50.5259,
+        "rms_db": -31.5691183164462,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 8.818058311315871,
+        "duration": 0.9316,
+        "source_start": 24.8272,
+        "rms_db": -31.195661456478945,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 12.618774532728866,
+        "duration": 0.9323,
+        "source_start": 5.1751,
+        "rms_db": -31.116514022027015,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 16.490647230380826,
+        "duration": 0.6564,
+        "source_start": 15.0311,
+        "rms_db": -31.78187488299631,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.8,
+        "duration": 0.7709,
+        "source_start": 1.751,
+        "rms_db": -31.341603816993263,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 5.588289018588695,
+        "duration": 0.8245,
+        "source_start": 22.2713,
+        "rms_db": -32.45783575680113,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 8.479389797631217,
+        "duration": 1.0348,
+        "source_start": 40.8273,
+        "rms_db": -33.26646779739004,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 11.125381970883144,
+        "duration": 0.8632,
+        "source_start": 4.0362,
+        "rms_db": -32.56289357727134,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 15.077544042540723,
+        "duration": 0.6805,
+        "source_start": 41.0484,
+        "rms_db": -32.02469526219896,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "mug",
+        "at": 2.2,
+        "duration": 1.6,
+        "source_start": 8.0442,
+        "rms_db": -27,
+        "pan": 0.3052032060539208,
+        "band_hz": null
+      },
+      {
+        "source": "mug",
+        "at": 12.9,
+        "duration": 1.6,
+        "source_start": 0.9942,
+        "rms_db": -27,
+        "pan": -0.3255842527356866,
+        "band_hz": null
+      },
+      {
+        "source": "chair",
+        "at": 7.7,
+        "duration": 1.5,
+        "source_start": 30.2452,
+        "rms_db": -31,
+        "pan": 0.28597971803621225,
+        "band_hz": null
+      },
+      {
+        "source": "glass",
+        "at": 16.3,
+        "duration": 1.0,
+        "source_start": 32.5081,
+        "rms_db": -30,
+        "pan": 0.32232720275636484,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -22.5,
+    "sha256": "7d59551b8fcb60cf6622268903e7bf1b4c985b3ee01bf32415f975f2ba9cd1e5"
+  },
+  {
+    "index": 22,
+    "image": "assets/2026/2026_22.webp",
+    "title": "Nehir Dünyayı Keşfederken I",
+    "audio": "assets/2026/audio/2026_22_ambience.mp3",
+    "duration": 18,
+    "note": "Tarihî yaya meydanı; adımlar, uzak konuşmalar; tren/deniz yok",
+    "events": [
+      {
+        "source": "crowd2",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 52.0,
+        "rms_db": -32,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "outdoor",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 10.0,
+        "rms_db": -42,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "stone",
+        "at": 1.6,
+        "duration": 2.7,
+        "source_start": 1.3341,
+        "rms_db": -29,
+        "pan": -0.09706111014922214,
+        "band_hz": null
+      },
+      {
+        "source": "stone",
+        "at": 7.4,
+        "duration": 2.7,
+        "source_start": 7.5514,
+        "rms_db": -29,
+        "pan": 0.45204377166050413,
+        "band_hz": null
+      },
+      {
+        "source": "stone",
+        "at": 13.6,
+        "duration": 2.7,
+        "source_start": 7.4905,
+        "rms_db": -29,
+        "pan": -0.3939112445012244,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -22,
+    "sha256": "36808d2d2232e0bad7c13b9e4d97b8b643ce6c5d19a5c80c18ec595729e10cd7"
+  },
+  {
+    "index": 23,
+    "image": "assets/2026/2026_23.webp",
+    "title": "Nehir Dünyayı Keşfederken II",
+    "audio": "assets/2026/audio/2026_23_ambience.mp3",
+    "duration": 18,
+    "note": "Tramvaylı şehir caddesi; tek tramvay kalkışı, yol ve yayalar",
+    "events": [
+      {
+        "source": "street",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 21.0,
+        "rms_db": -38,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "tram",
+        "at": 2.4,
+        "duration": 12.672,
+        "source_start": 0.0,
+        "rms_db": -26,
+        "pan": 0.35,
+        "band_hz": null
+      },
+      {
+        "source": "crowd2",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 19.0,
+        "rms_db": -43,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "stone",
+        "at": 0.8,
+        "duration": 1.9,
+        "source_start": 24.2205,
+        "rms_db": -33,
+        "pan": -0.1257230778871885,
+        "band_hz": null
+      },
+      {
+        "source": "stone",
+        "at": 15.6,
+        "duration": 1.9,
+        "source_start": 22.4567,
+        "rms_db": -33,
+        "pan": -0.35759312421687084,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -22,
+    "sha256": "a95ae97f82786362bae6de4810496f6f4e45f18f4626cf9128906841ea773110"
+  },
+  {
+    "index": 24,
+    "image": "assets/2026/2026_24.webp",
+    "title": "Kuaförde Bir Değişiklik",
+    "audio": "assets/2026/audio/2026_24_ambience.mp3",
+    "duration": 18,
+    "note": "Kuaför; makas önde, kısa ve uzakta saç kurutma, hafif konuşma",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 0.0,
+        "rms_db": -43,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "friends",
+        "at": 0.5,
+        "duration": 0.555,
+        "source_start": 10.8502,
+        "rms_db": -36.248818583722795,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 3.2427281017386496,
+        "duration": 0.7876,
+        "source_start": 66.118,
+        "rms_db": -35.89770985320161,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 7.33544679893051,
+        "duration": 0.824,
+        "source_start": 32.7194,
+        "rms_db": -36.17904734406498,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 10.049628577994438,
+        "duration": 0.9876,
+        "source_start": 18.8949,
+        "rms_db": -36.25765956729577,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 13.437769982885676,
+        "duration": 0.7129,
+        "source_start": 9.5757,
+        "rms_db": -34.071392779678895,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 16.65602698132355,
+        "duration": 0.5443,
+        "source_start": 37.322,
+        "rms_db": -35.107571146768464,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.15,
+        "duration": 0.6326,
+        "source_start": 70.3604,
+        "rms_db": -34.731370835497835,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 4.00665405732767,
+        "duration": 0.8671,
+        "source_start": 37.9647,
+        "rms_db": -34.166903199857074,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 7.4705372032101085,
+        "duration": 1.1577,
+        "source_start": 25.6491,
+        "rms_db": -35.630629036824224,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 10.808847642289084,
+        "duration": 1.2288,
+        "source_start": 11.6838,
+        "rms_db": -34.00201367106841,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 14.881459807555105,
+        "duration": 0.724,
+        "source_start": 1.0555,
+        "rms_db": -35.95474046588961,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "scissors",
+        "at": 0.7,
+        "duration": 5.7,
+        "source_start": 0.0,
+        "rms_db": -25,
+        "pan": -0.35,
+        "band_hz": null
+      },
+      {
+        "source": "scissors",
+        "at": 11.3,
+        "duration": 5.0,
+        "source_start": 7.0,
+        "rms_db": -27,
+        "pan": 0.3,
+        "band_hz": null
+      },
+      {
+        "source": "dryer",
+        "at": 5.8,
+        "duration": 5.8,
+        "source_start": 9.0,
+        "rms_db": -32,
+        "pan": 0.65,
+        "band_hz": [
+          100,
+          6500
+        ]
+      }
+    ],
+    "target_lufs": -22,
+    "sha256": "b145c6c6b1e94e24432ce5f666d1e84d7e2e8b745be03e80c176435d0592c6f0"
+  },
+  {
+    "index": 25,
+    "image": "assets/2026/2026_25.webp",
+    "title": "IF'de Kocaman Bir Sofra",
+    "audio": "assets/2026/audio/2026_25_ambience.mp3",
+    "duration": 18,
+    "note": "IF büyük yemek masası; yoğun servis, farklı sohbet aralıkları ve gülüş",
+    "events": [
+      {
+        "source": "restaurant",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 119.0,
+        "rms_db": -33,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "womanC",
+        "at": 0.5,
+        "duration": 1.1517,
+        "source_start": 6.0679,
+        "rms_db": -30.593342761406163,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 3.331388286732909,
+        "duration": 0.8058,
+        "source_start": 1.4388,
+        "rms_db": -29.198488733305858,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 6.009760366113837,
+        "duration": 0.9284,
+        "source_start": 6.3434,
+        "rms_db": -28.571222584144312,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 9.385080569741458,
+        "duration": 1.0463,
+        "source_start": 7.5875,
+        "rms_db": -29.853170930916047,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 12.668010600372876,
+        "duration": 1.2308,
+        "source_start": 8.515,
+        "rms_db": -30.09161685398051,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "womanC",
+        "at": 16.69154029592319,
+        "duration": 1.1841,
+        "source_start": 13.5085,
+        "rms_db": -28.2303534302978,
+        "pan": -0.55,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.15,
+        "duration": 0.7148,
+        "source_start": 5.6874,
+        "rms_db": -28.206982251238585,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 3.9312015447886033,
+        "duration": 0.6833,
+        "source_start": 21.2973,
+        "rms_db": -28.17760614978865,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 7.372307451409428,
+        "duration": 0.704,
+        "source_start": 36.141,
+        "rms_db": -30.437099448020522,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 10.16402488129977,
+        "duration": 0.7938,
+        "source_start": 16.12,
+        "rms_db": -30.144517856722103,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 13.189126401862424,
+        "duration": 1.2427,
+        "source_start": 66.3824,
+        "rms_db": -30.29505216515964,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 16.311001179679124,
+        "duration": 0.6448,
+        "source_start": 30.6582,
+        "rms_db": -30.142918716393627,
+        "pan": -0.07500000000000007,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 1.8,
+        "duration": 1.0724,
+        "source_start": 15.2234,
+        "rms_db": -28.175907891356644,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 5.809782430901376,
+        "duration": 1.0645,
+        "source_start": 22.2167,
+        "rms_db": -29.892943537906714,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 8.936987830332232,
+        "duration": 0.9614,
+        "source_start": 60.6681,
+        "rms_db": -29.184390584097972,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 12.029159213959943,
+        "duration": 0.6628,
+        "source_start": 73.5547,
+        "rms_db": -28.21766553304525,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "friends",
+        "at": 14.564912378166493,
+        "duration": 0.6969,
+        "source_start": 13.4907,
+        "rms_db": -28.331203612050935,
+        "pan": 0.3999999999999999,
+        "band_hz": [
+          220,
+          3200
+        ]
+      },
+      {
+        "source": "dishes",
+        "at": 1.1,
+        "duration": 1.7,
+        "source_start": 17.2808,
+        "rms_db": -26,
+        "pan": -0.009490976732731249,
+        "band_hz": null
+      },
+      {
+        "source": "dishes",
+        "at": 7.7,
+        "duration": 1.7,
+        "source_start": 36.9912,
+        "rms_db": -26,
+        "pan": -0.37476601574523216,
+        "band_hz": null
+      },
+      {
+        "source": "dishes",
+        "at": 13.6,
+        "duration": 1.7,
+        "source_start": 44.2503,
+        "rms_db": -26,
+        "pan": -0.17217520638975503,
+        "band_hz": null
+      },
+      {
+        "source": "glasses",
+        "at": 4.5,
+        "duration": 1.4,
+        "source_start": 16.127,
+        "rms_db": -28,
+        "pan": 0.360258016638371,
+        "band_hz": null
+      },
+      {
+        "source": "glasses",
+        "at": 10.8,
+        "duration": 1.4,
+        "source_start": 30.3018,
+        "rms_db": -28,
+        "pan": -0.02734394134349094,
+        "band_hz": null
+      },
+      {
+        "source": "laughGroup",
+        "at": 14.3,
+        "duration": 3.0,
+        "source_start": 3.0,
+        "rms_db": -27,
+        "pan": 0,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -20.5,
+    "sha256": "3c1114e9ec77229bba47b46f71298dc00ea2fb7fa93cd34dfc6357ffa61c45cf"
+  },
+  {
+    "index": 26,
+    "image": "assets/2026/2026_26.webp",
+    "title": "Nehir'e Küçük Sürprizlerim",
+    "audio": "assets/2026/audio/2026_26_ambience.mp3",
+    "duration": 18,
+    "note": "Hediyeler yakın planda; kutu kapağı, kart ve kurdele; insan sesi yok",
+    "events": [
+      {
+        "source": "room",
+        "at": 0,
+        "duration": 18.6,
+        "source_start": 12.4476,
+        "rms_db": -43,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "boxOpen",
+        "at": 0.8,
+        "duration": 0.9,
+        "source_start": 0.0,
+        "rms_db": -26,
+        "pan": 0,
+        "band_hz": null
+      },
+      {
+        "source": "giftwrap",
+        "at": 3.5,
+        "duration": 2.5,
+        "source_start": 39.9705,
+        "rms_db": -26,
+        "pan": 0.22375461911800154,
+        "band_hz": null
+      },
+      {
+        "source": "giftwrap",
+        "at": 11.3,
+        "duration": 2.5,
+        "source_start": 81.9942,
+        "rms_db": -26,
+        "pan": 0.390755880487076,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 7,
+        "duration": 1.5,
+        "source_start": 1.4634,
+        "rms_db": -27,
+        "pan": -0.161116921027592,
+        "band_hz": null
+      },
+      {
+        "source": "page",
+        "at": 15.4,
+        "duration": 1.5,
+        "source_start": 1.4863,
+        "rms_db": -27,
+        "pan": 0.03430026333220548,
+        "band_hz": null
+      },
+      {
+        "source": "fabric",
+        "at": 9.4,
+        "duration": 1.7,
+        "source_start": 52.7183,
+        "rms_db": -31,
+        "pan": 0.2025005124151501,
+        "band_hz": null
+      }
+    ],
+    "target_lufs": -23,
+    "sha256": "abf6d8569eb1bed3649b72399da76fd52192d9b3f94f2b71e8482359e94daa18"
+  }
+]
