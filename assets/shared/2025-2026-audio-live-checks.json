@@ -1,0 +1,681 @@
+{
+  "date": "2026-10-22",
+  "application_commit": "d8dac7ba401a5a9c9a3f9f52ad1c432ff68b2172",
+  "mode": "Live cloud Chrome, user-interface navigation; no audio listening test",
+  "scenes": [
+    {
+      "year": 2025,
+      "index": 1,
+      "audio": "assets/2025/audio/2025_01_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 2,
+      "audio": "assets/2025/audio/2025_02_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 3,
+      "audio": "assets/2025/audio/2025_03_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 4,
+      "audio": "assets/2025/audio/2025_04_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 5,
+      "audio": "assets/2025/audio/2025_05_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 6,
+      "audio": "assets/2025/audio/2025_06_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 7,
+      "audio": "assets/2025/audio/2025_07_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 8,
+      "audio": "assets/2025/audio/2025_08_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 9,
+      "audio": "assets/2025/audio/2025_09_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 10,
+      "audio": "assets/2025/audio/2025_10_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 11,
+      "audio": "assets/2025/audio/2025_11_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 12,
+      "audio": "assets/2025/audio/2025_12_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 13,
+      "audio": "assets/2025/audio/2025_13_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 14,
+      "audio": "assets/2025/audio/2025_14_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 15,
+      "audio": "assets/2025/audio/2025_15_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 16,
+      "audio": "assets/2025/audio/2025_16_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 17,
+      "audio": "assets/2025/audio/2025_17_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 18,
+      "audio": "assets/2025/audio/2025_18_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 19,
+      "audio": "assets/2025/audio/2025_19_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 20,
+      "audio": "assets/2025/audio/2025_20_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 21,
+      "audio": "assets/2025/audio/2025_21_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 22,
+      "audio": "assets/2025/audio/2025_22_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 23,
+      "audio": "assets/2025/audio/2025_23_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 24,
+      "audio": "assets/2025/audio/2025_24_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 25,
+      "audio": "assets/2025/audio/2025_25_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 26,
+      "audio": "assets/2025/audio/2025_26_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 27,
+      "audio": "assets/2025/audio/2025_27_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2025,
+      "index": 28,
+      "audio": "assets/2025/audio/2025_28_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 1,
+      "audio": "assets/2026/audio/2026_01_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 2,
+      "audio": "assets/2026/audio/2026_02_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 3,
+      "audio": "assets/2026/audio/2026_03_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 4,
+      "audio": "assets/2026/audio/2026_04_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 5,
+      "audio": "assets/2026/audio/2026_05_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 6,
+      "audio": "assets/2026/audio/2026_06_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 7,
+      "audio": "assets/2026/audio/2026_07_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 8,
+      "audio": "assets/2026/audio/2026_08_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 9,
+      "audio": "assets/2026/audio/2026_09_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 10,
+      "audio": "assets/2026/audio/2026_10_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 11,
+      "audio": "assets/2026/audio/2026_11_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 12,
+      "audio": "assets/2026/audio/2026_12_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 13,
+      "audio": "assets/2026/audio/2026_13_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 14,
+      "audio": "assets/2026/audio/2026_14_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 15,
+      "audio": "assets/2026/audio/2026_15_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 16,
+      "audio": "assets/2026/audio/2026_16_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 17,
+      "audio": "assets/2026/audio/2026_17_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 18,
+      "audio": "assets/2026/audio/2026_18_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 19,
+      "audio": "assets/2026/audio/2026_19_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 20,
+      "audio": "assets/2026/audio/2026_20_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 21,
+      "audio": "assets/2026/audio/2026_21_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 22,
+      "audio": "assets/2026/audio/2026_22_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 23,
+      "audio": "assets/2026/audio/2026_23_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 24,
+      "audio": "assets/2026/audio/2026_24_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 25,
+      "audio": "assets/2026/audio/2026_25_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    },
+    {
+      "year": 2026,
+      "index": 26,
+      "audio": "assets/2026/audio/2026_26_ambience.mp3",
+      "live_chrome_playback_marker_confirmed": true
+    }
+  ],
+  "exit_marker_cleared": [
+    2025,
+    2026
+  ],
+  "reopen_first_scene_confirmed": [
+    2026
+  ],
+  "piano_enabled_after_exit": true,
+  "lastbook_transition_opened": true,
+  "lastbook_scene_audio_markers": 0,
+  "scene_audio_console_errors": 0,
+  "physical_mobile_test": false,
+  "listening_test": false,
+  "initial_deployment_files": [
+    {
+      "path": "assets/2025/audio/2025_01_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_02_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_03_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_04_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_05_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_06_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_07_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_08_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_09_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_10_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_11_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_12_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_13_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_14_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_15_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_16_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_17_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_18_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_19_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_20_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_21_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_22_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_23_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_24_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_25_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_26_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_27_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/2025_28_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2025/audio/credits.html",
+      "match": true,
+      "bytes": 12944
+    },
+    {
+      "path": "assets/2025/audio/mix-manifest.json",
+      "match": true,
+      "bytes": 105752
+    },
+    {
+      "path": "assets/2025/audio/runtime-checks.json",
+      "match": true,
+      "bytes": 526
+    },
+    {
+      "path": "assets/2025/audio/sources.json",
+      "match": true,
+      "bytes": 20108
+    },
+    {
+      "path": "assets/2025/audio/technical-checks.json",
+      "match": true,
+      "bytes": 9441
+    },
+    {
+      "path": "assets/2026/audio/2026_01_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_02_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_03_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_04_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_05_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_06_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_07_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_08_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_09_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_10_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_11_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_12_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_13_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_14_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_15_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_16_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_17_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_18_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_19_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_20_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_21_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_22_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_23_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_24_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_25_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/2026_26_ambience.mp3",
+      "match": true,
+      "bytes": 289197
+    },
+    {
+      "path": "assets/2026/audio/credits.html",
+      "match": true,
+      "bytes": 12194
+    },
+    {
+      "path": "assets/2026/audio/mix-manifest.json",
+      "match": true,
+      "bytes": 100387
+    },
+    {
+      "path": "assets/2026/audio/runtime-checks.json",
+      "match": true,
+      "bytes": 526
+    },
+    {
+      "path": "assets/2026/audio/sources.json",
+      "match": true,
+      "bytes": 18982
+    },
+    {
+      "path": "assets/2026/audio/technical-checks.json",
+      "match": true,
+      "bytes": 8796
+    },
+    {
+      "path": "assets/shared/scene-audio.js",
+      "match": true,
+      "bytes": 25561
+    },
+    {
+      "path": "nehir_betul_mistik_timeline_v3.html",
+      "match": true,
+      "bytes": 743217
+    },
+    {
+      "path": "assets/shared/2025-2026-audio-report.md",
+      "match": true,
+      "bytes": 14076
+    }
+  ]
+}

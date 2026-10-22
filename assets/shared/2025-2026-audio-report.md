@@ -103,4 +103,18 @@
 - assets/shared/scene-audio.js: iki ana albümün eşleştirmeleri, kaynakları sırayla kapatıp açma ve sınırlı ön yükleme.
 - nehir_betul_mistik_timeline_v3.html: 2026 galeri betiği ses yöneticisinin önüne alındı; ses betiğinin önbellek sürümü güncellendi.
 - assets/shared/2025-2026-audio-report.md: bu rapor.
+- assets/shared/2025-2026-audio-live-checks.json: canlı dosya ve Chrome sahne başlangıç test kaydı.
 - Görseller, galeri başlıkları, sahne sıraları, hikâyeler, galeri tasarımı ve önceki albümlerin dosyaları değiştirilmedi.
+
+## Canlı yayın ve Chrome kontrolü — 22 Ekim 2026
+
+- Uygulama commit'i: d8dac7ba401a5a9c9a3f9f52ad1c432ff68b2172. GitHub Pages iş akışı başarılı tamamlandı.
+- İlk yayın paketindeki 67 dosyanın canlı içerikleri yerel çıktıların hash değerleriyle karşılaştırıldı: 67 / 67 eşleşti. Aşağıdaki test kaydı daha sonra rapora eklendi.
+- Canlı Chrome'da 2025'in 28 ve 2026'nın 26 sahnesi sırayla açıldı. 54 / 54 sahnede doğru MP3 için data-playing-audio işareti görüldü. Bu işaret ses verisi çözüldükten ve Web Audio source.start çağrısından sonra atanır; dinlenerek doğrulama anlamına gelmez.
+- Her iki galeriden çıkışta oynatma işareti kaldırıldı. 2026 yeniden açıldığında 1 / 26 ve ilk ses dosyası geldi.
+- Zaman çizelgesine dönüşte piyano etkinlik durumu true idi. Piyano kaydının fiilen işitildiği veya kesintisizliğinin bu canlı testte dinlendiği iddia edilmez.
+- Son Kitap ışık geçişi ve mevcut önsöz açıldı. Son Kitap açıkken sahne sesine ait oynatma işareti yoktu; piyano etkin durumdaydı. İlgili kodlar değiştirilmedi.
+- Tarayıcı konsolunda Scene audio yükleme uyarısı/hatası yoktu. Chrome uzantısına ait ilgisiz metadata hataları görüldü.
+- Mobil doğrulama 390 px simülasyonudur; fiziksel telefon, Safari ve işitsel kalite kontrolü yapılmadı.
+
+Ayrıntılı canlı dosya kontrolü ve 54 sahne başlangıç kaydı: [2025-2026-audio-live-checks.json](2025-2026-audio-live-checks.json).
